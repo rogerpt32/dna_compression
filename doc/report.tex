@@ -35,12 +35,18 @@ The code of this project is Open Source and can be found in: \url{https://github
 \end{abstract}
 
 \section{Summary}
-\textit{The summary of the paper(s), data structure(s) (10\%)}
-Nowadays, biologists are producing huge volumes of DNA sequences that makes the genome sequence database grow exponentially. Since the amount of data is getting so big, there is the need to find efficient algorithms to compress it. The regular text compression algorithms doesn't perform very well with DNA sequences. Most of the current DNA compression algorithms exploit the repetitive nature of the DNA sequences, but the algorithm presented 
+%\textit{The summary of the paper(s), data structure(s) (10\%)}
+Nowadays, biologists are producing huge volumes of DNA sequences that makes the genome sequence database grow exponentially. Since the amount of data is getting so big, there is the need to find efficient algorithms to compress it. The regular text compression algorithms doesn't perform very well with DNA sequences. Most of the current DNA compression algorithms exploit the repetitive nature of the DNA sequences, but the algorithm presented here is independent to that.
+
+The algorithm to compress basically creates a hash table with all the possible combinations of the for letters (A, C, G and T) as hashkeys, where each hashkey will be represented by only one byte. After that the algorithm scans each group of 4 letters and store the byte given by the hash of it.
+
+The algorithm to decompress, for each byte of the compressed sequence it searches the hashkey associated to it, which will be 4 letters long.
 
 \section{Opinion}
-Your personal evaluation on why the paper(s), data structure(s)
-is (are) relevant (10\%)
+%\textit{Your personal evaluation on why the paper(s), data structure(s) is (are) relevant (10\%)}
+I am not an expert in DNA compression data structures, but I would be surprised if nobody before thought about changing the encoding of the letters to a reduced one. In this paper they claim that their compression has exactly a 75\% rate, but this is assuming that each letter takes 1 byte, which for a total of 4 different letters is obviously a bad encoding. As even they state, since there are only 4 different letters, they can be described with only 2 bits: A (00), C (01), G (10), T (11). Then, why the algorithm needs a hash table in the first place? They could simply change the encoding to the 2 bit one and get exactly the same final size.
+
+In summary, if this 75\% ``compression'' wasn't done before, this paper could be relevant, but with the simplicity of it I doubt there wasn't any encoding before that had achieved the same level of compression using a very similar method.
 
 \section{Experiments}
 \subsection{Design}

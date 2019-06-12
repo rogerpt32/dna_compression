@@ -2,3 +2,5 @@ doc/*
 !doc/*.pdf
 !doc/*.tex
 !doc/*.bib
+data/*
+.vscode
