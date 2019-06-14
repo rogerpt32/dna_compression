@@ -1,0 +1,422 @@
+Experiments\n
+
+Size 2
+
+gzip
+
+real	0m0.004s
+
+compressed
+134
+our
+
+real	0m0.001s
+
+ compressed
+2
+Size 4
+
+gzip
+
+real	0m0.002s
+
+compressed
+136
+our
+
+real	0m0.001s
+
+ compressed
+2
+Size 8
+
+gzip
+
+real	0m0.002s
+
+compressed
+139
+our
+
+real	0m0.001s
+
+ compressed
+3
+Size 16
+
+gzip
+
+real	0m0.003s
+
+compressed
+144
+our
+
+real	0m0.002s
+
+ compressed
+5
+Size 32
+
+gzip
+
+real	0m0.002s
+
+compressed
+151
+our
+
+real	0m0.001s
+
+ compressed
+9
+Size 64
+
+gzip
+
+real	0m0.003s
+
+compressed
+166
+our
+
+real	0m0.001s
+
+ compressed
+17
+Size 128
+
+gzip
+
+real	0m0.003s
+
+compressed
+195
+our
+
+real	0m0.001s
+
+ compressed
+33
+Size 256
+
+gzip
+
+real	0m0.002s
+
+compressed
+250
+our
+
+real	0m0.001s
+
+ compressed
+65
+Size 512
+
+gzip
+
+real	0m0.005s
+
+compressed
+343
+our
+
+real	0m0.001s
+
+ compressed
+129
+Size 1024
+
+gzip
+
+real	0m0.003s
+
+compressed
+528
+our
+
+real	0m0.001s
+
+ compressed
+257
+Size 2048
+
+gzip
+
+real	0m0.002s
+
+compressed
+861
+our
+
+real	0m0.001s
+
+ compressed
+513
+Size 4096
+
+gzip
+
+real	0m0.004s
+
+compressed
+1513
+our
+
+real	0m0.001s
+
+ compressed
+1025
+Size 8192
+
+gzip
+
+real	0m0.003s
+
+compressed
+2775
+our
+
+real	0m0.001s
+
+ compressed
+2049
+Size 16384
+
+gzip
+
+real	0m0.004s
+
+compressed
+5266
+our
+
+real	0m0.001s
+
+ compressed
+4097
+Size 32768
+
+gzip
+
+real	0m0.007s
+
+compressed
+10125
+our
+
+real	0m0.001s
+
+ compressed
+8193
+Size 65536
+
+gzip
+
+real	0m0.010s
+
+compressed
+19740
+our
+
+real	0m0.005s
+
+ compressed
+16385
+Size 131072
+
+gzip
+
+real	0m0.018s
+
+compressed
+38887
+our
+
+real	0m0.001s
+
+ compressed
+32769
+Size 262144
+
+gzip
+
+real	0m0.035s
+
+compressed
+77180
+our
+
+real	0m0.002s
+
+ compressed
+65537
+Size 524288
+
+gzip
+
+real	0m0.055s
+
+compressed
+153895
+our
+
+real	0m0.004s
+
+ compressed
+131073
+Size 1048576
+
+gzip
+
+real	0m0.122s
+
+compressed
+307077
+our
+
+real	0m0.006s
+
+ compressed
+262145
+Size 2097152
+
+gzip
+
+real	0m0.210s
+
+compressed
+613489
+our
+
+real	0m0.012s
+
+ compressed
+524289
+Size 4194304
+
+gzip
+
+real	0m0.461s
+
+compressed
+1226256
+our
+
+real	0m0.025s
+
+ compressed
+1048577
+Size 8388608
+
+gzip
+
+real	0m0.840s
+
+compressed
+2452124
+our
+
+real	0m0.050s
+
+ compressed
+2097153
+Size 16777216
+
+gzip
+
+real	0m1.924s
+
+compressed
+4903402
+our
+
+real	0m0.097s
+
+ compressed
+4194305
+Size 33554432
+
+gzip
+
+real	0m3.254s
+
+compressed
+9805318
+our
+
+real	0m0.215s
+
+ compressed
+8388609
+Size 67108864
+
+gzip
+
+real	0m6.995s
+
+compressed
+19611465
+our
+
+real	0m0.427s
+
+ compressed
+16777217
+Size 134217728
+
+gzip
+
+real	0m13.263s
+
+compressed
+39221499
+our
+
+real	0m0.913s
+
+ compressed
+33554433
+Size 268435456
+
+gzip
+
+real	0m26.241s
+
+compressed
+78441007
+our
+
+real	0m1.979s
+
+ compressed
+67108865
+Size 536870912
+
+gzip
+
+real	0m51.970s
+
+compressed
+156882291
+our
+
+real	0m3.910s
+
+ compressed
+134217729
+Size 1073741824
+
+gzip
+
+real	1m58.491s
+
+compressed
+313769662
+our
+
+real	0m9.602s
+
+ compressed
+268435457
