@@ -1,422 +1,8102 @@
-Experiments\n
+Experiments
+
 
 Size 2
 
-gzip
-
-real	0m0.004s
-
-compressed
-134
-our
-
+gzip:
+real	0m0.002s
+compr 132
+our:
 real	0m0.001s
+compr 2
 
- compressed
-2
+Size 2
+
+gzip:
+real	0m0.002s
+compr 132
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.002s
+compr 132
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.002s
+compr 132
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.002s
+compr 132
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.002s
+compr 132
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.002s
+compr 132
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.003s
+compr 132
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.005s
+compr 132
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.002s
+compr 132
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.002s
+compr 132
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.002s
+compr 132
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.002s
+compr 132
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.002s
+compr 132
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.003s
+compr 132
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.004s
+compr 132
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.002s
+compr 132
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.003s
+compr 132
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.003s
+compr 132
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.002s
+compr 132
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.002s
+compr 132
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.002s
+compr 132
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.002s
+compr 132
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.002s
+compr 132
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.003s
+compr 132
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.002s
+compr 132
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.002s
+compr 132
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.002s
+compr 132
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.003s
+compr 132
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.002s
+compr 132
+our:
+real	0m0.001s
+compr 2
+
 Size 4
 
-gzip
-
+gzip:
 real	0m0.002s
-
-compressed
-136
-our
-
+compr 136
+our:
 real	0m0.001s
+compr 2
 
- compressed
-2
+Size 4
+
+gzip:
+real	0m0.003s
+compr 136
+our:
+real	0m0.001s
+compr 2
+
+Size 4
+
+gzip:
+real	0m0.003s
+compr 136
+our:
+real	0m0.001s
+compr 2
+
+Size 4
+
+gzip:
+real	0m0.002s
+compr 136
+our:
+real	0m0.001s
+compr 2
+
+Size 4
+
+gzip:
+real	0m0.002s
+compr 136
+our:
+real	0m0.001s
+compr 2
+
+Size 4
+
+gzip:
+real	0m0.002s
+compr 136
+our:
+real	0m0.001s
+compr 2
+
+Size 4
+
+gzip:
+real	0m0.002s
+compr 136
+our:
+real	0m0.001s
+compr 2
+
+Size 4
+
+gzip:
+real	0m0.002s
+compr 136
+our:
+real	0m0.001s
+compr 2
+
+Size 4
+
+gzip:
+real	0m0.002s
+compr 136
+our:
+real	0m0.001s
+compr 2
+
+Size 4
+
+gzip:
+real	0m0.002s
+compr 136
+our:
+real	0m0.001s
+compr 2
+
+Size 4
+
+gzip:
+real	0m0.002s
+compr 136
+our:
+real	0m0.001s
+compr 2
+
+Size 4
+
+gzip:
+real	0m0.002s
+compr 136
+our:
+real	0m0.001s
+compr 2
+
+Size 4
+
+gzip:
+real	0m0.002s
+compr 136
+our:
+real	0m0.001s
+compr 2
+
+Size 4
+
+gzip:
+real	0m0.003s
+compr 136
+our:
+real	0m0.001s
+compr 2
+
+Size 4
+
+gzip:
+real	0m0.003s
+compr 136
+our:
+real	0m0.001s
+compr 2
+
+Size 4
+
+gzip:
+real	0m0.003s
+compr 136
+our:
+real	0m0.001s
+compr 2
+
+Size 4
+
+gzip:
+real	0m0.002s
+compr 136
+our:
+real	0m0.001s
+compr 2
+
+Size 4
+
+gzip:
+real	0m0.002s
+compr 136
+our:
+real	0m0.001s
+compr 2
+
+Size 4
+
+gzip:
+real	0m0.002s
+compr 136
+our:
+real	0m0.001s
+compr 2
+
+Size 4
+
+gzip:
+real	0m0.003s
+compr 136
+our:
+real	0m0.001s
+compr 2
+
+Size 4
+
+gzip:
+real	0m0.002s
+compr 136
+our:
+real	0m0.001s
+compr 2
+
+Size 4
+
+gzip:
+real	0m0.002s
+compr 136
+our:
+real	0m0.001s
+compr 2
+
+Size 4
+
+gzip:
+real	0m0.002s
+compr 136
+our:
+real	0m0.001s
+compr 2
+
+Size 4
+
+gzip:
+real	0m0.003s
+compr 136
+our:
+real	0m0.001s
+compr 2
+
+Size 4
+
+gzip:
+real	0m0.002s
+compr 136
+our:
+real	0m0.001s
+compr 2
+
+Size 4
+
+gzip:
+real	0m0.002s
+compr 136
+our:
+real	0m0.001s
+compr 2
+
+Size 4
+
+gzip:
+real	0m0.002s
+compr 136
+our:
+real	0m0.001s
+compr 2
+
+Size 4
+
+gzip:
+real	0m0.003s
+compr 136
+our:
+real	0m0.001s
+compr 2
+
+Size 4
+
+gzip:
+real	0m0.002s
+compr 136
+our:
+real	0m0.001s
+compr 2
+
+Size 4
+
+gzip:
+real	0m0.002s
+compr 136
+our:
+real	0m0.001s
+compr 2
+
 Size 8
 
-gzip
-
-real	0m0.002s
-
-compressed
-139
-our
-
+gzip:
+real	0m0.003s
+compr 138
+our:
 real	0m0.001s
+compr 3
 
- compressed
-3
+Size 8
+
+gzip:
+real	0m0.002s
+compr 138
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.002s
+compr 138
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.003s
+compr 138
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.003s
+compr 138
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.002s
+compr 138
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.003s
+compr 138
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.002s
+compr 138
+our:
+real	0m0.003s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.002s
+compr 138
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.002s
+compr 138
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.003s
+compr 138
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.002s
+compr 138
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.002s
+compr 138
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.002s
+compr 138
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.003s
+compr 138
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.002s
+compr 138
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.003s
+compr 138
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.002s
+compr 138
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.002s
+compr 138
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.002s
+compr 138
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.002s
+compr 138
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.003s
+compr 138
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.002s
+compr 138
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.002s
+compr 138
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.002s
+compr 138
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.003s
+compr 138
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.002s
+compr 138
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.003s
+compr 138
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.002s
+compr 138
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.002s
+compr 138
+our:
+real	0m0.001s
+compr 3
+
 Size 16
 
-gzip
-
+gzip:
 real	0m0.003s
+compr 145
+our:
+real	0m0.001s
+compr 5
 
-compressed
-144
-our
+Size 16
 
+gzip:
 real	0m0.002s
+compr 145
+our:
+real	0m0.001s
+compr 5
 
- compressed
-5
+Size 16
+
+gzip:
+real	0m0.005s
+compr 145
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.002s
+compr 145
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.003s
+compr 145
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.002s
+compr 146
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.002s
+compr 146
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.002s
+compr 146
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.003s
+compr 146
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.002s
+compr 146
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.002s
+compr 146
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.002s
+compr 146
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.003s
+compr 146
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.002s
+compr 146
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.002s
+compr 146
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.002s
+compr 146
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.003s
+compr 146
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.003s
+compr 146
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.002s
+compr 146
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.003s
+compr 146
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.002s
+compr 146
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.003s
+compr 146
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.002s
+compr 146
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.002s
+compr 146
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.002s
+compr 146
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.003s
+compr 146
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.002s
+compr 146
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.002s
+compr 146
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.003s
+compr 146
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.003s
+compr 146
+our:
+real	0m0.001s
+compr 5
+
 Size 32
 
-gzip
-
+gzip:
 real	0m0.002s
-
-compressed
-151
-our
-
+compr 153
+our:
 real	0m0.001s
+compr 9
 
- compressed
-9
+Size 32
+
+gzip:
+real	0m0.002s
+compr 153
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.002s
+compr 153
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.002s
+compr 153
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.003s
+compr 153
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.002s
+compr 153
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.003s
+compr 153
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.003s
+compr 153
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.003s
+compr 153
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.002s
+compr 153
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.002s
+compr 153
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.002s
+compr 153
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.003s
+compr 153
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.002s
+compr 153
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.002s
+compr 153
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.002s
+compr 153
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.003s
+compr 153
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.002s
+compr 153
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.003s
+compr 153
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.002s
+compr 153
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.002s
+compr 153
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.002s
+compr 153
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.002s
+compr 153
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.003s
+compr 153
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.002s
+compr 153
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.002s
+compr 153
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.002s
+compr 153
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.003s
+compr 153
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.002s
+compr 153
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.003s
+compr 153
+our:
+real	0m0.001s
+compr 9
+
 Size 64
 
-gzip
-
-real	0m0.003s
-
-compressed
-166
-our
-
+gzip:
+real	0m0.002s
+compr 168
+our:
 real	0m0.001s
+compr 17
 
- compressed
-17
+Size 64
+
+gzip:
+real	0m0.002s
+compr 168
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.002s
+compr 168
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.003s
+compr 168
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.002s
+compr 168
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.003s
+compr 168
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.002s
+compr 168
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.003s
+compr 168
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.002s
+compr 168
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.003s
+compr 168
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.002s
+compr 168
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.003s
+compr 168
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.002s
+compr 168
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.002s
+compr 168
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.003s
+compr 168
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.002s
+compr 168
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.003s
+compr 168
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.002s
+compr 168
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.003s
+compr 168
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.002s
+compr 168
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.002s
+compr 168
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.002s
+compr 168
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.003s
+compr 168
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.003s
+compr 168
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.002s
+compr 168
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.002s
+compr 168
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.002s
+compr 168
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.003s
+compr 168
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.002s
+compr 168
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.002s
+compr 168
+our:
+real	0m0.001s
+compr 17
+
 Size 128
 
-gzip
-
-real	0m0.003s
-
-compressed
-195
-our
-
+gzip:
+real	0m0.002s
+compr 198
+our:
 real	0m0.001s
+compr 33
 
- compressed
-33
+Size 128
+
+gzip:
+real	0m0.003s
+compr 198
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.002s
+compr 198
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.002s
+compr 198
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.003s
+compr 198
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.003s
+compr 198
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.002s
+compr 198
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.002s
+compr 198
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.002s
+compr 198
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.002s
+compr 198
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.002s
+compr 198
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.003s
+compr 198
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.003s
+compr 198
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.002s
+compr 198
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.002s
+compr 198
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.002s
+compr 198
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.003s
+compr 198
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.003s
+compr 198
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.003s
+compr 198
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.003s
+compr 198
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.002s
+compr 198
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.002s
+compr 198
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.003s
+compr 198
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.002s
+compr 198
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.002s
+compr 198
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.002s
+compr 198
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.003s
+compr 198
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.002s
+compr 198
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.002s
+compr 195
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.003s
+compr 195
+our:
+real	0m0.001s
+compr 33
+
 Size 256
 
-gzip
-
-real	0m0.002s
-
-compressed
-250
-our
-
+gzip:
+real	0m0.003s
+compr 252
+our:
 real	0m0.001s
+compr 65
 
- compressed
-65
+Size 256
+
+gzip:
+real	0m0.002s
+compr 252
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.002s
+compr 252
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.003s
+compr 252
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.002s
+compr 252
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.002s
+compr 252
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.002s
+compr 252
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.003s
+compr 252
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.002s
+compr 252
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.003s
+compr 252
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.002s
+compr 252
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.002s
+compr 252
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.003s
+compr 252
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.003s
+compr 252
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.002s
+compr 252
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.002s
+compr 252
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.003s
+compr 252
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.002s
+compr 252
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.002s
+compr 252
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.002s
+compr 252
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.003s
+compr 252
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.002s
+compr 252
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.002s
+compr 252
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.002s
+compr 252
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.003s
+compr 252
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.002s
+compr 252
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.002s
+compr 252
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.002s
+compr 252
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.003s
+compr 252
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.003s
+compr 252
+our:
+real	0m0.001s
+compr 65
+
 Size 512
 
-gzip
-
-real	0m0.005s
-
-compressed
-343
-our
-
+gzip:
+real	0m0.002s
+compr 347
+our:
 real	0m0.001s
+compr 129
 
- compressed
-129
+Size 512
+
+gzip:
+real	0m0.003s
+compr 347
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.002s
+compr 347
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.003s
+compr 347
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.002s
+compr 347
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.002s
+compr 347
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.002s
+compr 347
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.003s
+compr 347
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.002s
+compr 347
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.003s
+compr 347
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.002s
+compr 347
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.003s
+compr 347
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.002s
+compr 347
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.002s
+compr 347
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.002s
+compr 347
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.002s
+compr 347
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.002s
+compr 347
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.002s
+compr 347
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.003s
+compr 347
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.002s
+compr 347
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.003s
+compr 347
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.002s
+compr 347
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.003s
+compr 347
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.003s
+compr 347
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.003s
+compr 347
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.002s
+compr 347
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.002s
+compr 347
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.003s
+compr 347
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.003s
+compr 347
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.003s
+compr 347
+our:
+real	0m0.001s
+compr 129
+
 Size 1024
 
-gzip
-
-real	0m0.003s
-
-compressed
-528
-our
-
+gzip:
+real	0m0.002s
+compr 529
+our:
 real	0m0.001s
+compr 257
 
- compressed
-257
+Size 1024
+
+gzip:
+real	0m0.002s
+compr 529
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 529
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.002s
+compr 529
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.002s
+compr 529
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 529
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.002s
+compr 529
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 529
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.002s
+compr 529
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 529
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 529
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 529
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.002s
+compr 529
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.002s
+compr 529
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 529
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 529
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.002s
+compr 529
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 529
+our:
+real	0m0.002s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.002s
+compr 529
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.002s
+compr 529
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.002s
+compr 529
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.002s
+compr 529
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 529
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.002s
+compr 529
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.002s
+compr 529
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.002s
+compr 529
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 529
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.002s
+compr 529
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.002s
+compr 529
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.002s
+compr 529
+our:
+real	0m0.001s
+compr 257
+
 Size 2048
 
-gzip
-
-real	0m0.002s
-
-compressed
-861
-our
-
+gzip:
+real	0m0.003s
+compr 866
+our:
 real	0m0.001s
+compr 513
 
- compressed
-513
+Size 2048
+
+gzip:
+real	0m0.002s
+compr 866
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.002s
+compr 866
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.002s
+compr 866
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 866
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.002s
+compr 866
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 866
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.002s
+compr 866
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.002s
+compr 866
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.002s
+compr 866
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 866
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.002s
+compr 866
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.002s
+compr 866
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 866
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 866
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.002s
+compr 866
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.002s
+compr 866
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.002s
+compr 866
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 866
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.002s
+compr 866
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.002s
+compr 866
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.002s
+compr 866
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 873
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.002s
+compr 873
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.002s
+compr 873
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.002s
+compr 873
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 873
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 873
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 873
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.002s
+compr 873
+our:
+real	0m0.001s
+compr 513
+
 Size 4096
 
-gzip
-
-real	0m0.004s
-
-compressed
-1513
-our
-
+gzip:
+real	0m0.002s
+compr 1524
+our:
 real	0m0.001s
+compr 1025
 
- compressed
-1025
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1524
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.002s
+compr 1524
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.002s
+compr 1524
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.002s
+compr 1524
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1524
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.002s
+compr 1524
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1524
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1524
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1524
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.002s
+compr 1524
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.002s
+compr 1524
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1524
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1524
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.002s
+compr 1524
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1524
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.002s
+compr 1524
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1524
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.002s
+compr 1524
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.002s
+compr 1524
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1524
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1524
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.002s
+compr 1524
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1524
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1524
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.002s
+compr 1524
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1524
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1524
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.002s
+compr 1524
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1524
+our:
+real	0m0.001s
+compr 1025
+
 Size 8192
 
-gzip
-
+gzip:
 real	0m0.003s
-
-compressed
-2775
-our
-
+compr 2786
+our:
 real	0m0.001s
+compr 2049
 
- compressed
-2049
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2786
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2786
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2786
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2786
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2786
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2786
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2786
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2786
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2786
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2786
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2786
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2786
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2786
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2786
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2786
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2786
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2786
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.004s
+compr 2786
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2786
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2786
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2786
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2786
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2786
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2786
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2786
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2786
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2786
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2786
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2786
+our:
+real	0m0.001s
+compr 2049
+
 Size 16384
 
-gzip
-
+gzip:
 real	0m0.004s
-
-compressed
-5266
-our
-
+compr 5296
+our:
 real	0m0.001s
+compr 4097
 
- compressed
-4097
+Size 16384
+
+gzip:
+real	0m0.004s
+compr 5296
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.004s
+compr 5296
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.004s
+compr 5296
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.004s
+compr 5296
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.004s
+compr 5296
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.004s
+compr 5296
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.004s
+compr 5296
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.004s
+compr 5296
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.004s
+compr 5296
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.004s
+compr 5296
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.004s
+compr 5296
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.004s
+compr 5296
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.005s
+compr 5296
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.004s
+compr 5296
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.004s
+compr 5296
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.004s
+compr 5296
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.004s
+compr 5296
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.004s
+compr 5296
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.004s
+compr 5296
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.004s
+compr 5296
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.004s
+compr 5296
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.004s
+compr 5296
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.004s
+compr 5296
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.004s
+compr 5296
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.004s
+compr 5296
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.004s
+compr 5296
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.004s
+compr 5296
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.004s
+compr 5296
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.004s
+compr 5296
+our:
+real	0m0.001s
+compr 4097
+
 Size 32768
 
-gzip
-
-real	0m0.007s
-
-compressed
-10125
-our
-
+gzip:
+real	0m0.006s
+compr 10150
+our:
 real	0m0.001s
+compr 8193
 
- compressed
-8193
+Size 32768
+
+gzip:
+real	0m0.006s
+compr 10150
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.006s
+compr 10150
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.006s
+compr 10150
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.006s
+compr 10150
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.005s
+compr 10150
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.005s
+compr 10150
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.006s
+compr 10150
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.005s
+compr 10150
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.005s
+compr 10155
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.006s
+compr 10155
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.006s
+compr 10155
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.005s
+compr 10155
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.005s
+compr 10155
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.006s
+compr 10155
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.005s
+compr 10155
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.006s
+compr 10155
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.006s
+compr 10155
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.005s
+compr 10155
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.005s
+compr 10155
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.006s
+compr 10155
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.005s
+compr 10155
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.005s
+compr 10155
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.005s
+compr 10155
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.005s
+compr 10155
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.005s
+compr 10155
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.005s
+compr 10155
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.006s
+compr 10155
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.005s
+compr 10155
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.005s
+compr 10155
+our:
+real	0m0.001s
+compr 8193
+
 Size 65536
 
-gzip
+gzip:
+real	0m0.009s
+compr 19756
+our:
+real	0m0.001s
+compr 16385
 
+Size 65536
+
+gzip:
+real	0m0.009s
+compr 19756
+our:
+real	0m0.001s
+compr 16385
+
+Size 65536
+
+gzip:
+real	0m0.009s
+compr 19756
+our:
+real	0m0.001s
+compr 16385
+
+Size 65536
+
+gzip:
+real	0m0.009s
+compr 19756
+our:
+real	0m0.001s
+compr 16385
+
+Size 65536
+
+gzip:
+real	0m0.009s
+compr 19756
+our:
+real	0m0.001s
+compr 16385
+
+Size 65536
+
+gzip:
+real	0m0.009s
+compr 19756
+our:
+real	0m0.001s
+compr 16385
+
+Size 65536
+
+gzip:
+real	0m0.009s
+compr 19756
+our:
+real	0m0.001s
+compr 16385
+
+Size 65536
+
+gzip:
+real	0m0.009s
+compr 19756
+our:
+real	0m0.001s
+compr 16385
+
+Size 65536
+
+gzip:
+real	0m0.009s
+compr 19756
+our:
+real	0m0.001s
+compr 16385
+
+Size 65536
+
+gzip:
+real	0m0.009s
+compr 19756
+our:
+real	0m0.001s
+compr 16385
+
+Size 65536
+
+gzip:
+real	0m0.009s
+compr 19756
+our:
+real	0m0.001s
+compr 16385
+
+Size 65536
+
+gzip:
 real	0m0.010s
+compr 19756
+our:
+real	0m0.001s
+compr 16385
 
-compressed
-19740
-our
+Size 65536
 
-real	0m0.005s
+gzip:
+real	0m0.009s
+compr 19756
+our:
+real	0m0.001s
+compr 16385
 
- compressed
-16385
+Size 65536
+
+gzip:
+real	0m0.009s
+compr 19756
+our:
+real	0m0.001s
+compr 16385
+
+Size 65536
+
+gzip:
+real	0m0.009s
+compr 19756
+our:
+real	0m0.001s
+compr 16385
+
+Size 65536
+
+gzip:
+real	0m0.010s
+compr 19756
+our:
+real	0m0.001s
+compr 16385
+
+Size 65536
+
+gzip:
+real	0m0.009s
+compr 19756
+our:
+real	0m0.001s
+compr 16385
+
+Size 65536
+
+gzip:
+real	0m0.009s
+compr 19756
+our:
+real	0m0.001s
+compr 16385
+
+Size 65536
+
+gzip:
+real	0m0.009s
+compr 19756
+our:
+real	0m0.001s
+compr 16385
+
+Size 65536
+
+gzip:
+real	0m0.009s
+compr 19756
+our:
+real	0m0.001s
+compr 16385
+
+Size 65536
+
+gzip:
+real	0m0.009s
+compr 19756
+our:
+real	0m0.001s
+compr 16385
+
+Size 65536
+
+gzip:
+real	0m0.009s
+compr 19756
+our:
+real	0m0.001s
+compr 16385
+
+Size 65536
+
+gzip:
+real	0m0.009s
+compr 19756
+our:
+real	0m0.001s
+compr 16385
+
+Size 65536
+
+gzip:
+real	0m0.009s
+compr 19756
+our:
+real	0m0.001s
+compr 16385
+
+Size 65536
+
+gzip:
+real	0m0.009s
+compr 19756
+our:
+real	0m0.001s
+compr 16385
+
+Size 65536
+
+gzip:
+real	0m0.009s
+compr 19756
+our:
+real	0m0.001s
+compr 16385
+
+Size 65536
+
+gzip:
+real	0m0.009s
+compr 19756
+our:
+real	0m0.001s
+compr 16385
+
+Size 65536
+
+gzip:
+real	0m0.009s
+compr 19756
+our:
+real	0m0.001s
+compr 16385
+
+Size 65536
+
+gzip:
+real	0m0.009s
+compr 19756
+our:
+real	0m0.001s
+compr 16385
+
+Size 65536
+
+gzip:
+real	0m0.009s
+compr 19756
+our:
+real	0m0.001s
+compr 16385
+
 Size 131072
 
-gzip
-
-real	0m0.018s
-
-compressed
-38887
-our
-
+gzip:
+real	0m0.016s
+compr 38853
+our:
 real	0m0.001s
+compr 32769
 
- compressed
-32769
+Size 131072
+
+gzip:
+real	0m0.016s
+compr 38853
+our:
+real	0m0.001s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.017s
+compr 38853
+our:
+real	0m0.002s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.016s
+compr 38853
+our:
+real	0m0.001s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.017s
+compr 38853
+our:
+real	0m0.001s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.015s
+compr 38853
+our:
+real	0m0.001s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.014s
+compr 38853
+our:
+real	0m0.001s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.015s
+compr 38853
+our:
+real	0m0.001s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.015s
+compr 38853
+our:
+real	0m0.001s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.015s
+compr 38853
+our:
+real	0m0.001s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.016s
+compr 38853
+our:
+real	0m0.001s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.015s
+compr 38853
+our:
+real	0m0.001s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.015s
+compr 38926
+our:
+real	0m0.001s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.015s
+compr 38926
+our:
+real	0m0.001s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.016s
+compr 38926
+our:
+real	0m0.001s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.016s
+compr 38926
+our:
+real	0m0.001s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.015s
+compr 38926
+our:
+real	0m0.001s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.014s
+compr 38926
+our:
+real	0m0.001s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.015s
+compr 38926
+our:
+real	0m0.001s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.015s
+compr 38926
+our:
+real	0m0.001s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.015s
+compr 38926
+our:
+real	0m0.001s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.014s
+compr 38926
+our:
+real	0m0.001s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.014s
+compr 38926
+our:
+real	0m0.001s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.015s
+compr 38926
+our:
+real	0m0.001s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.014s
+compr 38926
+our:
+real	0m0.001s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.014s
+compr 38926
+our:
+real	0m0.001s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.015s
+compr 38926
+our:
+real	0m0.001s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.015s
+compr 38926
+our:
+real	0m0.001s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.015s
+compr 38926
+our:
+real	0m0.001s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.015s
+compr 38926
+our:
+real	0m0.001s
+compr 32769
+
 Size 262144
 
-gzip
-
-real	0m0.035s
-
-compressed
-77180
-our
-
+gzip:
+real	0m0.028s
+compr 77225
+our:
 real	0m0.002s
+compr 65537
 
- compressed
-65537
+Size 262144
+
+gzip:
+real	0m0.027s
+compr 77225
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.027s
+compr 77225
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.027s
+compr 77225
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.027s
+compr 77225
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.027s
+compr 77225
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.028s
+compr 77225
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.027s
+compr 77225
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.027s
+compr 77225
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.027s
+compr 77225
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.029s
+compr 77225
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.027s
+compr 77225
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.027s
+compr 77225
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.027s
+compr 77225
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.027s
+compr 77225
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.027s
+compr 77225
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.030s
+compr 77205
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.027s
+compr 77205
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.027s
+compr 77205
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.029s
+compr 77205
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.027s
+compr 77205
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.027s
+compr 77205
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.027s
+compr 77205
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.027s
+compr 77205
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.027s
+compr 77205
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.027s
+compr 77205
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.027s
+compr 77205
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.027s
+compr 77205
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.027s
+compr 77205
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.027s
+compr 77205
+our:
+real	0m0.002s
+compr 65537
+
 Size 524288
 
-gzip
+gzip:
+real	0m0.052s
+compr 153815
+our:
+real	0m0.005s
+compr 131073
 
-real	0m0.055s
+Size 524288
 
-compressed
-153895
-our
+gzip:
+real	0m0.053s
+compr 153815
+our:
+real	0m0.003s
+compr 131073
 
-real	0m0.004s
+Size 524288
 
- compressed
-131073
+gzip:
+real	0m0.052s
+compr 153815
+our:
+real	0m0.003s
+compr 131073
+
+Size 524288
+
+gzip:
+real	0m0.052s
+compr 153815
+our:
+real	0m0.003s
+compr 131073
+
+Size 524288
+
+gzip:
+real	0m0.053s
+compr 153815
+our:
+real	0m0.003s
+compr 131073
+
+Size 524288
+
+gzip:
+real	0m0.052s
+compr 153815
+our:
+real	0m0.003s
+compr 131073
+
+Size 524288
+
+gzip:
+real	0m0.053s
+compr 153815
+our:
+real	0m0.003s
+compr 131073
+
+Size 524288
+
+gzip:
+real	0m0.053s
+compr 153815
+our:
+real	0m0.003s
+compr 131073
+
+Size 524288
+
+gzip:
+real	0m0.053s
+compr 153724
+our:
+real	0m0.003s
+compr 131073
+
+Size 524288
+
+gzip:
+real	0m0.053s
+compr 153724
+our:
+real	0m0.003s
+compr 131073
+
+Size 524288
+
+gzip:
+real	0m0.053s
+compr 153724
+our:
+real	0m0.003s
+compr 131073
+
+Size 524288
+
+gzip:
+real	0m0.053s
+compr 153724
+our:
+real	0m0.003s
+compr 131073
+
+Size 524288
+
+gzip:
+real	0m0.053s
+compr 153724
+our:
+real	0m0.003s
+compr 131073
+
+Size 524288
+
+gzip:
+real	0m0.052s
+compr 153724
+our:
+real	0m0.003s
+compr 131073
+
+Size 524288
+
+gzip:
+real	0m0.053s
+compr 153724
+our:
+real	0m0.003s
+compr 131073
+
+Size 524288
+
+gzip:
+real	0m0.052s
+compr 153724
+our:
+real	0m0.003s
+compr 131073
+
+Size 524288
+
+gzip:
+real	0m0.052s
+compr 153724
+our:
+real	0m0.003s
+compr 131073
+
+Size 524288
+
+gzip:
+real	0m0.052s
+compr 153724
+our:
+real	0m0.003s
+compr 131073
+
+Size 524288
+
+gzip:
+real	0m0.053s
+compr 153724
+our:
+real	0m0.003s
+compr 131073
+
+Size 524288
+
+gzip:
+real	0m0.053s
+compr 153724
+our:
+real	0m0.003s
+compr 131073
+
+Size 524288
+
+gzip:
+real	0m0.053s
+compr 153724
+our:
+real	0m0.003s
+compr 131073
+
+Size 524288
+
+gzip:
+real	0m0.052s
+compr 153724
+our:
+real	0m0.003s
+compr 131073
+
+Size 524288
+
+gzip:
+real	0m0.052s
+compr 153724
+our:
+real	0m0.003s
+compr 131073
+
+Size 524288
+
+gzip:
+real	0m0.053s
+compr 153757
+our:
+real	0m0.003s
+compr 131073
+
+Size 524288
+
+gzip:
+real	0m0.053s
+compr 153757
+our:
+real	0m0.003s
+compr 131073
+
+Size 524288
+
+gzip:
+real	0m0.052s
+compr 153757
+our:
+real	0m0.003s
+compr 131073
+
+Size 524288
+
+gzip:
+real	0m0.052s
+compr 153757
+our:
+real	0m0.003s
+compr 131073
+
+Size 524288
+
+gzip:
+real	0m0.052s
+compr 153757
+our:
+real	0m0.003s
+compr 131073
+
+Size 524288
+
+gzip:
+real	0m0.052s
+compr 153757
+our:
+real	0m0.003s
+compr 131073
+
+Size 524288
+
+gzip:
+real	0m0.052s
+compr 153757
+our:
+real	0m0.003s
+compr 131073
+
 Size 1048576
 
-gzip
-
-real	0m0.122s
-
-compressed
-307077
-our
-
+gzip:
+real	0m0.103s
+compr 306959
+our:
 real	0m0.006s
+compr 262145
 
- compressed
-262145
+Size 1048576
+
+gzip:
+real	0m0.102s
+compr 306959
+our:
+real	0m0.006s
+compr 262145
+
+Size 1048576
+
+gzip:
+real	0m0.103s
+compr 306959
+our:
+real	0m0.006s
+compr 262145
+
+Size 1048576
+
+gzip:
+real	0m0.103s
+compr 306959
+our:
+real	0m0.006s
+compr 262145
+
+Size 1048576
+
+gzip:
+real	0m0.102s
+compr 306959
+our:
+real	0m0.006s
+compr 262145
+
+Size 1048576
+
+gzip:
+real	0m0.102s
+compr 307110
+our:
+real	0m0.006s
+compr 262145
+
+Size 1048576
+
+gzip:
+real	0m0.105s
+compr 307110
+our:
+real	0m0.006s
+compr 262145
+
+Size 1048576
+
+gzip:
+real	0m0.102s
+compr 307110
+our:
+real	0m0.006s
+compr 262145
+
+Size 1048576
+
+gzip:
+real	0m0.103s
+compr 307110
+our:
+real	0m0.006s
+compr 262145
+
+Size 1048576
+
+gzip:
+real	0m0.103s
+compr 307110
+our:
+real	0m0.006s
+compr 262145
+
+Size 1048576
+
+gzip:
+real	0m0.103s
+compr 307110
+our:
+real	0m0.006s
+compr 262145
+
+Size 1048576
+
+gzip:
+real	0m0.103s
+compr 307110
+our:
+real	0m0.007s
+compr 262145
+
+Size 1048576
+
+gzip:
+real	0m0.102s
+compr 307110
+our:
+real	0m0.006s
+compr 262145
+
+Size 1048576
+
+gzip:
+real	0m0.103s
+compr 307012
+our:
+real	0m0.006s
+compr 262145
+
+Size 1048576
+
+gzip:
+real	0m0.103s
+compr 307012
+our:
+real	0m0.006s
+compr 262145
+
+Size 1048576
+
+gzip:
+real	0m0.103s
+compr 307012
+our:
+real	0m0.006s
+compr 262145
+
+Size 1048576
+
+gzip:
+real	0m0.102s
+compr 307012
+our:
+real	0m0.006s
+compr 262145
+
+Size 1048576
+
+gzip:
+real	0m0.103s
+compr 307012
+our:
+real	0m0.006s
+compr 262145
+
+Size 1048576
+
+gzip:
+real	0m0.103s
+compr 307012
+our:
+real	0m0.006s
+compr 262145
+
+Size 1048576
+
+gzip:
+real	0m0.103s
+compr 307012
+our:
+real	0m0.006s
+compr 262145
+
+Size 1048576
+
+gzip:
+real	0m0.103s
+compr 307012
+our:
+real	0m0.006s
+compr 262145
+
+Size 1048576
+
+gzip:
+real	0m0.103s
+compr 307047
+our:
+real	0m0.006s
+compr 262145
+
+Size 1048576
+
+gzip:
+real	0m0.103s
+compr 307047
+our:
+real	0m0.006s
+compr 262145
+
+Size 1048576
+
+gzip:
+real	0m0.103s
+compr 307047
+our:
+real	0m0.006s
+compr 262145
+
+Size 1048576
+
+gzip:
+real	0m0.102s
+compr 307047
+our:
+real	0m0.006s
+compr 262145
+
+Size 1048576
+
+gzip:
+real	0m0.102s
+compr 307047
+our:
+real	0m0.006s
+compr 262145
+
+Size 1048576
+
+gzip:
+real	0m0.108s
+compr 307047
+our:
+real	0m0.006s
+compr 262145
+
+Size 1048576
+
+gzip:
+real	0m0.103s
+compr 307047
+our:
+real	0m0.006s
+compr 262145
+
+Size 1048576
+
+gzip:
+real	0m0.103s
+compr 307047
+our:
+real	0m0.006s
+compr 262145
+
+Size 1048576
+
+gzip:
+real	0m0.103s
+compr 306951
+our:
+real	0m0.006s
+compr 262145
+
 Size 2097152
 
-gzip
-
-real	0m0.210s
-
-compressed
-613489
-our
-
+gzip:
+real	0m0.204s
+compr 613337
+our:
 real	0m0.012s
+compr 524289
 
- compressed
-524289
+Size 2097152
+
+gzip:
+real	0m0.205s
+compr 613337
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.204s
+compr 613337
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.203s
+compr 613337
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.203s
+compr 613151
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.203s
+compr 613151
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.206s
+compr 613151
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.204s
+compr 613151
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.203s
+compr 613481
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.204s
+compr 613481
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.203s
+compr 613481
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.204s
+compr 613481
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.204s
+compr 613428
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.204s
+compr 613428
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.205s
+compr 613428
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.204s
+compr 613428
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.203s
+compr 613411
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.203s
+compr 613411
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.203s
+compr 613411
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.203s
+compr 613411
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.203s
+compr 613411
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.203s
+compr 613376
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.203s
+compr 613376
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.203s
+compr 613376
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.204s
+compr 613376
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.204s
+compr 613392
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.204s
+compr 613392
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.204s
+compr 613392
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.204s
+compr 613392
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.207s
+compr 613354
+our:
+real	0m0.013s
+compr 524289
+
 Size 4194304
 
-gzip
+gzip:
+real	0m0.403s
+compr 1226379
+our:
+real	0m0.023s
+compr 1048577
 
-real	0m0.461s
+Size 4194304
 
-compressed
-1226256
-our
+gzip:
+real	0m0.489s
+compr 1226379
+our:
+real	0m0.028s
+compr 1048577
 
+Size 4194304
+
+gzip:
+real	0m0.403s
+compr 1226384
+our:
+real	0m0.023s
+compr 1048577
+
+Size 4194304
+
+gzip:
+real	0m0.403s
+compr 1226384
+our:
+real	0m0.023s
+compr 1048577
+
+Size 4194304
+
+gzip:
+real	0m0.403s
+compr 1226463
+our:
+real	0m0.023s
+compr 1048577
+
+Size 4194304
+
+gzip:
+real	0m0.403s
+compr 1226463
+our:
+real	0m0.023s
+compr 1048577
+
+Size 4194304
+
+gzip:
+real	0m0.403s
+compr 1225777
+our:
+real	0m0.023s
+compr 1048577
+
+Size 4194304
+
+gzip:
+real	0m0.403s
+compr 1225777
+our:
+real	0m0.023s
+compr 1048577
+
+Size 4194304
+
+gzip:
+real	0m0.405s
+compr 1226270
+our:
+real	0m0.023s
+compr 1048577
+
+Size 4194304
+
+gzip:
+real	0m0.419s
+compr 1226270
+our:
+real	0m0.037s
+compr 1048577
+
+Size 4194304
+
+gzip:
+real	0m0.602s
+compr 1226345
+our:
+real	0m0.031s
+compr 1048577
+
+Size 4194304
+
+gzip:
+real	0m0.560s
+compr 1226345
+our:
+real	0m0.034s
+compr 1048577
+
+Size 4194304
+
+gzip:
+real	0m0.421s
+compr 1226437
+our:
 real	0m0.025s
+compr 1048577
 
- compressed
-1048577
+Size 4194304
+
+gzip:
+real	0m0.411s
+compr 1226172
+our:
+real	0m0.023s
+compr 1048577
+
+Size 4194304
+
+gzip:
+real	0m0.407s
+compr 1226172
+our:
+real	0m0.023s
+compr 1048577
+
+Size 4194304
+
+gzip:
+real	0m0.407s
+compr 1226166
+our:
+real	0m0.023s
+compr 1048577
+
+Size 4194304
+
+gzip:
+real	0m0.509s
+compr 1226458
+our:
+real	0m0.033s
+compr 1048577
+
+Size 4194304
+
+gzip:
+real	0m0.551s
+compr 1226254
+our:
+real	0m0.051s
+compr 1048577
+
+Size 4194304
+
+gzip:
+real	0m0.465s
+compr 1226254
+our:
+real	0m0.032s
+compr 1048577
+
+Size 4194304
+
+gzip:
+real	0m0.548s
+compr 1226287
+our:
+real	0m0.027s
+compr 1048577
+
+Size 4194304
+
+gzip:
+real	0m0.443s
+compr 1226287
+our:
+real	0m0.023s
+compr 1048577
+
+Size 4194304
+
+gzip:
+real	0m0.404s
+compr 1226329
+our:
+real	0m0.023s
+compr 1048577
+
+Size 4194304
+
+gzip:
+real	0m0.420s
+compr 1226329
+our:
+real	0m0.023s
+compr 1048577
+
+Size 4194304
+
+gzip:
+real	0m0.527s
+compr 1226128
+our:
+real	0m0.023s
+compr 1048577
+
+Size 4194304
+
+gzip:
+real	0m0.463s
+compr 1226227
+our:
+real	0m0.023s
+compr 1048577
+
+Size 4194304
+
+gzip:
+real	0m0.423s
+compr 1226227
+our:
+real	0m0.023s
+compr 1048577
+
+Size 4194304
+
+gzip:
+real	0m0.407s
+compr 1225957
+our:
+real	0m0.023s
+compr 1048577
+
+Size 4194304
+
+gzip:
+real	0m0.406s
+compr 1225957
+our:
+real	0m0.023s
+compr 1048577
+
+Size 4194304
+
+gzip:
+real	0m0.407s
+compr 1226263
+our:
+real	0m0.024s
+compr 1048577
+
+Size 4194304
+
+gzip:
+real	0m0.407s
+compr 1226263
+our:
+real	0m0.023s
+compr 1048577
+
 Size 8388608
 
-gzip
+gzip:
+real	0m0.813s
+compr 2452066
+our:
+real	0m0.045s
+compr 2097153
 
-real	0m0.840s
+Size 8388608
 
-compressed
-2452124
-our
+gzip:
+real	0m0.810s
+compr 2451776
+our:
+real	0m0.045s
+compr 2097153
 
+Size 8388608
+
+gzip:
+real	0m0.931s
+compr 2452059
+our:
+real	0m0.045s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.806s
+compr 2451804
+our:
+real	0m0.045s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.814s
+compr 2451594
+our:
+real	0m0.045s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.812s
+compr 2451799
+our:
+real	0m0.048s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.823s
+compr 2452287
+our:
+real	0m0.069s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.834s
+compr 2452206
+our:
+real	0m0.045s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.848s
+compr 2452078
+our:
+real	0m0.047s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.803s
+compr 2451569
+our:
+real	0m0.045s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.810s
+compr 2451591
+our:
+real	0m0.048s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.810s
+compr 2452069
+our:
+real	0m0.045s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.805s
+compr 2451930
+our:
+real	0m0.047s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.804s
+compr 2451643
+our:
+real	0m0.045s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.808s
+compr 2451676
+our:
+real	0m0.045s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.815s
+compr 2451561
+our:
+real	0m0.045s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.804s
+compr 2451874
+our:
+real	0m0.045s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.808s
+compr 2452058
+our:
+real	0m0.049s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.818s
+compr 2451592
+our:
+real	0m0.061s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.856s
+compr 2452065
+our:
+real	0m0.061s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m1.061s
+compr 2452098
+our:
+real	0m0.113s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.899s
+compr 2451786
+our:
+real	0m0.045s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.805s
+compr 2451786
+our:
+real	0m0.045s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.833s
+compr 2451385
+our:
+real	0m0.045s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.860s
+compr 2451920
+our:
+real	0m0.054s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m1.098s
+compr 2451444
+our:
+real	0m0.062s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.823s
+compr 2452301
+our:
+real	0m0.045s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.805s
+compr 2452139
+our:
+real	0m0.045s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.949s
+compr 2452109
+our:
+real	0m0.046s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.941s
+compr 2451917
+our:
 real	0m0.050s
+compr 2097153
 
- compressed
-2097153
 Size 16777216
 
-gzip
+gzip:
+real	0m1.881s
+compr 4903587
+our:
+real	0m0.144s
+compr 4194305
 
-real	0m1.924s
+Size 16777216
 
-compressed
-4903402
-our
+gzip:
+real	0m1.630s
+compr 4903257
+our:
+real	0m0.090s
+compr 4194305
 
-real	0m0.097s
+Size 16777216
 
- compressed
-4194305
+gzip:
+real	0m1.623s
+compr 4903086
+our:
+real	0m0.090s
+compr 4194305
+
+Size 16777216
+
+gzip:
+real	0m1.607s
+compr 4903760
+our:
+real	0m0.090s
+compr 4194305
+
+Size 16777216
+
+gzip:
+real	0m1.605s
+compr 4903647
+our:
+real	0m0.090s
+compr 4194305
+
+Size 16777216
+
+gzip:
+real	0m1.609s
+compr 4903383
+our:
+real	0m0.090s
+compr 4194305
+
+Size 16777216
+
+gzip:
+real	0m1.693s
+compr 4903212
+our:
+real	0m0.090s
+compr 4194305
+
+Size 16777216
+
+gzip:
+real	0m1.857s
+compr 4903093
+our:
+real	0m0.096s
+compr 4194305
+
+Size 16777216
+
+gzip:
+real	0m1.609s
+compr 4902986
+our:
+real	0m0.091s
+compr 4194305
+
+Size 16777216
+
+gzip:
+real	0m1.609s
+compr 4903132
+our:
+real	0m0.091s
+compr 4194305
+
+Size 16777216
+
+gzip:
+real	0m1.849s
+compr 4903396
+our:
+real	0m0.102s
+compr 4194305
+
+Size 16777216
+
+gzip:
+real	0m1.853s
+compr 4903049
+our:
+real	0m0.091s
+compr 4194305
+
+Size 16777216
+
+gzip:
+real	0m1.619s
+compr 4903064
+our:
+real	0m0.090s
+compr 4194305
+
+Size 16777216
+
+gzip:
+real	0m1.613s
+compr 4903248
+our:
+real	0m0.091s
+compr 4194305
+
+Size 16777216
+
+gzip:
+real	0m1.710s
+compr 4903157
+our:
+real	0m0.090s
+compr 4194305
+
+Size 16777216
+
+gzip:
+real	0m1.676s
+compr 4902719
+our:
+real	0m0.135s
+compr 4194305
+
+Size 16777216
+
+gzip:
+real	0m1.620s
+compr 4902784
+our:
+real	0m0.090s
+compr 4194305
+
+Size 16777216
+
+gzip:
+real	0m1.611s
+compr 4903209
+our:
+real	0m0.090s
+compr 4194305
+
+Size 16777216
+
+gzip:
+real	0m1.623s
+compr 4902856
+our:
+real	0m0.090s
+compr 4194305
+
+Size 16777216
+
+gzip:
+real	0m1.615s
+compr 4903419
+our:
+real	0m0.091s
+compr 4194305
+
+Size 16777216
+
+gzip:
+real	0m1.610s
+compr 4903010
+our:
+real	0m0.090s
+compr 4194305
+
+Size 16777216
+
+gzip:
+real	0m1.610s
+compr 4903511
+our:
+real	0m0.090s
+compr 4194305
+
+Size 16777216
+
+gzip:
+real	0m1.607s
+compr 4902809
+our:
+real	0m0.090s
+compr 4194305
+
+Size 16777216
+
+gzip:
+real	0m1.610s
+compr 4902156
+our:
+real	0m0.090s
+compr 4194305
+
+Size 16777216
+
+gzip:
+real	0m1.609s
+compr 4903262
+our:
+real	0m0.090s
+compr 4194305
+
+Size 16777216
+
+gzip:
+real	0m1.605s
+compr 4903015
+our:
+real	0m0.090s
+compr 4194305
+
+Size 16777216
+
+gzip:
+real	0m1.697s
+compr 4903320
+our:
+real	0m0.108s
+compr 4194305
+
+Size 16777216
+
+gzip:
+real	0m1.612s
+compr 4903899
+our:
+real	0m0.092s
+compr 4194305
+
+Size 16777216
+
+gzip:
+real	0m1.610s
+compr 4903146
+our:
+real	0m0.090s
+compr 4194305
+
+Size 16777216
+
+gzip:
+real	0m1.619s
+compr 4903374
+our:
+real	0m0.090s
+compr 4194305
+
 Size 33554432
 
-gzip
+gzip:
+real	0m3.217s
+compr 9805121
+our:
+real	0m0.179s
+compr 8388609
 
-real	0m3.254s
+Size 33554432
 
-compressed
-9805318
-our
+gzip:
+real	0m3.224s
+compr 9805285
+our:
+real	0m0.179s
+compr 8388609
 
-real	0m0.215s
+Size 33554432
 
- compressed
-8388609
+gzip:
+real	0m3.224s
+compr 9806013
+our:
+real	0m0.183s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.213s
+compr 9806098
+our:
+real	0m0.180s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.224s
+compr 9805299
+our:
+real	0m0.179s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.230s
+compr 9805250
+our:
+real	0m0.184s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.220s
+compr 9805891
+our:
+real	0m0.180s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.561s
+compr 9806643
+our:
+real	0m0.182s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.243s
+compr 9806063
+our:
+real	0m0.179s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.228s
+compr 9806225
+our:
+real	0m0.180s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.223s
+compr 9805314
+our:
+real	0m0.181s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.227s
+compr 9805304
+our:
+real	0m0.179s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.231s
+compr 9806493
+our:
+real	0m0.181s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.223s
+compr 9806538
+our:
+real	0m0.180s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.232s
+compr 9805539
+our:
+real	0m0.184s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.227s
+compr 9805979
+our:
+real	0m0.182s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.226s
+compr 9806096
+our:
+real	0m0.180s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.233s
+compr 9805729
+our:
+real	0m0.183s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.223s
+compr 9806565
+our:
+real	0m0.181s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.220s
+compr 9805293
+our:
+real	0m0.181s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.228s
+compr 9805698
+our:
+real	0m0.183s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.219s
+compr 9805634
+our:
+real	0m0.179s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.214s
+compr 9805475
+our:
+real	0m0.184s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.216s
+compr 9805158
+our:
+real	0m0.179s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.257s
+compr 9806211
+our:
+real	0m0.186s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.258s
+compr 9805893
+our:
+real	0m0.185s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.256s
+compr 9807103
+our:
+real	0m0.182s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.246s
+compr 9805349
+our:
+real	0m0.182s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.252s
+compr 9805381
+our:
+real	0m0.185s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.284s
+compr 9804858
+our:
+real	0m0.182s
+compr 8388609
+
 Size 67108864
 
-gzip
+gzip:
+real	0m6.476s
+compr 19610374
+our:
+real	0m0.358s
+compr 16777217
 
-real	0m6.995s
+Size 67108864
 
-compressed
-19611465
-our
+gzip:
+real	0m6.487s
+compr 19610987
+our:
+real	0m0.360s
+compr 16777217
 
-real	0m0.427s
+Size 67108864
 
- compressed
-16777217
+gzip:
+real	0m6.485s
+compr 19611332
+our:
+real	0m0.367s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m7.018s
+compr 19609461
+our:
+real	0m0.403s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m6.608s
+compr 19611287
+our:
+real	0m0.372s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m7.476s
+compr 19609785
+our:
+real	0m0.358s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m7.745s
+compr 19610326
+our:
+real	0m0.381s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m6.639s
+compr 19609901
+our:
+real	0m0.359s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m6.821s
+compr 19612523
+our:
+real	0m0.371s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m6.446s
+compr 19611244
+our:
+real	0m0.361s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m6.553s
+compr 19611092
+our:
+real	0m0.369s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m6.658s
+compr 19611438
+our:
+real	0m0.450s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m6.849s
+compr 19611501
+our:
+real	0m0.454s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m6.989s
+compr 19610465
+our:
+real	0m0.364s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m6.895s
+compr 19610672
+our:
+real	0m0.405s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m6.433s
+compr 19611262
+our:
+real	0m0.364s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m6.568s
+compr 19611383
+our:
+real	0m0.364s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m6.471s
+compr 19610054
+our:
+real	0m0.358s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m6.732s
+compr 19611007
+our:
+real	0m0.359s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m6.448s
+compr 19610139
+our:
+real	0m0.368s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m7.069s
+compr 19611176
+our:
+real	0m0.364s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m6.426s
+compr 19611130
+our:
+real	0m0.358s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m6.557s
+compr 19611148
+our:
+real	0m0.360s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m6.442s
+compr 19612199
+our:
+real	0m0.370s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m6.434s
+compr 19610032
+our:
+real	0m0.360s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m6.547s
+compr 19610227
+our:
+real	0m0.358s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m6.450s
+compr 19610664
+our:
+real	0m0.361s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m6.478s
+compr 19610607
+our:
+real	0m0.474s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m6.477s
+compr 19609256
+our:
+real	0m0.359s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m6.557s
+compr 19610853
+our:
+real	0m0.365s
+compr 16777217
+
 Size 134217728
 
-gzip
+gzip:
+real	0m12.915s
+compr 39222936
+our:
+real	0m0.716s
+compr 33554433
 
-real	0m13.263s
+Size 134217728
 
-compressed
-39221499
-our
+gzip:
+real	0m13.030s
+compr 39220434
+our:
+real	0m0.734s
+compr 33554433
 
-real	0m0.913s
+Size 134217728
 
- compressed
-33554433
+gzip:
+real	0m13.286s
+compr 39219990
+our:
+real	0m0.739s
+compr 33554433
+
+Size 134217728
+
+gzip:
+real	0m12.977s
+compr 39220515
+our:
+real	0m0.721s
+compr 33554433
+
+Size 134217728
+
+gzip:
+real	0m12.879s
+compr 39221607
+our:
+real	0m0.722s
+compr 33554433
+
+Size 134217728
+
+gzip:
+real	0m13.143s
+compr 39220658
+our:
+real	0m0.715s
+compr 33554433
+
+Size 134217728
+
+gzip:
+real	0m13.002s
+compr 39220774
+our:
+real	0m0.731s
+compr 33554433
+
+Size 134217728
+
+gzip:
+real	0m12.973s
+compr 39221323
+our:
+real	0m0.728s
+compr 33554433
+
+Size 134217728
+
+gzip:
+real	0m13.051s
+compr 39220679
+our:
+real	0m0.735s
+compr 33554433
+
+Size 134217728
+
+gzip:
+real	0m13.087s
+compr 39221319
+our:
+real	0m0.740s
+compr 33554433
+
+Size 134217728
+
+gzip:
+real	0m13.196s
+compr 39221244
+our:
+real	0m0.726s
+compr 33554433
+
+Size 134217728
+
+gzip:
+real	0m13.017s
+compr 39221092
+our:
+real	0m0.780s
+compr 33554433
+
+Size 134217728
+
+gzip:
+real	0m12.927s
+compr 39220647
+our:
+real	0m0.732s
+compr 33554433
+
+Size 134217728
+
+gzip:
+real	0m13.003s
+compr 39224776
+our:
+real	0m0.746s
+compr 33554433
+
+Size 134217728
+
+gzip:
+real	0m12.954s
+compr 39222344
+our:
+real	0m0.722s
+compr 33554433
+
+Size 134217728
+
+gzip:
+real	0m13.025s
+compr 39219829
+our:
+real	0m0.746s
+compr 33554433
+
+Size 134217728
+
+gzip:
+real	0m12.970s
+compr 39221177
+our:
+real	0m0.740s
+compr 33554433
+
+Size 134217728
+
+gzip:
+real	0m13.057s
+compr 39221587
+our:
+real	0m0.733s
+compr 33554433
+
+Size 134217728
+
+gzip:
+real	0m13.162s
+compr 39219998
+our:
+real	0m0.737s
+compr 33554433
+
+Size 134217728
+
+gzip:
+real	0m12.919s
+compr 39221606
+our:
+real	0m0.731s
+compr 33554433
+
+Size 134217728
+
+gzip:
+real	0m12.999s
+compr 39222085
+our:
+real	0m0.717s
+compr 33554433
+
+Size 134217728
+
+gzip:
+real	0m13.018s
+compr 39221653
+our:
+real	0m0.715s
+compr 33554433
+
+Size 134217728
+
+gzip:
+real	0m13.452s
+compr 39221161
+our:
+real	0m0.796s
+compr 33554433
+
+Size 134217728
+
+gzip:
+real	0m13.622s
+compr 39221179
+our:
+real	0m0.753s
+compr 33554433
+
+Size 134217728
+
+gzip:
+real	0m15.903s
+compr 39221581
+our:
+real	0m1.036s
+compr 33554433
+
+Size 134217728
+
+gzip:
+real	0m16.319s
+compr 39220619
+our:
+real	0m0.721s
+compr 33554433
+
+Size 134217728
+
+gzip:
+real	0m13.869s
+compr 39221258
+our:
+real	0m0.726s
+compr 33554433
+
+Size 134217728
+
+gzip:
+real	0m12.885s
+compr 39222373
+our:
+real	0m0.747s
+compr 33554433
+
+Size 134217728
+
+gzip:
+real	0m13.350s
+compr 39220841
+our:
+real	0m0.760s
+compr 33554433
+
+Size 134217728
+
+gzip:
+real	0m13.358s
+compr 39221694
+our:
+real	0m0.751s
+compr 33554433
+
 Size 268435456
 
-gzip
+gzip:
+real	0m26.235s
+compr 78441639
+our:
+real	0m1.441s
+compr 67108865
 
-real	0m26.241s
+Size 268435456
 
-compressed
-78441007
-our
+gzip:
+real	0m26.252s
+compr 78443213
+our:
+real	0m1.607s
+compr 67108865
 
-real	0m1.979s
+Size 268435456
 
- compressed
-67108865
+gzip:
+real	0m27.061s
+compr 78442477
+our:
+real	0m1.511s
+compr 67108865
+
+Size 268435456
+
+gzip:
+real	0m26.135s
+compr 78440670
+our:
+real	0m1.517s
+compr 67108865
+
+Size 268435456
+
+gzip:
+real	0m26.286s
+compr 78439396
+our:
+real	0m1.427s
+compr 67108865
+
+Size 268435456
+
+gzip:
+real	0m25.826s
+compr 78441750
+our:
+real	0m1.458s
+compr 67108865
+
+Size 268435456
+
+gzip:
+real	0m25.937s
+compr 78440350
+our:
+real	0m1.442s
+compr 67108865
+
+Size 268435456
+
+gzip:
+real	0m25.891s
+compr 78441570
+our:
+real	0m1.446s
+compr 67108865
+
+Size 268435456
+
+gzip:
+real	0m26.137s
+compr 78440285
+our:
+real	0m1.457s
+compr 67108865
+
+Size 268435456
+
+gzip:
+real	0m25.929s
+compr 78441132
+our:
+real	0m1.472s
+compr 67108865
+
+Size 268435456
+
+gzip:
+real	0m26.207s
+compr 78438962
+our:
+real	0m1.463s
+compr 67108865
+
+Size 268435456
+
+gzip:
+real	0m25.911s
+compr 78442943
+our:
+real	0m1.482s
+compr 67108865
+
+Size 268435456
+
+gzip:
+real	0m26.033s
+compr 78441529
+our:
+real	0m1.487s
+compr 67108865
+
+Size 268435456
+
+gzip:
+real	0m25.962s
+compr 78441425
+our:
+real	0m1.456s
+compr 67108865
+
+Size 268435456
+
+gzip:
+real	0m26.463s
+compr 78442902
+our:
+real	0m1.493s
+compr 67108865
+
+Size 268435456
+
+gzip:
+real	0m25.860s
+compr 78439264
+our:
+real	0m1.448s
+compr 67108865
+
+Size 268435456
+
+gzip:
+real	0m25.906s
+compr 78441378
+our:
+real	0m1.449s
+compr 67108865
+
+Size 268435456
+
+gzip:
+real	0m25.968s
+compr 78440639
+our:
+real	0m1.480s
+compr 67108865
+
+Size 268435456
+
+gzip:
+real	0m26.174s
+compr 78441445
+our:
+real	0m1.457s
+compr 67108865
+
+Size 268435456
+
+gzip:
+real	0m25.921s
+compr 78443044
+our:
+real	0m1.432s
+compr 67108865
+
+Size 268435456
+
+gzip:
+real	0m25.797s
+compr 78442402
+our:
+real	0m1.450s
+compr 67108865
+
+Size 268435456
+
+gzip:
+real	0m25.795s
+compr 78442304
+our:
+real	0m1.450s
+compr 67108865
+
+Size 268435456
+
+gzip:
+real	0m25.764s
+compr 78441828
+our:
+real	0m1.535s
+compr 67108865
+
+Size 268435456
+
+gzip:
+real	0m25.809s
+compr 78442404
+our:
+real	0m1.492s
+compr 67108865
+
+Size 268435456
+
+gzip:
+real	0m29.344s
+compr 78441791
+our:
+real	0m1.779s
+compr 67108865
+
+Size 268435456
+
+gzip:
+real	0m25.812s
+compr 78440914
+our:
+real	0m1.495s
+compr 67108865
+
+Size 268435456
+
+gzip:
+real	0m25.808s
+compr 78443331
+our:
+real	0m1.535s
+compr 67108865
+
+Size 268435456
+
+gzip:
+real	0m25.841s
+compr 78442110
+our:
+real	0m1.430s
+compr 67108865
+
+Size 268435456
+
+gzip:
+real	0m25.873s
+compr 78441728
+our:
+real	0m1.469s
+compr 67108865
+
+Size 268435456
+
+gzip:
+real	0m27.166s
+compr 78443192
+our:
+real	0m1.544s
+compr 67108865
+
 Size 536870912
 
-gzip
+gzip:
+real	0m54.309s
+compr 156881026
+our:
+real	0m3.132s
+compr 134217729
 
-real	0m51.970s
+Size 536870912
 
-compressed
-156882291
-our
+gzip:
+real	0m53.220s
+compr 156881513
+our:
+real	0m2.870s
+compr 134217729
 
-real	0m3.910s
+Size 536870912
 
- compressed
-134217729
+gzip:
+real	0m52.152s
+compr 156883699
+our:
+real	0m2.923s
+compr 134217729
+
+Size 536870912
+
+gzip:
+real	0m53.952s
+compr 156881602
+our:
+real	0m3.081s
+compr 134217729
+
+Size 536870912
+
+gzip:
+real	0m52.051s
+compr 156881554
+our:
+real	0m2.890s
+compr 134217729
+
+Size 536870912
+
+gzip:
+real	0m51.355s
+compr 156883987
+our:
+real	0m2.861s
+compr 134217729
+
+Size 536870912
+
+gzip:
+real	0m51.379s
+compr 156880639
+our:
+real	0m2.861s
+compr 134217729
+
+Size 536870912
+
+gzip:
+real	0m51.295s
+compr 156882088
+our:
+real	0m2.891s
+compr 134217729
+
+Size 536870912
+
+gzip:
+real	0m51.395s
+compr 156883159
+our:
+real	0m2.887s
+compr 134217729
+
+Size 536870912
+
+gzip:
+real	0m51.402s
+compr 156880483
+our:
+real	0m2.857s
+compr 134217729
+
+Size 536870912
+
+gzip:
+real	0m51.385s
+compr 156885704
+our:
+real	0m2.860s
+compr 134217729
+
+Size 536870912
+
+gzip:
+real	0m51.450s
+compr 156884619
+our:
+real	0m2.869s
+compr 134217729
+
+Size 536870912
+
+gzip:
+real	0m51.373s
+compr 156883051
+our:
+real	0m2.861s
+compr 134217729
+
+Size 536870912
+
+gzip:
+real	0m51.382s
+compr 156882751
+our:
+real	0m2.860s
+compr 134217729
+
+Size 536870912
+
+gzip:
+real	0m51.875s
+compr 156880817
+our:
+real	0m2.864s
+compr 134217729
+
+Size 536870912
+
+gzip:
+real	0m51.799s
+compr 156881164
+our:
+real	0m2.863s
+compr 134217729
+
+Size 536870912
+
+gzip:
+real	0m51.857s
+compr 156881398
+our:
+real	0m2.857s
+compr 134217729
+
+Size 536870912
+
+gzip:
+real	0m51.833s
+compr 156877762
+our:
+real	0m2.856s
+compr 134217729
+
+Size 536870912
+
+gzip:
+real	0m53.295s
+compr 156887922
+our:
+real	0m3.064s
+compr 134217729
+
+Size 536870912
+
+gzip:
+real	0m52.900s
+compr 156883557
+our:
+real	0m2.858s
+compr 134217729
+
+Size 536870912
+
+gzip:
+real	0m51.448s
+compr 156884622
+our:
+real	0m2.863s
+compr 134217729
+
+Size 536870912
+
+gzip:
+real	0m51.404s
+compr 156884717
+our:
+real	0m2.865s
+compr 134217729
+
+Size 536870912
+
+gzip:
+real	0m51.408s
+compr 156881221
+our:
+real	0m2.863s
+compr 134217729
+
+Size 536870912
+
+gzip:
+real	0m51.378s
+compr 156883680
+our:
+real	0m2.867s
+compr 134217729
+
+Size 536870912
+
+gzip:
+real	0m52.117s
+compr 156883338
+our:
+real	0m2.859s
+compr 134217729
+
+Size 536870912
+
+gzip:
+real	0m51.402s
+compr 156880384
+our:
+real	0m2.849s
+compr 134217729
+
+Size 536870912
+
+gzip:
+real	0m51.597s
+compr 156881761
+our:
+real	0m2.865s
+compr 134217729
+
+Size 536870912
+
+gzip:
+real	0m54.753s
+compr 156883712
+our:
+real	0m2.859s
+compr 134217729
+
+Size 536870912
+
+gzip:
+real	0m59.211s
+compr 156883290
+our:
+real	0m2.902s
+compr 134217729
+
+Size 536870912
+
+gzip:
+real	0m54.330s
+compr 156885585
+our:
+real	0m2.891s
+compr 134217729
+
 Size 1073741824
 
-gzip
+gzip:
+real	1m50.374s
+compr 313767898
+our:
+real	0m5.784s
+compr 268435457
 
-real	1m58.491s
+Size 1073741824
 
-compressed
-313769662
-our
+gzip:
+real	1m45.460s
+compr 313762953
+our:
+real	0m5.771s
+compr 268435457
 
-real	0m9.602s
+Size 1073741824
 
- compressed
-268435457
+gzip:
+real	1m43.360s
+compr 313759916
+our:
+real	0m5.729s
+compr 268435457
+
+Size 1073741824
+
+gzip:
+real	1m42.711s
+compr 313764662
+our:
+real	0m5.736s
+compr 268435457
+
+Size 1073741824
+
+gzip:
+real	1m42.831s
+compr 313762973
+our:
+real	0m5.749s
+compr 268435457
+
+Size 1073741824
+
+gzip:
+real	1m42.971s
+compr 313762701
+our:
+real	0m5.874s
+compr 268435457
+
+Size 1073741824
+
+gzip:
+real	1m43.694s
+compr 313764035
+our:
+real	0m5.742s
+compr 268435457
+
+Size 1073741824
+
+gzip:
+real	1m43.499s
+compr 313761899
+our:
+real	0m5.728s
+compr 268435457
+
+Size 1073741824
+
+gzip:
+real	1m43.351s
+compr 313766295
+our:
+real	0m5.810s
+compr 268435457
+
+Size 1073741824
+
+gzip:
+real	1m43.036s
+compr 313763452
+our:
+real	0m5.728s
+compr 268435457
+
+Size 1073741824
+
+gzip:
+real	1m42.876s
+compr 313758350
+our:
+real	0m5.742s
+compr 268435457
+
+Size 1073741824
+
+gzip:
+real	1m42.999s
+compr 313770441
+our:
+real	0m5.760s
+compr 268435457
+
+Size 1073741824
+
+gzip:
+real	1m43.006s
+compr 313760324
+our:
+real	0m5.742s
+compr 268435457
+
+Size 1073741824
+
+gzip:
+real	1m43.050s
+compr 313762458
+our:
+real	0m5.737s
+compr 268435457
+
+Size 1073741824
+
+gzip:
+real	1m42.929s
+compr 313768658
+our:
+real	0m5.766s
+compr 268435457
+
+Size 1073741824
+
+gzip:
+real	1m43.003s
+compr 313763869
+our:
+real	0m5.735s
+compr 268435457
+
+Size 1073741824
+
+gzip:
+real	1m42.935s
+compr 313766909
+our:
+real	0m5.736s
+compr 268435457
+
+Size 1073741824
+
+gzip:
+real	1m43.087s
+compr 313764767
+our:
+real	0m5.734s
+compr 268435457
+
+Size 1073741824
+
+gzip:
+real	1m43.025s
+compr 313768799
+our:
+real	0m5.754s
+compr 268435457
+
+Size 1073741824
+
+gzip:
+real	1m43.022s
+compr 313763482
+our:
+real	0m5.741s
+compr 268435457
+
+Size 1073741824
+
+gzip:
+real	1m42.998s
+compr 313764646
+our:
+real	0m5.743s
+compr 268435457
+
+Size 1073741824
+
+gzip:
+real	1m43.109s
+compr 313768149
+our:
+real	0m5.738s
+compr 268435457
+
+Size 1073741824
+
+gzip:
+real	1m42.920s
+compr 313759912
+our:
+real	0m5.746s
+compr 268435457
+
+Size 1073741824
+
+gzip:
+real	1m42.972s
+compr 313767413
+our:
+real	0m5.729s
+compr 268435457
+
+Size 1073741824
+
+gzip:
+real	1m43.029s
+compr 313765211
+our:
+real	0m5.730s
+compr 268435457
+
+Size 1073741824
+
+gzip:
+real	1m42.988s
+compr 313764775
+our:
+real	0m5.725s
+compr 268435457
+
+Size 1073741824
+
+gzip:
+real	1m43.009s
+compr 313760748
+our:
+real	0m5.745s
+compr 268435457
+
+Size 1073741824
+
+gzip:
+real	1m42.977s
+compr 313767531
+our:
+real	0m5.732s
+compr 268435457
+
+Size 1073741824
+
+gzip:
+real	1m43.060s
+compr 313759769
+our:
+real	0m5.725s
+compr 268435457
+
+Size 1073741824
+
+gzip:
+real	1m43.003s
+compr 313766141
+our:
+real	0m5.727s
+compr 268435457
