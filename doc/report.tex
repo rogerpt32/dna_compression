@@ -53,12 +53,15 @@ In this paper they claim that their compression has exactly a 75\% rate, but thi
 % The design of a set of experiments to validate the main aspects of the data structure(s) (or the proof of the main theorems in case of a theoretic paper, demo) (15\%)
 First I implemented the algorithms to compress and decompress described in the paper in order to test them. Is worth to mention that I had to include a small improvement in the algorithms in order to treat the last characters for files with a size not multiple of 4. To fix this my algorithm adds an extra final byte which define how many characters have been added to fill the last word of 4 letters. After that I also implemented a random DNA sequence generator which will produce a completely random DNA sequence of any desired size.
 
-With the algorithms implemented I first tested that the algorithms compress and decompress without any losses in the original data. With this checked, then we focus on the performance of the algorithm. To test that I compared the time and compression of the algorithm with ``gzip'', which is a general purpose compression algorithm. I chosed a general purpose one since the paper states that the regular compression algorithms don't work well on DNA sequences. 
+With the algorithms implemented I first tested that the algorithms compress and decompress without any losses in the original data. With this checked, then we focus on the performance of the algorithm. To test that I compared the time and compression of the algorithm with ``gzip'', which is a general purpose compression algorithm. I chosed a general purpose one since the paper states that the regular compression algorithms don't work well on DNA sequences.
+
+Also it is worth to mention that I tried to include a specific compression system called Cryfa \cite{cryfa}, but only works for a specific format called FASTA which includes headers, newlines symbol and other letters for other DNA related things. For this last one I will not have a detailed comparison since it wasn't possible to have a fair comparison, just the format increases considerably the size of the input file.
+
 \subsection{Analysis}
 %A critical analysis of the results of the experiments (theoretical results) (15\%)
 The first check shows that the algorithm works with the expected compression of almost 75\% (not exactly 75\% for the simple reason an input not multiple of 4 in size and the extra byte to fix that). The descompression also returns the file to the original state without any loss. It's worth mentioning that this algorithm only works for plain DNA sequences without any character different to `A',`C',`G' and `T', This might be a problem in real sequences, since many times they include comments, newline symbols and other format specific things that will be lost and create noise.
 
-Now I will focus in the comparison between a general purpose compression algorithm (gzip) and our implementation. The first plot (see figure \ref{fig:compression}) shows that the paper algorithm have a better compression ratio but for the big files there is not a big difference, only around 5-10\% better. This proves that their statement about general purpose compression algorithms don't work on DNA sequences is wrong. Looking at the time spend to compress (see figure \ref{fig:time}), we see clearly the good thing about this algorithm, is very fast.
+Now I will focus in the comparison between a general purpose compression algorithm (gzip) and our implementation. The first plot (see figure \ref{fig:compression}) shows that the paper algorithm have a better compression ratio but for the big files there is not a big difference, only around 5-10\% better. This proves that their statement about general purpose compression algorithms don't work on DNA sequences is wrong. Looking at the time spend to compress (see figure \ref{fig:time}), we see clearly the good thing about this algorithm, it is very fast in comparison with gzip, since it only reads once the input. For the biggest file, the paper algorithm is almost 60 times faster than gzip.
 
 \begin{figure}[htbp]
     \centering
@@ -76,7 +79,7 @@ Now I will focus in the comparison between a general purpose compression algorit
 
 
 \section{Conclusions}
-Your personal conclusions (10\%)
+% Your personal conclusions (10\%)
 
 \bibliographystyle{unsrt}
 \bibliography{cites}

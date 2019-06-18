@@ -4,62 +4,8 @@ Experiments
 Size 2
 
 gzip:
-real	0m0.002s
-compr 132
-our:
-real	0m0.001s
-compr 2
-
-Size 2
-
-gzip:
-real	0m0.002s
-compr 132
-our:
-real	0m0.001s
-compr 2
-
-Size 2
-
-gzip:
-real	0m0.002s
-compr 132
-our:
-real	0m0.001s
-compr 2
-
-Size 2
-
-gzip:
-real	0m0.002s
-compr 132
-our:
-real	0m0.001s
-compr 2
-
-Size 2
-
-gzip:
-real	0m0.002s
-compr 132
-our:
-real	0m0.001s
-compr 2
-
-Size 2
-
-gzip:
-real	0m0.002s
-compr 132
-our:
-real	0m0.001s
-compr 2
-
-Size 2
-
-gzip:
-real	0m0.002s
-compr 132
+real	0m0.003s
+compr 150
 our:
 real	0m0.001s
 compr 2
@@ -68,7 +14,79 @@ Size 2
 
 gzip:
 real	0m0.003s
-compr 132
+compr 150
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.003s
+compr 150
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.003s
+compr 150
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.003s
+compr 150
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.003s
+compr 150
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.003s
+compr 150
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.004s
+compr 150
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.003s
+compr 150
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.003s
+compr 150
 our:
 real	0m0.001s
 compr 2
@@ -77,61 +95,7 @@ Size 2
 
 gzip:
 real	0m0.005s
-compr 132
-our:
-real	0m0.001s
-compr 2
-
-Size 2
-
-gzip:
-real	0m0.002s
-compr 132
-our:
-real	0m0.001s
-compr 2
-
-Size 2
-
-gzip:
-real	0m0.002s
-compr 132
-our:
-real	0m0.001s
-compr 2
-
-Size 2
-
-gzip:
-real	0m0.002s
-compr 132
-our:
-real	0m0.001s
-compr 2
-
-Size 2
-
-gzip:
-real	0m0.002s
-compr 132
-our:
-real	0m0.001s
-compr 2
-
-Size 2
-
-gzip:
-real	0m0.002s
-compr 132
-our:
-real	0m0.001s
-compr 2
-
-Size 2
-
-gzip:
-real	0m0.003s
-compr 132
+compr 150
 our:
 real	0m0.001s
 compr 2
@@ -140,16 +104,7 @@ Size 2
 
 gzip:
 real	0m0.004s
-compr 132
-our:
-real	0m0.001s
-compr 2
-
-Size 2
-
-gzip:
-real	0m0.002s
-compr 132
+compr 150
 our:
 real	0m0.001s
 compr 2
@@ -158,7 +113,7 @@ Size 2
 
 gzip:
 real	0m0.003s
-compr 132
+compr 150
 our:
 real	0m0.001s
 compr 2
@@ -167,52 +122,7 @@ Size 2
 
 gzip:
 real	0m0.003s
-compr 132
-our:
-real	0m0.001s
-compr 2
-
-Size 2
-
-gzip:
-real	0m0.002s
-compr 132
-our:
-real	0m0.001s
-compr 2
-
-Size 2
-
-gzip:
-real	0m0.002s
-compr 132
-our:
-real	0m0.001s
-compr 2
-
-Size 2
-
-gzip:
-real	0m0.002s
-compr 132
-our:
-real	0m0.001s
-compr 2
-
-Size 2
-
-gzip:
-real	0m0.002s
-compr 132
-our:
-real	0m0.001s
-compr 2
-
-Size 2
-
-gzip:
-real	0m0.002s
-compr 132
+compr 150
 our:
 real	0m0.001s
 compr 2
@@ -221,34 +131,16 @@ Size 2
 
 gzip:
 real	0m0.003s
-compr 132
+compr 150
 our:
-real	0m0.001s
+real	0m0.002s
 compr 2
 
 Size 2
 
 gzip:
-real	0m0.002s
-compr 132
-our:
-real	0m0.001s
-compr 2
-
-Size 2
-
-gzip:
-real	0m0.002s
-compr 132
-our:
-real	0m0.001s
-compr 2
-
-Size 2
-
-gzip:
-real	0m0.002s
-compr 132
+real	0m0.003s
+compr 150
 our:
 real	0m0.001s
 compr 2
@@ -257,7 +149,7 @@ Size 2
 
 gzip:
 real	0m0.003s
-compr 132
+compr 150
 our:
 real	0m0.001s
 compr 2
@@ -265,134 +157,125 @@ compr 2
 Size 2
 
 gzip:
+real	0m0.003s
+compr 150
+our:
 real	0m0.002s
-compr 132
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.003s
+compr 150
 our:
 real	0m0.001s
 compr 2
 
-Size 4
+Size 2
 
 gzip:
-real	0m0.002s
-compr 136
+real	0m0.003s
+compr 150
 our:
 real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.003s
+compr 150
+our:
+real	0m0.002s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.003s
+compr 150
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.003s
+compr 150
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.003s
+compr 150
+our:
+real	0m0.002s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.003s
+compr 150
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.003s
+compr 150
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.003s
+compr 150
+our:
+real	0m0.002s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.003s
+compr 150
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.003s
+compr 150
+our:
+real	0m0.001s
+compr 2
+
+Size 2
+
+gzip:
+real	0m0.003s
+compr 150
+our:
+real	0m0.002s
 compr 2
 
 Size 4
 
 gzip:
 real	0m0.003s
-compr 136
-our:
-real	0m0.001s
-compr 2
-
-Size 4
-
-gzip:
-real	0m0.003s
-compr 136
-our:
-real	0m0.001s
-compr 2
-
-Size 4
-
-gzip:
-real	0m0.002s
-compr 136
-our:
-real	0m0.001s
-compr 2
-
-Size 4
-
-gzip:
-real	0m0.002s
-compr 136
-our:
-real	0m0.001s
-compr 2
-
-Size 4
-
-gzip:
-real	0m0.002s
-compr 136
-our:
-real	0m0.001s
-compr 2
-
-Size 4
-
-gzip:
-real	0m0.002s
-compr 136
-our:
-real	0m0.001s
-compr 2
-
-Size 4
-
-gzip:
-real	0m0.002s
-compr 136
-our:
-real	0m0.001s
-compr 2
-
-Size 4
-
-gzip:
-real	0m0.002s
-compr 136
-our:
-real	0m0.001s
-compr 2
-
-Size 4
-
-gzip:
-real	0m0.002s
-compr 136
-our:
-real	0m0.001s
-compr 2
-
-Size 4
-
-gzip:
-real	0m0.002s
-compr 136
-our:
-real	0m0.001s
-compr 2
-
-Size 4
-
-gzip:
-real	0m0.002s
-compr 136
-our:
-real	0m0.001s
-compr 2
-
-Size 4
-
-gzip:
-real	0m0.002s
-compr 136
-our:
-real	0m0.001s
-compr 2
-
-Size 4
-
-gzip:
-real	0m0.003s
-compr 136
+compr 152
 our:
 real	0m0.001s
 compr 2
@@ -401,7 +284,7 @@ Size 4
 
 gzip:
 real	0m0.003s
-compr 136
+compr 152
 our:
 real	0m0.001s
 compr 2
@@ -410,34 +293,7 @@ Size 4
 
 gzip:
 real	0m0.003s
-compr 136
-our:
-real	0m0.001s
-compr 2
-
-Size 4
-
-gzip:
-real	0m0.002s
-compr 136
-our:
-real	0m0.001s
-compr 2
-
-Size 4
-
-gzip:
-real	0m0.002s
-compr 136
-our:
-real	0m0.001s
-compr 2
-
-Size 4
-
-gzip:
-real	0m0.002s
-compr 136
+compr 152
 our:
 real	0m0.001s
 compr 2
@@ -446,34 +302,7 @@ Size 4
 
 gzip:
 real	0m0.003s
-compr 136
-our:
-real	0m0.001s
-compr 2
-
-Size 4
-
-gzip:
-real	0m0.002s
-compr 136
-our:
-real	0m0.001s
-compr 2
-
-Size 4
-
-gzip:
-real	0m0.002s
-compr 136
-our:
-real	0m0.001s
-compr 2
-
-Size 4
-
-gzip:
-real	0m0.002s
-compr 136
+compr 152
 our:
 real	0m0.001s
 compr 2
@@ -482,34 +311,7 @@ Size 4
 
 gzip:
 real	0m0.003s
-compr 136
-our:
-real	0m0.001s
-compr 2
-
-Size 4
-
-gzip:
-real	0m0.002s
-compr 136
-our:
-real	0m0.001s
-compr 2
-
-Size 4
-
-gzip:
-real	0m0.002s
-compr 136
-our:
-real	0m0.001s
-compr 2
-
-Size 4
-
-gzip:
-real	0m0.002s
-compr 136
+compr 152
 our:
 real	0m0.001s
 compr 2
@@ -518,7 +320,7 @@ Size 4
 
 gzip:
 real	0m0.003s
-compr 136
+compr 152
 our:
 real	0m0.001s
 compr 2
@@ -526,8 +328,8 @@ compr 2
 Size 4
 
 gzip:
-real	0m0.002s
-compr 136
+real	0m0.003s
+compr 152
 our:
 real	0m0.001s
 compr 2
@@ -535,3500 +337,3464 @@ compr 2
 Size 4
 
 gzip:
-real	0m0.002s
-compr 136
+real	0m0.003s
+compr 152
 our:
 real	0m0.001s
 compr 2
 
-Size 8
+Size 4
 
 gzip:
 real	0m0.003s
-compr 138
+compr 152
 our:
 real	0m0.001s
-compr 3
+compr 2
 
-Size 8
+Size 4
 
 gzip:
-real	0m0.002s
-compr 138
-our:
-real	0m0.001s
-compr 3
-
-Size 8
-
-gzip:
-real	0m0.002s
-compr 138
-our:
-real	0m0.001s
-compr 3
-
-Size 8
-
-gzip:
-real	0m0.003s
-compr 138
-our:
-real	0m0.001s
-compr 3
-
-Size 8
-
-gzip:
-real	0m0.003s
-compr 138
-our:
-real	0m0.001s
-compr 3
-
-Size 8
-
-gzip:
-real	0m0.002s
-compr 138
-our:
-real	0m0.001s
-compr 3
-
-Size 8
-
-gzip:
-real	0m0.003s
-compr 138
-our:
-real	0m0.001s
-compr 3
-
-Size 8
-
-gzip:
-real	0m0.002s
-compr 138
-our:
-real	0m0.003s
-compr 3
-
-Size 8
-
-gzip:
-real	0m0.002s
-compr 138
-our:
-real	0m0.001s
-compr 3
-
-Size 8
-
-gzip:
-real	0m0.002s
-compr 138
-our:
-real	0m0.001s
-compr 3
-
-Size 8
-
-gzip:
-real	0m0.003s
-compr 138
-our:
-real	0m0.001s
-compr 3
-
-Size 8
-
-gzip:
-real	0m0.002s
-compr 138
-our:
-real	0m0.001s
-compr 3
-
-Size 8
-
-gzip:
-real	0m0.002s
-compr 138
-our:
-real	0m0.001s
-compr 3
-
-Size 8
-
-gzip:
-real	0m0.002s
-compr 138
-our:
-real	0m0.001s
-compr 3
-
-Size 8
-
-gzip:
-real	0m0.003s
-compr 138
-our:
-real	0m0.001s
-compr 3
-
-Size 8
-
-gzip:
-real	0m0.002s
-compr 138
-our:
-real	0m0.001s
-compr 3
-
-Size 8
-
-gzip:
-real	0m0.003s
-compr 138
-our:
-real	0m0.001s
-compr 3
-
-Size 8
-
-gzip:
-real	0m0.002s
-compr 138
-our:
-real	0m0.001s
-compr 3
-
-Size 8
-
-gzip:
-real	0m0.002s
-compr 138
-our:
-real	0m0.001s
-compr 3
-
-Size 8
-
-gzip:
-real	0m0.002s
-compr 138
-our:
-real	0m0.001s
-compr 3
-
-Size 8
-
-gzip:
-real	0m0.002s
-compr 138
-our:
-real	0m0.001s
-compr 3
-
-Size 8
-
-gzip:
-real	0m0.003s
-compr 138
-our:
-real	0m0.001s
-compr 3
-
-Size 8
-
-gzip:
-real	0m0.002s
-compr 138
-our:
-real	0m0.001s
-compr 3
-
-Size 8
-
-gzip:
-real	0m0.002s
-compr 138
-our:
-real	0m0.001s
-compr 3
-
-Size 8
-
-gzip:
-real	0m0.002s
-compr 138
-our:
-real	0m0.001s
-compr 3
-
-Size 8
-
-gzip:
-real	0m0.003s
-compr 138
-our:
-real	0m0.001s
-compr 3
-
-Size 8
-
-gzip:
-real	0m0.002s
-compr 138
-our:
-real	0m0.001s
-compr 3
-
-Size 8
-
-gzip:
-real	0m0.003s
-compr 138
-our:
-real	0m0.001s
-compr 3
-
-Size 8
-
-gzip:
-real	0m0.002s
-compr 138
-our:
-real	0m0.001s
-compr 3
-
-Size 8
-
-gzip:
-real	0m0.002s
-compr 138
-our:
-real	0m0.001s
-compr 3
-
-Size 16
-
-gzip:
-real	0m0.003s
-compr 145
-our:
-real	0m0.001s
-compr 5
-
-Size 16
-
-gzip:
-real	0m0.002s
-compr 145
-our:
-real	0m0.001s
-compr 5
-
-Size 16
-
-gzip:
-real	0m0.005s
-compr 145
-our:
-real	0m0.001s
-compr 5
-
-Size 16
-
-gzip:
-real	0m0.002s
-compr 145
-our:
-real	0m0.001s
-compr 5
-
-Size 16
-
-gzip:
-real	0m0.003s
-compr 145
-our:
-real	0m0.001s
-compr 5
-
-Size 16
-
-gzip:
-real	0m0.002s
-compr 146
-our:
-real	0m0.001s
-compr 5
-
-Size 16
-
-gzip:
-real	0m0.002s
-compr 146
-our:
-real	0m0.001s
-compr 5
-
-Size 16
-
-gzip:
-real	0m0.002s
-compr 146
-our:
-real	0m0.001s
-compr 5
-
-Size 16
-
-gzip:
-real	0m0.003s
-compr 146
-our:
-real	0m0.001s
-compr 5
-
-Size 16
-
-gzip:
-real	0m0.002s
-compr 146
-our:
-real	0m0.001s
-compr 5
-
-Size 16
-
-gzip:
-real	0m0.002s
-compr 146
-our:
-real	0m0.001s
-compr 5
-
-Size 16
-
-gzip:
-real	0m0.002s
-compr 146
-our:
-real	0m0.001s
-compr 5
-
-Size 16
-
-gzip:
-real	0m0.003s
-compr 146
-our:
-real	0m0.001s
-compr 5
-
-Size 16
-
-gzip:
-real	0m0.002s
-compr 146
-our:
-real	0m0.001s
-compr 5
-
-Size 16
-
-gzip:
-real	0m0.002s
-compr 146
-our:
-real	0m0.001s
-compr 5
-
-Size 16
-
-gzip:
-real	0m0.002s
-compr 146
-our:
-real	0m0.001s
-compr 5
-
-Size 16
-
-gzip:
-real	0m0.003s
-compr 146
-our:
-real	0m0.001s
-compr 5
-
-Size 16
-
-gzip:
-real	0m0.003s
-compr 146
-our:
-real	0m0.001s
-compr 5
-
-Size 16
-
-gzip:
-real	0m0.002s
-compr 146
-our:
-real	0m0.001s
-compr 5
-
-Size 16
-
-gzip:
-real	0m0.003s
-compr 146
-our:
-real	0m0.001s
-compr 5
-
-Size 16
-
-gzip:
-real	0m0.002s
-compr 146
-our:
-real	0m0.001s
-compr 5
-
-Size 16
-
-gzip:
-real	0m0.003s
-compr 146
-our:
-real	0m0.001s
-compr 5
-
-Size 16
-
-gzip:
-real	0m0.002s
-compr 146
-our:
-real	0m0.001s
-compr 5
-
-Size 16
-
-gzip:
-real	0m0.002s
-compr 146
-our:
-real	0m0.001s
-compr 5
-
-Size 16
-
-gzip:
-real	0m0.002s
-compr 146
-our:
-real	0m0.001s
-compr 5
-
-Size 16
-
-gzip:
-real	0m0.003s
-compr 146
-our:
-real	0m0.001s
-compr 5
-
-Size 16
-
-gzip:
-real	0m0.002s
-compr 146
-our:
-real	0m0.001s
-compr 5
-
-Size 16
-
-gzip:
-real	0m0.002s
-compr 146
-our:
-real	0m0.001s
-compr 5
-
-Size 16
-
-gzip:
-real	0m0.003s
-compr 146
-our:
-real	0m0.001s
-compr 5
-
-Size 16
-
-gzip:
-real	0m0.003s
-compr 146
-our:
-real	0m0.001s
-compr 5
-
-Size 32
-
-gzip:
-real	0m0.002s
-compr 153
-our:
-real	0m0.001s
-compr 9
-
-Size 32
-
-gzip:
-real	0m0.002s
-compr 153
-our:
-real	0m0.001s
-compr 9
-
-Size 32
-
-gzip:
-real	0m0.002s
-compr 153
-our:
-real	0m0.001s
-compr 9
-
-Size 32
-
-gzip:
-real	0m0.002s
-compr 153
-our:
-real	0m0.001s
-compr 9
-
-Size 32
-
-gzip:
-real	0m0.003s
-compr 153
-our:
-real	0m0.001s
-compr 9
-
-Size 32
-
-gzip:
-real	0m0.002s
-compr 153
-our:
-real	0m0.001s
-compr 9
-
-Size 32
-
-gzip:
-real	0m0.003s
-compr 153
-our:
-real	0m0.001s
-compr 9
-
-Size 32
-
-gzip:
-real	0m0.003s
-compr 153
-our:
-real	0m0.001s
-compr 9
-
-Size 32
-
-gzip:
-real	0m0.003s
-compr 153
-our:
-real	0m0.001s
-compr 9
-
-Size 32
-
-gzip:
-real	0m0.002s
-compr 153
-our:
-real	0m0.001s
-compr 9
-
-Size 32
-
-gzip:
-real	0m0.002s
-compr 153
-our:
-real	0m0.001s
-compr 9
-
-Size 32
-
-gzip:
-real	0m0.002s
-compr 153
-our:
-real	0m0.001s
-compr 9
-
-Size 32
-
-gzip:
-real	0m0.003s
-compr 153
-our:
-real	0m0.001s
-compr 9
-
-Size 32
-
-gzip:
-real	0m0.002s
-compr 153
-our:
-real	0m0.001s
-compr 9
-
-Size 32
-
-gzip:
-real	0m0.002s
-compr 153
-our:
-real	0m0.001s
-compr 9
-
-Size 32
-
-gzip:
-real	0m0.002s
-compr 153
-our:
-real	0m0.001s
-compr 9
-
-Size 32
-
-gzip:
-real	0m0.003s
-compr 153
-our:
-real	0m0.001s
-compr 9
-
-Size 32
-
-gzip:
-real	0m0.002s
-compr 153
-our:
-real	0m0.001s
-compr 9
-
-Size 32
-
-gzip:
-real	0m0.003s
-compr 153
-our:
-real	0m0.001s
-compr 9
-
-Size 32
-
-gzip:
-real	0m0.002s
-compr 153
-our:
-real	0m0.001s
-compr 9
-
-Size 32
-
-gzip:
-real	0m0.002s
-compr 153
-our:
-real	0m0.001s
-compr 9
-
-Size 32
-
-gzip:
-real	0m0.002s
-compr 153
-our:
-real	0m0.001s
-compr 9
-
-Size 32
-
-gzip:
-real	0m0.002s
-compr 153
-our:
-real	0m0.001s
-compr 9
-
-Size 32
-
-gzip:
-real	0m0.003s
-compr 153
-our:
-real	0m0.001s
-compr 9
-
-Size 32
-
-gzip:
-real	0m0.002s
-compr 153
-our:
-real	0m0.001s
-compr 9
-
-Size 32
-
-gzip:
-real	0m0.002s
-compr 153
-our:
-real	0m0.001s
-compr 9
-
-Size 32
-
-gzip:
-real	0m0.002s
-compr 153
-our:
-real	0m0.001s
-compr 9
-
-Size 32
-
-gzip:
-real	0m0.003s
-compr 153
-our:
-real	0m0.001s
-compr 9
-
-Size 32
-
-gzip:
-real	0m0.002s
-compr 153
-our:
-real	0m0.001s
-compr 9
-
-Size 32
-
-gzip:
-real	0m0.003s
-compr 153
-our:
-real	0m0.001s
-compr 9
-
-Size 64
-
-gzip:
-real	0m0.002s
-compr 168
-our:
-real	0m0.001s
-compr 17
-
-Size 64
-
-gzip:
-real	0m0.002s
-compr 168
-our:
-real	0m0.001s
-compr 17
-
-Size 64
-
-gzip:
-real	0m0.002s
-compr 168
-our:
-real	0m0.001s
-compr 17
-
-Size 64
-
-gzip:
-real	0m0.003s
-compr 168
-our:
-real	0m0.001s
-compr 17
-
-Size 64
-
-gzip:
-real	0m0.002s
-compr 168
-our:
-real	0m0.001s
-compr 17
-
-Size 64
-
-gzip:
-real	0m0.003s
-compr 168
-our:
-real	0m0.001s
-compr 17
-
-Size 64
-
-gzip:
-real	0m0.002s
-compr 168
-our:
-real	0m0.001s
-compr 17
-
-Size 64
-
-gzip:
-real	0m0.003s
-compr 168
-our:
-real	0m0.001s
-compr 17
-
-Size 64
-
-gzip:
-real	0m0.002s
-compr 168
-our:
-real	0m0.001s
-compr 17
-
-Size 64
-
-gzip:
-real	0m0.003s
-compr 168
-our:
-real	0m0.001s
-compr 17
-
-Size 64
-
-gzip:
-real	0m0.002s
-compr 168
-our:
-real	0m0.001s
-compr 17
-
-Size 64
-
-gzip:
-real	0m0.003s
-compr 168
-our:
-real	0m0.001s
-compr 17
-
-Size 64
-
-gzip:
-real	0m0.002s
-compr 168
-our:
-real	0m0.001s
-compr 17
-
-Size 64
-
-gzip:
-real	0m0.002s
-compr 168
-our:
-real	0m0.001s
-compr 17
-
-Size 64
-
-gzip:
-real	0m0.003s
-compr 168
-our:
-real	0m0.001s
-compr 17
-
-Size 64
-
-gzip:
-real	0m0.002s
-compr 168
-our:
-real	0m0.001s
-compr 17
-
-Size 64
-
-gzip:
-real	0m0.003s
-compr 168
-our:
-real	0m0.001s
-compr 17
-
-Size 64
-
-gzip:
-real	0m0.002s
-compr 168
-our:
-real	0m0.001s
-compr 17
-
-Size 64
-
-gzip:
-real	0m0.003s
-compr 168
-our:
-real	0m0.001s
-compr 17
-
-Size 64
-
-gzip:
-real	0m0.002s
-compr 168
-our:
-real	0m0.001s
-compr 17
-
-Size 64
-
-gzip:
-real	0m0.002s
-compr 168
-our:
-real	0m0.001s
-compr 17
-
-Size 64
-
-gzip:
-real	0m0.002s
-compr 168
-our:
-real	0m0.001s
-compr 17
-
-Size 64
-
-gzip:
-real	0m0.003s
-compr 168
-our:
-real	0m0.001s
-compr 17
-
-Size 64
-
-gzip:
-real	0m0.003s
-compr 168
-our:
-real	0m0.001s
-compr 17
-
-Size 64
-
-gzip:
-real	0m0.002s
-compr 168
-our:
-real	0m0.001s
-compr 17
-
-Size 64
-
-gzip:
-real	0m0.002s
-compr 168
-our:
-real	0m0.001s
-compr 17
-
-Size 64
-
-gzip:
-real	0m0.002s
-compr 168
-our:
-real	0m0.001s
-compr 17
-
-Size 64
-
-gzip:
-real	0m0.003s
-compr 168
-our:
-real	0m0.001s
-compr 17
-
-Size 64
-
-gzip:
-real	0m0.002s
-compr 168
-our:
-real	0m0.001s
-compr 17
-
-Size 64
-
-gzip:
-real	0m0.002s
-compr 168
-our:
-real	0m0.001s
-compr 17
-
-Size 128
-
-gzip:
-real	0m0.002s
-compr 198
-our:
-real	0m0.001s
-compr 33
-
-Size 128
-
-gzip:
-real	0m0.003s
-compr 198
-our:
-real	0m0.001s
-compr 33
-
-Size 128
-
-gzip:
-real	0m0.002s
-compr 198
-our:
-real	0m0.001s
-compr 33
-
-Size 128
-
-gzip:
-real	0m0.002s
-compr 198
-our:
-real	0m0.001s
-compr 33
-
-Size 128
-
-gzip:
-real	0m0.003s
-compr 198
-our:
-real	0m0.001s
-compr 33
-
-Size 128
-
-gzip:
-real	0m0.003s
-compr 198
-our:
-real	0m0.001s
-compr 33
-
-Size 128
-
-gzip:
-real	0m0.002s
-compr 198
-our:
-real	0m0.001s
-compr 33
-
-Size 128
-
-gzip:
-real	0m0.002s
-compr 198
-our:
-real	0m0.001s
-compr 33
-
-Size 128
-
-gzip:
-real	0m0.002s
-compr 198
-our:
-real	0m0.001s
-compr 33
-
-Size 128
-
-gzip:
-real	0m0.002s
-compr 198
-our:
-real	0m0.001s
-compr 33
-
-Size 128
-
-gzip:
-real	0m0.002s
-compr 198
-our:
-real	0m0.001s
-compr 33
-
-Size 128
-
-gzip:
-real	0m0.003s
-compr 198
-our:
-real	0m0.001s
-compr 33
-
-Size 128
-
-gzip:
-real	0m0.003s
-compr 198
-our:
-real	0m0.001s
-compr 33
-
-Size 128
-
-gzip:
-real	0m0.002s
-compr 198
-our:
-real	0m0.001s
-compr 33
-
-Size 128
-
-gzip:
-real	0m0.002s
-compr 198
-our:
-real	0m0.001s
-compr 33
-
-Size 128
-
-gzip:
-real	0m0.002s
-compr 198
-our:
-real	0m0.001s
-compr 33
-
-Size 128
-
-gzip:
-real	0m0.003s
-compr 198
-our:
-real	0m0.001s
-compr 33
-
-Size 128
-
-gzip:
-real	0m0.003s
-compr 198
-our:
-real	0m0.001s
-compr 33
-
-Size 128
-
-gzip:
-real	0m0.003s
-compr 198
-our:
-real	0m0.001s
-compr 33
-
-Size 128
-
-gzip:
-real	0m0.003s
-compr 198
-our:
-real	0m0.001s
-compr 33
-
-Size 128
-
-gzip:
-real	0m0.002s
-compr 198
-our:
-real	0m0.001s
-compr 33
-
-Size 128
-
-gzip:
-real	0m0.002s
-compr 198
-our:
-real	0m0.001s
-compr 33
-
-Size 128
-
-gzip:
-real	0m0.003s
-compr 198
-our:
-real	0m0.001s
-compr 33
-
-Size 128
-
-gzip:
-real	0m0.002s
-compr 198
-our:
-real	0m0.001s
-compr 33
-
-Size 128
-
-gzip:
-real	0m0.002s
-compr 198
-our:
-real	0m0.001s
-compr 33
-
-Size 128
-
-gzip:
-real	0m0.002s
-compr 198
-our:
-real	0m0.001s
-compr 33
-
-Size 128
-
-gzip:
-real	0m0.003s
-compr 198
-our:
-real	0m0.001s
-compr 33
-
-Size 128
-
-gzip:
-real	0m0.002s
-compr 198
-our:
-real	0m0.001s
-compr 33
-
-Size 128
-
-gzip:
-real	0m0.002s
-compr 195
-our:
-real	0m0.001s
-compr 33
-
-Size 128
-
-gzip:
-real	0m0.003s
-compr 195
-our:
-real	0m0.001s
-compr 33
-
-Size 256
-
-gzip:
-real	0m0.003s
-compr 252
-our:
-real	0m0.001s
-compr 65
-
-Size 256
-
-gzip:
-real	0m0.002s
-compr 252
-our:
-real	0m0.001s
-compr 65
-
-Size 256
-
-gzip:
-real	0m0.002s
-compr 252
-our:
-real	0m0.001s
-compr 65
-
-Size 256
-
-gzip:
-real	0m0.003s
-compr 252
-our:
-real	0m0.001s
-compr 65
-
-Size 256
-
-gzip:
-real	0m0.002s
-compr 252
-our:
-real	0m0.001s
-compr 65
-
-Size 256
-
-gzip:
-real	0m0.002s
-compr 252
-our:
-real	0m0.001s
-compr 65
-
-Size 256
-
-gzip:
-real	0m0.002s
-compr 252
-our:
-real	0m0.001s
-compr 65
-
-Size 256
-
-gzip:
-real	0m0.003s
-compr 252
-our:
-real	0m0.001s
-compr 65
-
-Size 256
-
-gzip:
-real	0m0.002s
-compr 252
-our:
-real	0m0.001s
-compr 65
-
-Size 256
-
-gzip:
-real	0m0.003s
-compr 252
-our:
-real	0m0.001s
-compr 65
-
-Size 256
-
-gzip:
-real	0m0.002s
-compr 252
-our:
-real	0m0.001s
-compr 65
-
-Size 256
-
-gzip:
-real	0m0.002s
-compr 252
-our:
-real	0m0.001s
-compr 65
-
-Size 256
-
-gzip:
-real	0m0.003s
-compr 252
-our:
-real	0m0.001s
-compr 65
-
-Size 256
-
-gzip:
-real	0m0.003s
-compr 252
-our:
-real	0m0.001s
-compr 65
-
-Size 256
-
-gzip:
-real	0m0.002s
-compr 252
-our:
-real	0m0.001s
-compr 65
-
-Size 256
-
-gzip:
-real	0m0.002s
-compr 252
-our:
-real	0m0.001s
-compr 65
-
-Size 256
-
-gzip:
-real	0m0.003s
-compr 252
-our:
-real	0m0.001s
-compr 65
-
-Size 256
-
-gzip:
-real	0m0.002s
-compr 252
-our:
-real	0m0.001s
-compr 65
-
-Size 256
-
-gzip:
-real	0m0.002s
-compr 252
-our:
-real	0m0.001s
-compr 65
-
-Size 256
-
-gzip:
-real	0m0.002s
-compr 252
-our:
-real	0m0.001s
-compr 65
-
-Size 256
-
-gzip:
-real	0m0.003s
-compr 252
-our:
-real	0m0.001s
-compr 65
-
-Size 256
-
-gzip:
-real	0m0.002s
-compr 252
-our:
-real	0m0.001s
-compr 65
-
-Size 256
-
-gzip:
-real	0m0.002s
-compr 252
-our:
-real	0m0.001s
-compr 65
-
-Size 256
-
-gzip:
-real	0m0.002s
-compr 252
-our:
-real	0m0.001s
-compr 65
-
-Size 256
-
-gzip:
-real	0m0.003s
-compr 252
-our:
-real	0m0.001s
-compr 65
-
-Size 256
-
-gzip:
-real	0m0.002s
-compr 252
-our:
-real	0m0.001s
-compr 65
-
-Size 256
-
-gzip:
-real	0m0.002s
-compr 252
-our:
-real	0m0.001s
-compr 65
-
-Size 256
-
-gzip:
-real	0m0.002s
-compr 252
-our:
-real	0m0.001s
-compr 65
-
-Size 256
-
-gzip:
-real	0m0.003s
-compr 252
-our:
-real	0m0.001s
-compr 65
-
-Size 256
-
-gzip:
-real	0m0.003s
-compr 252
-our:
-real	0m0.001s
-compr 65
-
-Size 512
-
-gzip:
-real	0m0.002s
-compr 347
-our:
-real	0m0.001s
-compr 129
-
-Size 512
-
-gzip:
-real	0m0.003s
-compr 347
-our:
-real	0m0.001s
-compr 129
-
-Size 512
-
-gzip:
-real	0m0.002s
-compr 347
-our:
-real	0m0.001s
-compr 129
-
-Size 512
-
-gzip:
-real	0m0.003s
-compr 347
-our:
-real	0m0.001s
-compr 129
-
-Size 512
-
-gzip:
-real	0m0.002s
-compr 347
-our:
-real	0m0.001s
-compr 129
-
-Size 512
-
-gzip:
-real	0m0.002s
-compr 347
-our:
-real	0m0.001s
-compr 129
-
-Size 512
-
-gzip:
-real	0m0.002s
-compr 347
-our:
-real	0m0.001s
-compr 129
-
-Size 512
-
-gzip:
-real	0m0.003s
-compr 347
-our:
-real	0m0.001s
-compr 129
-
-Size 512
-
-gzip:
-real	0m0.002s
-compr 347
-our:
-real	0m0.001s
-compr 129
-
-Size 512
-
-gzip:
-real	0m0.003s
-compr 347
-our:
-real	0m0.001s
-compr 129
-
-Size 512
-
-gzip:
-real	0m0.002s
-compr 347
-our:
-real	0m0.001s
-compr 129
-
-Size 512
-
-gzip:
-real	0m0.003s
-compr 347
-our:
-real	0m0.001s
-compr 129
-
-Size 512
-
-gzip:
-real	0m0.002s
-compr 347
-our:
-real	0m0.001s
-compr 129
-
-Size 512
-
-gzip:
-real	0m0.002s
-compr 347
-our:
-real	0m0.001s
-compr 129
-
-Size 512
-
-gzip:
-real	0m0.002s
-compr 347
-our:
-real	0m0.001s
-compr 129
-
-Size 512
-
-gzip:
-real	0m0.002s
-compr 347
-our:
-real	0m0.001s
-compr 129
-
-Size 512
-
-gzip:
-real	0m0.002s
-compr 347
-our:
-real	0m0.001s
-compr 129
-
-Size 512
-
-gzip:
-real	0m0.002s
-compr 347
-our:
-real	0m0.001s
-compr 129
-
-Size 512
-
-gzip:
-real	0m0.003s
-compr 347
-our:
-real	0m0.001s
-compr 129
-
-Size 512
-
-gzip:
-real	0m0.002s
-compr 347
-our:
-real	0m0.001s
-compr 129
-
-Size 512
-
-gzip:
-real	0m0.003s
-compr 347
-our:
-real	0m0.001s
-compr 129
-
-Size 512
-
-gzip:
-real	0m0.002s
-compr 347
-our:
-real	0m0.001s
-compr 129
-
-Size 512
-
-gzip:
-real	0m0.003s
-compr 347
-our:
-real	0m0.001s
-compr 129
-
-Size 512
-
-gzip:
-real	0m0.003s
-compr 347
-our:
-real	0m0.001s
-compr 129
-
-Size 512
-
-gzip:
-real	0m0.003s
-compr 347
-our:
-real	0m0.001s
-compr 129
-
-Size 512
-
-gzip:
-real	0m0.002s
-compr 347
-our:
-real	0m0.001s
-compr 129
-
-Size 512
-
-gzip:
-real	0m0.002s
-compr 347
-our:
-real	0m0.001s
-compr 129
-
-Size 512
-
-gzip:
-real	0m0.003s
-compr 347
-our:
-real	0m0.001s
-compr 129
-
-Size 512
-
-gzip:
-real	0m0.003s
-compr 347
-our:
-real	0m0.001s
-compr 129
-
-Size 512
-
-gzip:
-real	0m0.003s
-compr 347
-our:
-real	0m0.001s
-compr 129
-
-Size 1024
-
-gzip:
-real	0m0.002s
-compr 529
-our:
-real	0m0.001s
-compr 257
-
-Size 1024
-
-gzip:
-real	0m0.002s
-compr 529
-our:
-real	0m0.001s
-compr 257
-
-Size 1024
-
-gzip:
-real	0m0.003s
-compr 529
-our:
-real	0m0.001s
-compr 257
-
-Size 1024
-
-gzip:
-real	0m0.002s
-compr 529
-our:
-real	0m0.001s
-compr 257
-
-Size 1024
-
-gzip:
-real	0m0.002s
-compr 529
-our:
-real	0m0.001s
-compr 257
-
-Size 1024
-
-gzip:
-real	0m0.003s
-compr 529
-our:
-real	0m0.001s
-compr 257
-
-Size 1024
-
-gzip:
-real	0m0.002s
-compr 529
-our:
-real	0m0.001s
-compr 257
-
-Size 1024
-
-gzip:
-real	0m0.003s
-compr 529
-our:
-real	0m0.001s
-compr 257
-
-Size 1024
-
-gzip:
-real	0m0.002s
-compr 529
-our:
-real	0m0.001s
-compr 257
-
-Size 1024
-
-gzip:
-real	0m0.003s
-compr 529
-our:
-real	0m0.001s
-compr 257
-
-Size 1024
-
-gzip:
-real	0m0.003s
-compr 529
-our:
-real	0m0.001s
-compr 257
-
-Size 1024
-
-gzip:
-real	0m0.003s
-compr 529
-our:
-real	0m0.001s
-compr 257
-
-Size 1024
-
-gzip:
-real	0m0.002s
-compr 529
-our:
-real	0m0.001s
-compr 257
-
-Size 1024
-
-gzip:
-real	0m0.002s
-compr 529
-our:
-real	0m0.001s
-compr 257
-
-Size 1024
-
-gzip:
-real	0m0.003s
-compr 529
-our:
-real	0m0.001s
-compr 257
-
-Size 1024
-
-gzip:
-real	0m0.003s
-compr 529
-our:
-real	0m0.001s
-compr 257
-
-Size 1024
-
-gzip:
-real	0m0.002s
-compr 529
-our:
-real	0m0.001s
-compr 257
-
-Size 1024
-
-gzip:
-real	0m0.003s
-compr 529
-our:
-real	0m0.002s
-compr 257
-
-Size 1024
-
-gzip:
-real	0m0.002s
-compr 529
-our:
-real	0m0.001s
-compr 257
-
-Size 1024
-
-gzip:
-real	0m0.002s
-compr 529
-our:
-real	0m0.001s
-compr 257
-
-Size 1024
-
-gzip:
-real	0m0.002s
-compr 529
-our:
-real	0m0.001s
-compr 257
-
-Size 1024
-
-gzip:
-real	0m0.002s
-compr 529
-our:
-real	0m0.001s
-compr 257
-
-Size 1024
-
-gzip:
-real	0m0.003s
-compr 529
-our:
-real	0m0.001s
-compr 257
-
-Size 1024
-
-gzip:
-real	0m0.002s
-compr 529
-our:
-real	0m0.001s
-compr 257
-
-Size 1024
-
-gzip:
-real	0m0.002s
-compr 529
-our:
-real	0m0.001s
-compr 257
-
-Size 1024
-
-gzip:
-real	0m0.002s
-compr 529
-our:
-real	0m0.001s
-compr 257
-
-Size 1024
-
-gzip:
-real	0m0.003s
-compr 529
-our:
-real	0m0.001s
-compr 257
-
-Size 1024
-
-gzip:
-real	0m0.002s
-compr 529
-our:
-real	0m0.001s
-compr 257
-
-Size 1024
-
-gzip:
-real	0m0.002s
-compr 529
-our:
-real	0m0.001s
-compr 257
-
-Size 1024
-
-gzip:
-real	0m0.002s
-compr 529
-our:
-real	0m0.001s
-compr 257
-
-Size 2048
-
-gzip:
-real	0m0.003s
-compr 866
-our:
-real	0m0.001s
-compr 513
-
-Size 2048
-
-gzip:
-real	0m0.002s
-compr 866
-our:
-real	0m0.001s
-compr 513
-
-Size 2048
-
-gzip:
-real	0m0.002s
-compr 866
-our:
-real	0m0.001s
-compr 513
-
-Size 2048
-
-gzip:
-real	0m0.002s
-compr 866
-our:
-real	0m0.001s
-compr 513
-
-Size 2048
-
-gzip:
-real	0m0.003s
-compr 866
-our:
-real	0m0.001s
-compr 513
-
-Size 2048
-
-gzip:
-real	0m0.002s
-compr 866
-our:
-real	0m0.001s
-compr 513
-
-Size 2048
-
-gzip:
-real	0m0.003s
-compr 866
-our:
-real	0m0.001s
-compr 513
-
-Size 2048
-
-gzip:
-real	0m0.002s
-compr 866
-our:
-real	0m0.001s
-compr 513
-
-Size 2048
-
-gzip:
-real	0m0.002s
-compr 866
-our:
-real	0m0.001s
-compr 513
-
-Size 2048
-
-gzip:
-real	0m0.002s
-compr 866
-our:
-real	0m0.001s
-compr 513
-
-Size 2048
-
-gzip:
-real	0m0.003s
-compr 866
-our:
-real	0m0.001s
-compr 513
-
-Size 2048
-
-gzip:
-real	0m0.002s
-compr 866
-our:
-real	0m0.001s
-compr 513
-
-Size 2048
-
-gzip:
-real	0m0.002s
-compr 866
-our:
-real	0m0.001s
-compr 513
-
-Size 2048
-
-gzip:
-real	0m0.003s
-compr 866
-our:
-real	0m0.001s
-compr 513
-
-Size 2048
-
-gzip:
-real	0m0.003s
-compr 866
-our:
-real	0m0.001s
-compr 513
-
-Size 2048
-
-gzip:
-real	0m0.002s
-compr 866
-our:
-real	0m0.001s
-compr 513
-
-Size 2048
-
-gzip:
-real	0m0.002s
-compr 866
-our:
-real	0m0.001s
-compr 513
-
-Size 2048
-
-gzip:
-real	0m0.002s
-compr 866
-our:
-real	0m0.001s
-compr 513
-
-Size 2048
-
-gzip:
-real	0m0.003s
-compr 866
-our:
-real	0m0.001s
-compr 513
-
-Size 2048
-
-gzip:
-real	0m0.002s
-compr 866
-our:
-real	0m0.001s
-compr 513
-
-Size 2048
-
-gzip:
-real	0m0.002s
-compr 866
-our:
-real	0m0.001s
-compr 513
-
-Size 2048
-
-gzip:
-real	0m0.002s
-compr 866
-our:
-real	0m0.001s
-compr 513
-
-Size 2048
-
-gzip:
-real	0m0.003s
-compr 873
-our:
-real	0m0.001s
-compr 513
-
-Size 2048
-
-gzip:
-real	0m0.002s
-compr 873
-our:
-real	0m0.001s
-compr 513
-
-Size 2048
-
-gzip:
-real	0m0.002s
-compr 873
-our:
-real	0m0.001s
-compr 513
-
-Size 2048
-
-gzip:
-real	0m0.002s
-compr 873
-our:
-real	0m0.001s
-compr 513
-
-Size 2048
-
-gzip:
-real	0m0.003s
-compr 873
-our:
-real	0m0.001s
-compr 513
-
-Size 2048
-
-gzip:
-real	0m0.003s
-compr 873
-our:
-real	0m0.001s
-compr 513
-
-Size 2048
-
-gzip:
-real	0m0.003s
-compr 873
-our:
-real	0m0.001s
-compr 513
-
-Size 2048
-
-gzip:
-real	0m0.002s
-compr 873
-our:
-real	0m0.001s
-compr 513
-
-Size 4096
-
-gzip:
-real	0m0.002s
-compr 1524
-our:
-real	0m0.001s
-compr 1025
-
-Size 4096
-
-gzip:
-real	0m0.003s
-compr 1524
-our:
-real	0m0.001s
-compr 1025
-
-Size 4096
-
-gzip:
-real	0m0.002s
-compr 1524
-our:
-real	0m0.001s
-compr 1025
-
-Size 4096
-
-gzip:
-real	0m0.002s
-compr 1524
-our:
-real	0m0.001s
-compr 1025
-
-Size 4096
-
-gzip:
-real	0m0.002s
-compr 1524
-our:
-real	0m0.001s
-compr 1025
-
-Size 4096
-
-gzip:
-real	0m0.003s
-compr 1524
-our:
-real	0m0.001s
-compr 1025
-
-Size 4096
-
-gzip:
-real	0m0.002s
-compr 1524
-our:
-real	0m0.001s
-compr 1025
-
-Size 4096
-
-gzip:
-real	0m0.003s
-compr 1524
-our:
-real	0m0.001s
-compr 1025
-
-Size 4096
-
-gzip:
-real	0m0.003s
-compr 1524
-our:
-real	0m0.001s
-compr 1025
-
-Size 4096
-
-gzip:
-real	0m0.003s
-compr 1524
-our:
-real	0m0.001s
-compr 1025
-
-Size 4096
-
-gzip:
-real	0m0.002s
-compr 1524
-our:
-real	0m0.001s
-compr 1025
-
-Size 4096
-
-gzip:
-real	0m0.002s
-compr 1524
-our:
-real	0m0.001s
-compr 1025
-
-Size 4096
-
-gzip:
-real	0m0.003s
-compr 1524
-our:
-real	0m0.001s
-compr 1025
-
-Size 4096
-
-gzip:
-real	0m0.003s
-compr 1524
-our:
-real	0m0.001s
-compr 1025
-
-Size 4096
-
-gzip:
-real	0m0.002s
-compr 1524
-our:
-real	0m0.001s
-compr 1025
-
-Size 4096
-
-gzip:
-real	0m0.003s
-compr 1524
-our:
-real	0m0.001s
-compr 1025
-
-Size 4096
-
-gzip:
-real	0m0.002s
-compr 1524
-our:
-real	0m0.001s
-compr 1025
-
-Size 4096
-
-gzip:
-real	0m0.003s
-compr 1524
-our:
-real	0m0.001s
-compr 1025
-
-Size 4096
-
-gzip:
-real	0m0.002s
-compr 1524
-our:
-real	0m0.001s
-compr 1025
-
-Size 4096
-
-gzip:
-real	0m0.002s
-compr 1524
-our:
-real	0m0.001s
-compr 1025
-
-Size 4096
-
-gzip:
-real	0m0.003s
-compr 1524
-our:
-real	0m0.001s
-compr 1025
-
-Size 4096
-
-gzip:
-real	0m0.003s
-compr 1524
-our:
-real	0m0.001s
-compr 1025
-
-Size 4096
-
-gzip:
-real	0m0.002s
-compr 1524
-our:
-real	0m0.001s
-compr 1025
-
-Size 4096
-
-gzip:
-real	0m0.003s
-compr 1524
-our:
-real	0m0.001s
-compr 1025
-
-Size 4096
-
-gzip:
-real	0m0.003s
-compr 1524
-our:
-real	0m0.001s
-compr 1025
-
-Size 4096
-
-gzip:
-real	0m0.002s
-compr 1524
-our:
-real	0m0.001s
-compr 1025
-
-Size 4096
-
-gzip:
-real	0m0.003s
-compr 1524
-our:
-real	0m0.001s
-compr 1025
-
-Size 4096
-
-gzip:
-real	0m0.003s
-compr 1524
-our:
-real	0m0.001s
-compr 1025
-
-Size 4096
-
-gzip:
-real	0m0.002s
-compr 1524
-our:
-real	0m0.001s
-compr 1025
-
-Size 4096
-
-gzip:
-real	0m0.003s
-compr 1524
-our:
-real	0m0.001s
-compr 1025
-
-Size 8192
-
-gzip:
-real	0m0.003s
-compr 2786
-our:
-real	0m0.001s
-compr 2049
-
-Size 8192
-
-gzip:
 real	0m0.003s
-compr 2786
+compr 152
 our:
 real	0m0.001s
-compr 2049
+compr 2
 
-Size 8192
+Size 4
 
 gzip:
 real	0m0.003s
-compr 2786
+compr 152
 our:
 real	0m0.001s
-compr 2049
+compr 2
 
-Size 8192
+Size 4
 
 gzip:
 real	0m0.003s
-compr 2786
+compr 152
 our:
 real	0m0.001s
-compr 2049
+compr 2
 
-Size 8192
+Size 4
 
 gzip:
 real	0m0.003s
-compr 2786
+compr 152
 our:
 real	0m0.001s
-compr 2049
+compr 2
 
-Size 8192
+Size 4
 
 gzip:
 real	0m0.003s
-compr 2786
+compr 152
 our:
 real	0m0.001s
-compr 2049
+compr 2
 
-Size 8192
+Size 4
 
 gzip:
 real	0m0.003s
-compr 2786
+compr 152
 our:
 real	0m0.001s
-compr 2049
+compr 2
 
-Size 8192
+Size 4
 
 gzip:
 real	0m0.003s
-compr 2786
+compr 152
 our:
 real	0m0.001s
-compr 2049
+compr 2
 
-Size 8192
+Size 4
 
 gzip:
 real	0m0.003s
-compr 2786
+compr 152
 our:
 real	0m0.001s
-compr 2049
+compr 2
 
-Size 8192
+Size 4
 
 gzip:
 real	0m0.003s
-compr 2786
+compr 152
 our:
 real	0m0.001s
-compr 2049
+compr 2
 
-Size 8192
+Size 4
 
 gzip:
 real	0m0.003s
-compr 2786
+compr 152
 our:
 real	0m0.001s
-compr 2049
+compr 2
 
-Size 8192
+Size 4
 
 gzip:
 real	0m0.003s
-compr 2786
-our:
-real	0m0.001s
-compr 2049
-
-Size 8192
-
-gzip:
-real	0m0.003s
-compr 2786
-our:
-real	0m0.001s
-compr 2049
-
-Size 8192
-
-gzip:
-real	0m0.003s
-compr 2786
-our:
-real	0m0.001s
-compr 2049
-
-Size 8192
-
-gzip:
-real	0m0.003s
-compr 2786
-our:
-real	0m0.001s
-compr 2049
-
-Size 8192
-
-gzip:
-real	0m0.003s
-compr 2786
-our:
-real	0m0.001s
-compr 2049
-
-Size 8192
-
-gzip:
-real	0m0.003s
-compr 2786
-our:
-real	0m0.001s
-compr 2049
-
-Size 8192
-
-gzip:
-real	0m0.003s
-compr 2786
-our:
-real	0m0.001s
-compr 2049
-
-Size 8192
-
-gzip:
-real	0m0.004s
-compr 2786
-our:
-real	0m0.001s
-compr 2049
-
-Size 8192
-
-gzip:
-real	0m0.003s
-compr 2786
-our:
-real	0m0.001s
-compr 2049
-
-Size 8192
-
-gzip:
-real	0m0.003s
-compr 2786
-our:
-real	0m0.001s
-compr 2049
-
-Size 8192
-
-gzip:
-real	0m0.003s
-compr 2786
-our:
-real	0m0.001s
-compr 2049
-
-Size 8192
-
-gzip:
-real	0m0.003s
-compr 2786
-our:
-real	0m0.001s
-compr 2049
-
-Size 8192
-
-gzip:
-real	0m0.003s
-compr 2786
-our:
-real	0m0.001s
-compr 2049
-
-Size 8192
-
-gzip:
-real	0m0.003s
-compr 2786
-our:
-real	0m0.001s
-compr 2049
-
-Size 8192
-
-gzip:
-real	0m0.003s
-compr 2786
-our:
-real	0m0.001s
-compr 2049
-
-Size 8192
-
-gzip:
-real	0m0.003s
-compr 2786
-our:
-real	0m0.001s
-compr 2049
-
-Size 8192
-
-gzip:
-real	0m0.003s
-compr 2786
-our:
-real	0m0.001s
-compr 2049
-
-Size 8192
-
-gzip:
-real	0m0.003s
-compr 2786
-our:
-real	0m0.001s
-compr 2049
-
-Size 8192
-
-gzip:
-real	0m0.003s
-compr 2786
-our:
-real	0m0.001s
-compr 2049
-
-Size 16384
-
-gzip:
-real	0m0.004s
-compr 5296
-our:
-real	0m0.001s
-compr 4097
-
-Size 16384
-
-gzip:
-real	0m0.004s
-compr 5296
-our:
-real	0m0.001s
-compr 4097
-
-Size 16384
-
-gzip:
-real	0m0.004s
-compr 5296
-our:
-real	0m0.001s
-compr 4097
-
-Size 16384
-
-gzip:
-real	0m0.004s
-compr 5296
-our:
-real	0m0.001s
-compr 4097
-
-Size 16384
-
-gzip:
-real	0m0.004s
-compr 5296
-our:
-real	0m0.001s
-compr 4097
-
-Size 16384
-
-gzip:
-real	0m0.004s
-compr 5296
-our:
-real	0m0.001s
-compr 4097
-
-Size 16384
-
-gzip:
-real	0m0.004s
-compr 5296
-our:
-real	0m0.001s
-compr 4097
-
-Size 16384
-
-gzip:
-real	0m0.004s
-compr 5296
-our:
-real	0m0.001s
-compr 4097
-
-Size 16384
-
-gzip:
-real	0m0.004s
-compr 5296
-our:
-real	0m0.001s
-compr 4097
-
-Size 16384
-
-gzip:
-real	0m0.004s
-compr 5296
-our:
-real	0m0.001s
-compr 4097
-
-Size 16384
-
-gzip:
-real	0m0.004s
-compr 5296
-our:
-real	0m0.001s
-compr 4097
-
-Size 16384
-
-gzip:
-real	0m0.004s
-compr 5296
-our:
-real	0m0.001s
-compr 4097
-
-Size 16384
-
-gzip:
-real	0m0.004s
-compr 5296
-our:
-real	0m0.001s
-compr 4097
-
-Size 16384
-
-gzip:
-real	0m0.005s
-compr 5296
-our:
-real	0m0.001s
-compr 4097
-
-Size 16384
-
-gzip:
-real	0m0.004s
-compr 5296
-our:
-real	0m0.001s
-compr 4097
-
-Size 16384
-
-gzip:
-real	0m0.004s
-compr 5296
-our:
-real	0m0.001s
-compr 4097
-
-Size 16384
-
-gzip:
-real	0m0.004s
-compr 5296
-our:
-real	0m0.001s
-compr 4097
-
-Size 16384
-
-gzip:
-real	0m0.004s
-compr 5296
-our:
-real	0m0.001s
-compr 4097
-
-Size 16384
-
-gzip:
-real	0m0.004s
-compr 5296
-our:
-real	0m0.001s
-compr 4097
-
-Size 16384
-
-gzip:
-real	0m0.004s
-compr 5296
-our:
-real	0m0.001s
-compr 4097
-
-Size 16384
-
-gzip:
-real	0m0.004s
-compr 5296
-our:
-real	0m0.001s
-compr 4097
-
-Size 16384
-
-gzip:
-real	0m0.004s
-compr 5296
-our:
-real	0m0.001s
-compr 4097
-
-Size 16384
-
-gzip:
-real	0m0.004s
-compr 5296
-our:
-real	0m0.001s
-compr 4097
-
-Size 16384
-
-gzip:
-real	0m0.004s
-compr 5296
-our:
-real	0m0.001s
-compr 4097
-
-Size 16384
-
-gzip:
-real	0m0.004s
-compr 5296
-our:
-real	0m0.001s
-compr 4097
-
-Size 16384
-
-gzip:
-real	0m0.004s
-compr 5296
-our:
-real	0m0.001s
-compr 4097
-
-Size 16384
-
-gzip:
-real	0m0.004s
-compr 5296
-our:
-real	0m0.001s
-compr 4097
-
-Size 16384
-
-gzip:
-real	0m0.004s
-compr 5296
-our:
-real	0m0.001s
-compr 4097
-
-Size 16384
-
-gzip:
-real	0m0.004s
-compr 5296
-our:
-real	0m0.001s
-compr 4097
-
-Size 16384
-
-gzip:
-real	0m0.004s
-compr 5296
+compr 152
 our:
 real	0m0.001s
-compr 4097
+compr 2
 
-Size 32768
+Size 4
 
 gzip:
 real	0m0.006s
-compr 10150
+compr 152
 our:
 real	0m0.001s
-compr 8193
+compr 2
 
-Size 32768
+Size 4
+
+gzip:
+real	0m0.003s
+compr 152
+our:
+real	0m0.001s
+compr 2
+
+Size 4
+
+gzip:
+real	0m0.003s
+compr 151
+our:
+real	0m0.001s
+compr 2
+
+Size 4
 
 gzip:
 real	0m0.006s
-compr 10150
+compr 151
 our:
 real	0m0.001s
-compr 8193
+compr 2
 
-Size 32768
+Size 4
+
+gzip:
+real	0m0.003s
+compr 151
+our:
+real	0m0.001s
+compr 2
+
+Size 4
+
+gzip:
+real	0m0.003s
+compr 151
+our:
+real	0m0.001s
+compr 2
+
+Size 4
 
 gzip:
 real	0m0.006s
-compr 10150
+compr 151
 our:
 real	0m0.001s
-compr 8193
+compr 2
 
-Size 32768
+Size 4
+
+gzip:
+real	0m0.003s
+compr 151
+our:
+real	0m0.001s
+compr 2
+
+Size 4
+
+gzip:
+real	0m0.003s
+compr 151
+our:
+real	0m0.001s
+compr 2
+
+Size 4
+
+gzip:
+real	0m0.007s
+compr 151
+our:
+real	0m0.001s
+compr 2
+
+Size 8
+
+gzip:
+real	0m0.003s
+compr 158
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.003s
+compr 158
+our:
+real	0m0.001s
+compr 3
+
+Size 8
 
 gzip:
 real	0m0.006s
-compr 10150
+compr 158
 our:
 real	0m0.001s
-compr 8193
+compr 3
 
-Size 32768
+Size 8
+
+gzip:
+real	0m0.003s
+compr 158
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.003s
+compr 158
+our:
+real	0m0.001s
+compr 3
+
+Size 8
 
 gzip:
 real	0m0.006s
-compr 10150
+compr 158
 our:
 real	0m0.001s
-compr 8193
+compr 3
 
-Size 32768
+Size 8
 
 gzip:
-real	0m0.005s
-compr 10150
+real	0m0.003s
+compr 158
 our:
 real	0m0.001s
-compr 8193
+compr 3
 
-Size 32768
+Size 8
 
 gzip:
-real	0m0.005s
-compr 10150
+real	0m0.003s
+compr 158
 our:
 real	0m0.001s
-compr 8193
+compr 3
 
-Size 32768
-
-gzip:
-real	0m0.006s
-compr 10150
-our:
-real	0m0.001s
-compr 8193
-
-Size 32768
-
-gzip:
-real	0m0.005s
-compr 10150
-our:
-real	0m0.001s
-compr 8193
-
-Size 32768
-
-gzip:
-real	0m0.005s
-compr 10155
-our:
-real	0m0.001s
-compr 8193
-
-Size 32768
+Size 8
 
 gzip:
 real	0m0.006s
-compr 10155
+compr 158
 our:
 real	0m0.001s
-compr 8193
+compr 3
 
-Size 32768
+Size 8
+
+gzip:
+real	0m0.003s
+compr 158
+our:
+real	0m0.002s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.003s
+compr 158
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.003s
+compr 158
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.003s
+compr 158
+our:
+real	0m0.002s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.003s
+compr 158
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.003s
+compr 158
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.003s
+compr 158
+our:
+real	0m0.002s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.003s
+compr 158
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.003s
+compr 158
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.003s
+compr 158
+our:
+real	0m0.002s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.003s
+compr 158
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.003s
+compr 158
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.003s
+compr 158
+our:
+real	0m0.002s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.003s
+compr 158
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.003s
+compr 158
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.003s
+compr 158
+our:
+real	0m0.002s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.003s
+compr 158
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.003s
+compr 158
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.003s
+compr 158
+our:
+real	0m0.002s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.003s
+compr 158
+our:
+real	0m0.001s
+compr 3
+
+Size 8
+
+gzip:
+real	0m0.003s
+compr 158
+our:
+real	0m0.001s
+compr 3
+
+Size 16
+
+gzip:
+real	0m0.003s
+compr 163
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.003s
+compr 163
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.003s
+compr 163
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.003s
+compr 163
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.003s
+compr 163
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.003s
+compr 163
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.003s
+compr 163
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.003s
+compr 163
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.003s
+compr 163
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.003s
+compr 163
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.003s
+compr 163
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.003s
+compr 163
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.003s
+compr 163
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.003s
+compr 163
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.003s
+compr 163
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.003s
+compr 163
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.003s
+compr 163
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.003s
+compr 163
+our:
+real	0m0.001s
+compr 5
+
+Size 16
 
 gzip:
 real	0m0.006s
-compr 10155
+compr 163
 our:
 real	0m0.001s
-compr 8193
+compr 5
 
-Size 32768
+Size 16
 
 gzip:
-real	0m0.005s
-compr 10155
+real	0m0.003s
+compr 163
 our:
 real	0m0.001s
-compr 8193
+compr 5
 
-Size 32768
+Size 16
 
 gzip:
-real	0m0.005s
-compr 10155
+real	0m0.003s
+compr 163
 our:
 real	0m0.001s
-compr 8193
+compr 5
 
-Size 32768
-
-gzip:
-real	0m0.006s
-compr 10155
-our:
-real	0m0.001s
-compr 8193
-
-Size 32768
-
-gzip:
-real	0m0.005s
-compr 10155
-our:
-real	0m0.001s
-compr 8193
-
-Size 32768
+Size 16
 
 gzip:
 real	0m0.006s
-compr 10155
+compr 163
 our:
 real	0m0.001s
-compr 8193
+compr 5
 
-Size 32768
+Size 16
+
+gzip:
+real	0m0.003s
+compr 163
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.003s
+compr 163
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.005s
+compr 163
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.003s
+compr 163
+our:
+real	0m0.001s
+compr 5
+
+Size 16
+
+gzip:
+real	0m0.003s
+compr 163
+our:
+real	0m0.001s
+compr 5
+
+Size 16
 
 gzip:
 real	0m0.006s
-compr 10155
+compr 163
 our:
 real	0m0.001s
-compr 8193
+compr 5
 
-Size 32768
+Size 16
 
 gzip:
-real	0m0.005s
-compr 10155
+real	0m0.003s
+compr 163
 our:
 real	0m0.001s
-compr 8193
+compr 5
 
-Size 32768
+Size 16
 
 gzip:
-real	0m0.005s
-compr 10155
+real	0m0.003s
+compr 163
 our:
 real	0m0.001s
-compr 8193
+compr 5
 
-Size 32768
-
-gzip:
-real	0m0.006s
-compr 10155
-our:
-real	0m0.001s
-compr 8193
-
-Size 32768
-
-gzip:
-real	0m0.005s
-compr 10155
-our:
-real	0m0.001s
-compr 8193
-
-Size 32768
-
-gzip:
-real	0m0.005s
-compr 10155
-our:
-real	0m0.001s
-compr 8193
-
-Size 32768
-
-gzip:
-real	0m0.005s
-compr 10155
-our:
-real	0m0.001s
-compr 8193
-
-Size 32768
-
-gzip:
-real	0m0.005s
-compr 10155
-our:
-real	0m0.001s
-compr 8193
-
-Size 32768
-
-gzip:
-real	0m0.005s
-compr 10155
-our:
-real	0m0.001s
-compr 8193
-
-Size 32768
-
-gzip:
-real	0m0.005s
-compr 10155
-our:
-real	0m0.001s
-compr 8193
-
-Size 32768
+Size 32
 
 gzip:
 real	0m0.006s
-compr 10155
+compr 171
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.003s
+compr 171
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.003s
+compr 171
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.007s
+compr 171
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.003s
+compr 171
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.003s
+compr 171
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.006s
+compr 171
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.003s
+compr 171
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.003s
+compr 171
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.006s
+compr 171
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.003s
+compr 171
+our:
+real	0m0.002s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.003s
+compr 171
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.003s
+compr 171
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.003s
+compr 171
+our:
+real	0m0.002s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.003s
+compr 171
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.003s
+compr 171
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.003s
+compr 171
+our:
+real	0m0.002s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.003s
+compr 171
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.003s
+compr 171
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.003s
+compr 171
+our:
+real	0m0.002s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.003s
+compr 171
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.003s
+compr 170
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.003s
+compr 170
+our:
+real	0m0.002s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.003s
+compr 170
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.003s
+compr 170
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.003s
+compr 170
+our:
+real	0m0.003s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.003s
+compr 170
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.003s
+compr 170
+our:
+real	0m0.001s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.003s
+compr 170
+our:
+real	0m0.002s
+compr 9
+
+Size 32
+
+gzip:
+real	0m0.003s
+compr 170
+our:
+real	0m0.001s
+compr 9
+
+Size 64
+
+gzip:
+real	0m0.003s
+compr 186
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.003s
+compr 186
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.003s
+compr 186
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.003s
+compr 186
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.003s
+compr 186
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.003s
+compr 186
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.003s
+compr 186
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.003s
+compr 186
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.003s
+compr 186
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.003s
+compr 186
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.003s
+compr 186
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.003s
+compr 186
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.003s
+compr 186
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.003s
+compr 186
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.003s
+compr 186
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.003s
+compr 186
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.003s
+compr 186
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.003s
+compr 186
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.003s
+compr 186
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.006s
+compr 186
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.003s
+compr 186
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.003s
+compr 186
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.005s
+compr 186
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.003s
+compr 186
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.003s
+compr 186
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.006s
+compr 186
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.003s
+compr 186
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.003s
+compr 186
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.006s
+compr 186
+our:
+real	0m0.001s
+compr 17
+
+Size 64
+
+gzip:
+real	0m0.003s
+compr 186
+our:
+real	0m0.001s
+compr 17
+
+Size 128
+
+gzip:
+real	0m0.003s
+compr 220
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.005s
+compr 220
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.003s
+compr 220
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.003s
+compr 220
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.004s
+compr 220
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.003s
+compr 220
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.003s
+compr 220
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.006s
+compr 220
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.003s
+compr 220
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.003s
+compr 220
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.007s
+compr 220
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.003s
+compr 220
+our:
+real	0m0.002s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.003s
+compr 220
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.003s
+compr 220
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.003s
+compr 220
+our:
+real	0m0.002s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.003s
+compr 220
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.003s
+compr 220
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.003s
+compr 220
+our:
+real	0m0.002s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.003s
+compr 220
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.003s
+compr 220
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.003s
+compr 220
+our:
+real	0m0.003s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.003s
+compr 220
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.003s
+compr 220
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.003s
+compr 220
+our:
+real	0m0.002s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.003s
+compr 220
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.003s
+compr 220
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.003s
+compr 220
+our:
+real	0m0.002s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.003s
+compr 220
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.003s
+compr 220
+our:
+real	0m0.001s
+compr 33
+
+Size 128
+
+gzip:
+real	0m0.003s
+compr 220
+our:
+real	0m0.001s
+compr 33
+
+Size 256
+
+gzip:
+real	0m0.003s
+compr 272
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.003s
+compr 272
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.003s
+compr 272
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.003s
+compr 272
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.003s
+compr 272
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.003s
+compr 272
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.003s
+compr 272
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.003s
+compr 272
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.003s
+compr 272
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.003s
+compr 272
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.003s
+compr 272
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.003s
+compr 272
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.003s
+compr 272
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.003s
+compr 272
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.003s
+compr 272
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.003s
+compr 272
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.003s
+compr 272
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.003s
+compr 272
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.003s
+compr 272
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.003s
+compr 272
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.006s
+compr 278
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.003s
+compr 278
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.003s
+compr 278
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.006s
+compr 278
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.003s
+compr 278
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.003s
+compr 278
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.006s
+compr 278
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.003s
+compr 278
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.003s
+compr 278
+our:
+real	0m0.001s
+compr 65
+
+Size 256
+
+gzip:
+real	0m0.006s
+compr 278
+our:
+real	0m0.001s
+compr 65
+
+Size 512
+
+gzip:
+real	0m0.003s
+compr 383
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.003s
+compr 383
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.004s
+compr 383
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.003s
+compr 383
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.003s
+compr 383
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.004s
+compr 383
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.003s
+compr 383
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.003s
+compr 383
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.005s
+compr 383
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.003s
+compr 383
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.003s
+compr 383
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.005s
+compr 383
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.003s
+compr 383
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.003s
+compr 383
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.003s
+compr 383
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.003s
+compr 383
+our:
+real	0m0.002s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.003s
+compr 383
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.003s
+compr 383
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.003s
+compr 383
+our:
+real	0m0.002s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.003s
+compr 383
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.003s
+compr 383
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.003s
+compr 383
+our:
+real	0m0.002s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.003s
+compr 383
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.003s
+compr 383
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.003s
+compr 383
+our:
+real	0m0.002s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.003s
+compr 383
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.003s
+compr 383
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.003s
+compr 383
+our:
+real	0m0.002s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.003s
+compr 383
+our:
+real	0m0.001s
+compr 129
+
+Size 512
+
+gzip:
+real	0m0.003s
+compr 383
+our:
+real	0m0.001s
+compr 129
+
+Size 1024
+
+gzip:
+real	0m0.007s
+compr 576
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 576
+our:
+real	0m0.002s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 576
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 576
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 576
+our:
+real	0m0.002s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 576
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 576
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 576
+our:
+real	0m0.002s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 576
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 576
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 576
+our:
+real	0m0.002s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 576
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 576
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 576
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 576
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 576
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 576
+our:
+real	0m0.002s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 576
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 576
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 576
+our:
+real	0m0.002s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 576
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 576
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 576
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 576
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 576
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 576
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 576
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 576
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 576
+our:
+real	0m0.001s
+compr 257
+
+Size 1024
+
+gzip:
+real	0m0.003s
+compr 576
+our:
+real	0m0.001s
+compr 257
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 932
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 932
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 932
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 932
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 932
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 932
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 932
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 932
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 932
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 932
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 932
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 932
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 932
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 932
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 932
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 932
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 932
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 932
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 932
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 927
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 927
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 927
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 927
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 927
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 927
+our:
+real	0m0.002s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 927
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 927
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 927
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 927
+our:
+real	0m0.001s
+compr 513
+
+Size 2048
+
+gzip:
+real	0m0.003s
+compr 927
+our:
+real	0m0.001s
+compr 513
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1615
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1615
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1615
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1615
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1615
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1615
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1615
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1615
+our:
+real	0m0.002s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1615
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1615
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1615
+our:
+real	0m0.002s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1615
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1615
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1615
+our:
+real	0m0.002s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1615
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1615
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.004s
+compr 1615
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1615
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1615
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1615
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1615
+our:
+real	0m0.002s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1615
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1615
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1615
+our:
+real	0m0.002s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1615
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.004s
+compr 1615
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.004s
+compr 1615
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1615
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.003s
+compr 1615
+our:
+real	0m0.001s
+compr 1025
+
+Size 4096
+
+gzip:
+real	0m0.007s
+compr 1615
+our:
+real	0m0.001s
+compr 1025
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2937
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2937
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2937
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2937
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.004s
+compr 2937
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.004s
+compr 2937
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2937
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2937
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.004s
+compr 2937
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2937
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2937
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.004s
+compr 2937
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2937
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2937
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.007s
+compr 2937
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.004s
+compr 2937
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.004s
+compr 2937
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.005s
+compr 2937
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.007s
+compr 2937
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.004s
+compr 2937
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2937
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2937
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.007s
+compr 2937
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.005s
+compr 2937
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2937
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2937
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.007s
+compr 2937
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2937
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.003s
+compr 2937
+our:
+real	0m0.001s
+compr 2049
+
+Size 8192
+
+gzip:
+real	0m0.007s
+compr 2937
+our:
+real	0m0.001s
+compr 2049
+
+Size 16384
+
+gzip:
+real	0m0.005s
+compr 5581
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.004s
+compr 5581
+our:
+real	0m0.002s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.005s
+compr 5581
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.005s
+compr 5581
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.006s
+compr 5581
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.005s
+compr 5581
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.005s
+compr 5581
+our:
+real	0m0.002s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.005s
+compr 5581
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.005s
+compr 5581
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.006s
+compr 5581
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.008s
+compr 5581
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.005s
+compr 5581
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.005s
+compr 5621
+our:
+real	0m0.002s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.005s
+compr 5621
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.005s
+compr 5621
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.006s
+compr 5621
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.005s
+compr 5621
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.005s
+compr 5621
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.005s
+compr 5621
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.005s
+compr 5621
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.005s
+compr 5621
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.005s
+compr 5621
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.006s
+compr 5621
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.005s
+compr 5621
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.005s
+compr 5621
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.005s
+compr 5621
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.005s
+compr 5621
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.005s
+compr 5621
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.006s
+compr 5621
+our:
+real	0m0.001s
+compr 4097
+
+Size 16384
+
+gzip:
+real	0m0.005s
+compr 5621
+our:
+real	0m0.001s
+compr 4097
+
+Size 32768
+
+gzip:
+real	0m0.007s
+compr 10799
+our:
+real	0m0.002s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.007s
+compr 10799
 our:
 real	0m0.001s
 compr 8193
@@ -4036,8 +3802,17 @@ compr 8193
 Size 32768
 
 gzip:
-real	0m0.005s
-compr 10155
+real	0m0.007s
+compr 10799
+our:
+real	0m0.002s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.007s
+compr 10799
 our:
 real	0m0.001s
 compr 8193
@@ -4045,8 +3820,233 @@ compr 8193
 Size 32768
 
 gzip:
-real	0m0.005s
-compr 10155
+real	0m0.007s
+compr 10799
+our:
+real	0m0.002s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.007s
+compr 10799
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.007s
+compr 10799
+our:
+real	0m0.002s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.007s
+compr 10799
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.007s
+compr 10799
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.007s
+compr 10799
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.007s
+compr 10799
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.007s
+compr 10799
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.007s
+compr 10799
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.007s
+compr 10799
+our:
+real	0m0.002s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.007s
+compr 10799
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.007s
+compr 10799
+our:
+real	0m0.002s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.007s
+compr 10799
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.007s
+compr 10799
+our:
+real	0m0.002s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.007s
+compr 10799
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.007s
+compr 10799
+our:
+real	0m0.002s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.007s
+compr 10799
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.007s
+compr 10799
+our:
+real	0m0.002s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.007s
+compr 10799
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.007s
+compr 10799
+our:
+real	0m0.002s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.009s
+compr 10799
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.007s
+compr 10799
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.009s
+compr 10799
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.007s
+compr 10799
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.008s
+compr 10799
+our:
+real	0m0.001s
+compr 8193
+
+Size 32768
+
+gzip:
+real	0m0.007s
+compr 10799
 our:
 real	0m0.001s
 compr 8193
@@ -4054,8 +4054,8 @@ compr 8193
 Size 65536
 
 gzip:
-real	0m0.009s
-compr 19756
+real	0m0.013s
+compr 21047
 our:
 real	0m0.001s
 compr 16385
@@ -4063,8 +4063,8 @@ compr 16385
 Size 65536
 
 gzip:
-real	0m0.009s
-compr 19756
+real	0m0.012s
+compr 21047
 our:
 real	0m0.001s
 compr 16385
@@ -4072,8 +4072,8 @@ compr 16385
 Size 65536
 
 gzip:
-real	0m0.009s
-compr 19756
+real	0m0.012s
+compr 21047
 our:
 real	0m0.001s
 compr 16385
@@ -4081,8 +4081,8 @@ compr 16385
 Size 65536
 
 gzip:
-real	0m0.009s
-compr 19756
+real	0m0.013s
+compr 21047
 our:
 real	0m0.001s
 compr 16385
@@ -4090,8 +4090,8 @@ compr 16385
 Size 65536
 
 gzip:
-real	0m0.009s
-compr 19756
+real	0m0.012s
+compr 21047
 our:
 real	0m0.001s
 compr 16385
@@ -4099,8 +4099,17 @@ compr 16385
 Size 65536
 
 gzip:
-real	0m0.009s
-compr 19756
+real	0m0.013s
+compr 21047
+our:
+real	0m0.002s
+compr 16385
+
+Size 65536
+
+gzip:
+real	0m0.012s
+compr 21047
 our:
 real	0m0.001s
 compr 16385
@@ -4108,8 +4117,8 @@ compr 16385
 Size 65536
 
 gzip:
-real	0m0.009s
-compr 19756
+real	0m0.013s
+compr 21047
 our:
 real	0m0.001s
 compr 16385
@@ -4117,8 +4126,17 @@ compr 16385
 Size 65536
 
 gzip:
-real	0m0.009s
-compr 19756
+real	0m0.012s
+compr 21047
+our:
+real	0m0.002s
+compr 16385
+
+Size 65536
+
+gzip:
+real	0m0.012s
+compr 21047
 our:
 real	0m0.001s
 compr 16385
@@ -4126,8 +4144,8 @@ compr 16385
 Size 65536
 
 gzip:
-real	0m0.009s
-compr 19756
+real	0m0.013s
+compr 21047
 our:
 real	0m0.001s
 compr 16385
@@ -4135,8 +4153,17 @@ compr 16385
 Size 65536
 
 gzip:
-real	0m0.009s
-compr 19756
+real	0m0.012s
+compr 20977
+our:
+real	0m0.002s
+compr 16385
+
+Size 65536
+
+gzip:
+real	0m0.012s
+compr 20977
 our:
 real	0m0.001s
 compr 16385
@@ -4144,8 +4171,8 @@ compr 16385
 Size 65536
 
 gzip:
-real	0m0.009s
-compr 19756
+real	0m0.013s
+compr 20977
 our:
 real	0m0.001s
 compr 16385
@@ -4153,8 +4180,8 @@ compr 16385
 Size 65536
 
 gzip:
-real	0m0.010s
-compr 19756
+real	0m0.012s
+compr 20977
 our:
 real	0m0.001s
 compr 16385
@@ -4162,8 +4189,8 @@ compr 16385
 Size 65536
 
 gzip:
-real	0m0.009s
-compr 19756
+real	0m0.013s
+compr 20977
 our:
 real	0m0.001s
 compr 16385
@@ -4171,8 +4198,8 @@ compr 16385
 Size 65536
 
 gzip:
-real	0m0.009s
-compr 19756
+real	0m0.012s
+compr 20977
 our:
 real	0m0.001s
 compr 16385
@@ -4180,8 +4207,8 @@ compr 16385
 Size 65536
 
 gzip:
-real	0m0.009s
-compr 19756
+real	0m0.013s
+compr 20977
 our:
 real	0m0.001s
 compr 16385
@@ -4189,8 +4216,8 @@ compr 16385
 Size 65536
 
 gzip:
-real	0m0.010s
-compr 19756
+real	0m0.014s
+compr 20977
 our:
 real	0m0.001s
 compr 16385
@@ -4198,8 +4225,8 @@ compr 16385
 Size 65536
 
 gzip:
-real	0m0.009s
-compr 19756
+real	0m0.012s
+compr 20977
 our:
 real	0m0.001s
 compr 16385
@@ -4207,8 +4234,8 @@ compr 16385
 Size 65536
 
 gzip:
-real	0m0.009s
-compr 19756
+real	0m0.014s
+compr 20977
 our:
 real	0m0.001s
 compr 16385
@@ -4216,8 +4243,8 @@ compr 16385
 Size 65536
 
 gzip:
-real	0m0.009s
-compr 19756
+real	0m0.013s
+compr 20977
 our:
 real	0m0.001s
 compr 16385
@@ -4225,8 +4252,8 @@ compr 16385
 Size 65536
 
 gzip:
-real	0m0.009s
-compr 19756
+real	0m0.012s
+compr 20977
 our:
 real	0m0.001s
 compr 16385
@@ -4234,8 +4261,8 @@ compr 16385
 Size 65536
 
 gzip:
-real	0m0.009s
-compr 19756
+real	0m0.014s
+compr 20977
 our:
 real	0m0.001s
 compr 16385
@@ -4243,8 +4270,8 @@ compr 16385
 Size 65536
 
 gzip:
-real	0m0.009s
-compr 19756
+real	0m0.013s
+compr 20977
 our:
 real	0m0.001s
 compr 16385
@@ -4252,8 +4279,8 @@ compr 16385
 Size 65536
 
 gzip:
-real	0m0.009s
-compr 19756
+real	0m0.012s
+compr 20977
 our:
 real	0m0.001s
 compr 16385
@@ -4261,8 +4288,17 @@ compr 16385
 Size 65536
 
 gzip:
-real	0m0.009s
-compr 19756
+real	0m0.014s
+compr 20977
+our:
+real	0m0.003s
+compr 16385
+
+Size 65536
+
+gzip:
+real	0m0.012s
+compr 20977
 our:
 real	0m0.001s
 compr 16385
@@ -4270,8 +4306,8 @@ compr 16385
 Size 65536
 
 gzip:
-real	0m0.009s
-compr 19756
+real	0m0.013s
+compr 20977
 our:
 real	0m0.001s
 compr 16385
@@ -4279,53 +4315,35 @@ compr 16385
 Size 65536
 
 gzip:
-real	0m0.009s
-compr 19756
+real	0m0.012s
+compr 20977
 our:
-real	0m0.001s
-compr 16385
-
-Size 65536
-
-gzip:
-real	0m0.009s
-compr 19756
-our:
-real	0m0.001s
-compr 16385
-
-Size 65536
-
-gzip:
-real	0m0.009s
-compr 19756
-our:
-real	0m0.001s
-compr 16385
-
-Size 65536
-
-gzip:
-real	0m0.009s
-compr 19756
-our:
-real	0m0.001s
-compr 16385
-
-Size 65536
-
-gzip:
-real	0m0.009s
-compr 19756
-our:
-real	0m0.001s
+real	0m0.002s
 compr 16385
 
 Size 131072
 
 gzip:
-real	0m0.016s
-compr 38853
+real	0m0.021s
+compr 41418
+our:
+real	0m0.003s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.020s
+compr 41418
+our:
+real	0m0.002s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.018s
+compr 41418
 our:
 real	0m0.001s
 compr 32769
@@ -4333,8 +4351,62 @@ compr 32769
 Size 131072
 
 gzip:
-real	0m0.016s
-compr 38853
+real	0m0.018s
+compr 41418
+our:
+real	0m0.001s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.019s
+compr 41418
+our:
+real	0m0.001s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.019s
+compr 41418
+our:
+real	0m0.002s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.018s
+compr 41418
+our:
+real	0m0.002s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.018s
+compr 41418
+our:
+real	0m0.002s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.018s
+compr 41418
+our:
+real	0m0.001s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.019s
+compr 41418
 our:
 real	0m0.001s
 compr 32769
@@ -4343,16 +4415,43 @@ Size 131072
 
 gzip:
 real	0m0.017s
-compr 38853
+compr 41418
 our:
-real	0m0.002s
+real	0m0.001s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.015s
+compr 41418
+our:
+real	0m0.003s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.019s
+compr 41418
+our:
+real	0m0.001s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.018s
+compr 41418
+our:
+real	0m0.001s
 compr 32769
 
 Size 131072
 
 gzip:
 real	0m0.016s
-compr 38853
+compr 41418
 our:
 real	0m0.001s
 compr 32769
@@ -4361,7 +4460,61 @@ Size 131072
 
 gzip:
 real	0m0.017s
-compr 38853
+compr 41418
+our:
+real	0m0.001s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.020s
+compr 41418
+our:
+real	0m0.001s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.018s
+compr 41418
+our:
+real	0m0.001s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.019s
+compr 41418
+our:
+real	0m0.001s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.019s
+compr 41418
+our:
+real	0m0.001s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.019s
+compr 41418
+our:
+real	0m0.001s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.018s
+compr 41356
 our:
 real	0m0.001s
 compr 32769
@@ -4370,7 +4523,16 @@ Size 131072
 
 gzip:
 real	0m0.015s
-compr 38853
+compr 41356
+our:
+real	0m0.002s
+compr 32769
+
+Size 131072
+
+gzip:
+real	0m0.017s
+compr 41356
 our:
 real	0m0.001s
 compr 32769
@@ -4378,8 +4540,8 @@ compr 32769
 Size 131072
 
 gzip:
-real	0m0.014s
-compr 38853
+real	0m0.017s
+compr 41356
 our:
 real	0m0.001s
 compr 32769
@@ -4387,206 +4549,44 @@ compr 32769
 Size 131072
 
 gzip:
-real	0m0.015s
-compr 38853
+real	0m0.021s
+compr 41356
 our:
-real	0m0.001s
+real	0m0.002s
 compr 32769
 
 Size 131072
 
 gzip:
-real	0m0.015s
-compr 38853
+real	0m0.020s
+compr 41356
 our:
-real	0m0.001s
+real	0m0.002s
 compr 32769
 
 Size 131072
 
 gzip:
-real	0m0.015s
-compr 38853
+real	0m0.020s
+compr 41356
 our:
-real	0m0.001s
+real	0m0.002s
 compr 32769
 
 Size 131072
 
 gzip:
-real	0m0.016s
-compr 38853
+real	0m0.019s
+compr 41356
 our:
-real	0m0.001s
+real	0m0.002s
 compr 32769
 
 Size 131072
 
 gzip:
-real	0m0.015s
-compr 38853
-our:
-real	0m0.001s
-compr 32769
-
-Size 131072
-
-gzip:
-real	0m0.015s
-compr 38926
-our:
-real	0m0.001s
-compr 32769
-
-Size 131072
-
-gzip:
-real	0m0.015s
-compr 38926
-our:
-real	0m0.001s
-compr 32769
-
-Size 131072
-
-gzip:
-real	0m0.016s
-compr 38926
-our:
-real	0m0.001s
-compr 32769
-
-Size 131072
-
-gzip:
-real	0m0.016s
-compr 38926
-our:
-real	0m0.001s
-compr 32769
-
-Size 131072
-
-gzip:
-real	0m0.015s
-compr 38926
-our:
-real	0m0.001s
-compr 32769
-
-Size 131072
-
-gzip:
-real	0m0.014s
-compr 38926
-our:
-real	0m0.001s
-compr 32769
-
-Size 131072
-
-gzip:
-real	0m0.015s
-compr 38926
-our:
-real	0m0.001s
-compr 32769
-
-Size 131072
-
-gzip:
-real	0m0.015s
-compr 38926
-our:
-real	0m0.001s
-compr 32769
-
-Size 131072
-
-gzip:
-real	0m0.015s
-compr 38926
-our:
-real	0m0.001s
-compr 32769
-
-Size 131072
-
-gzip:
-real	0m0.014s
-compr 38926
-our:
-real	0m0.001s
-compr 32769
-
-Size 131072
-
-gzip:
-real	0m0.014s
-compr 38926
-our:
-real	0m0.001s
-compr 32769
-
-Size 131072
-
-gzip:
-real	0m0.015s
-compr 38926
-our:
-real	0m0.001s
-compr 32769
-
-Size 131072
-
-gzip:
-real	0m0.014s
-compr 38926
-our:
-real	0m0.001s
-compr 32769
-
-Size 131072
-
-gzip:
-real	0m0.014s
-compr 38926
-our:
-real	0m0.001s
-compr 32769
-
-Size 131072
-
-gzip:
-real	0m0.015s
-compr 38926
-our:
-real	0m0.001s
-compr 32769
-
-Size 131072
-
-gzip:
-real	0m0.015s
-compr 38926
-our:
-real	0m0.001s
-compr 32769
-
-Size 131072
-
-gzip:
-real	0m0.015s
-compr 38926
-our:
-real	0m0.001s
-compr 32769
-
-Size 131072
-
-gzip:
-real	0m0.015s
-compr 38926
+real	0m0.017s
+compr 41356
 our:
 real	0m0.001s
 compr 32769
@@ -4594,8 +4594,8 @@ compr 32769
 Size 262144
 
 gzip:
-real	0m0.028s
-compr 77225
+real	0m0.030s
+compr 82054
 our:
 real	0m0.002s
 compr 65537
@@ -4604,7 +4604,25 @@ Size 262144
 
 gzip:
 real	0m0.027s
-compr 77225
+compr 82054
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.032s
+compr 82054
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.034s
+compr 82054
 our:
 real	0m0.002s
 compr 65537
@@ -4613,7 +4631,7 @@ Size 262144
 
 gzip:
 real	0m0.027s
-compr 77225
+compr 82054
 our:
 real	0m0.002s
 compr 65537
@@ -4621,26 +4639,8 @@ compr 65537
 Size 262144
 
 gzip:
-real	0m0.027s
-compr 77225
-our:
-real	0m0.002s
-compr 65537
-
-Size 262144
-
-gzip:
-real	0m0.027s
-compr 77225
-our:
-real	0m0.002s
-compr 65537
-
-Size 262144
-
-gzip:
-real	0m0.027s
-compr 77225
+real	0m0.031s
+compr 82054
 our:
 real	0m0.002s
 compr 65537
@@ -4649,34 +4649,7 @@ Size 262144
 
 gzip:
 real	0m0.028s
-compr 77225
-our:
-real	0m0.002s
-compr 65537
-
-Size 262144
-
-gzip:
-real	0m0.027s
-compr 77225
-our:
-real	0m0.002s
-compr 65537
-
-Size 262144
-
-gzip:
-real	0m0.027s
-compr 77225
-our:
-real	0m0.002s
-compr 65537
-
-Size 262144
-
-gzip:
-real	0m0.027s
-compr 77225
+compr 82054
 our:
 real	0m0.002s
 compr 65537
@@ -4685,7 +4658,7 @@ Size 262144
 
 gzip:
 real	0m0.029s
-compr 77225
+compr 82054
 our:
 real	0m0.002s
 compr 65537
@@ -4694,7 +4667,7 @@ Size 262144
 
 gzip:
 real	0m0.027s
-compr 77225
+compr 82054
 our:
 real	0m0.002s
 compr 65537
@@ -4702,8 +4675,8 @@ compr 65537
 Size 262144
 
 gzip:
-real	0m0.027s
-compr 77225
+real	0m0.036s
+compr 82054
 our:
 real	0m0.002s
 compr 65537
@@ -4711,26 +4684,8 @@ compr 65537
 Size 262144
 
 gzip:
-real	0m0.027s
-compr 77225
-our:
-real	0m0.002s
-compr 65537
-
-Size 262144
-
-gzip:
-real	0m0.027s
-compr 77225
-our:
-real	0m0.002s
-compr 65537
-
-Size 262144
-
-gzip:
-real	0m0.027s
-compr 77225
+real	0m0.034s
+compr 82054
 our:
 real	0m0.002s
 compr 65537
@@ -4739,7 +4694,52 @@ Size 262144
 
 gzip:
 real	0m0.030s
-compr 77205
+compr 82054
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.030s
+compr 82054
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.030s
+compr 82054
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.032s
+compr 82054
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.032s
+compr 82054
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.034s
+compr 82054
 our:
 real	0m0.002s
 compr 65537
@@ -4748,7 +4748,7 @@ Size 262144
 
 gzip:
 real	0m0.027s
-compr 77205
+compr 82054
 our:
 real	0m0.002s
 compr 65537
@@ -4756,8 +4756,8 @@ compr 65537
 Size 262144
 
 gzip:
-real	0m0.027s
-compr 77205
+real	0m0.031s
+compr 82146
 our:
 real	0m0.002s
 compr 65537
@@ -4766,7 +4766,16 @@ Size 262144
 
 gzip:
 real	0m0.029s
-compr 77205
+compr 82146
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.028s
+compr 82146
 our:
 real	0m0.002s
 compr 65537
@@ -4775,7 +4784,25 @@ Size 262144
 
 gzip:
 real	0m0.027s
-compr 77205
+compr 82146
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.029s
+compr 82146
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.029s
+compr 82146
 our:
 real	0m0.002s
 compr 65537
@@ -4784,7 +4811,34 @@ Size 262144
 
 gzip:
 real	0m0.027s
-compr 77205
+compr 82146
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.028s
+compr 82146
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.028s
+compr 82146
+our:
+real	0m0.002s
+compr 65537
+
+Size 262144
+
+gzip:
+real	0m0.028s
+compr 82146
 our:
 real	0m0.002s
 compr 65537
@@ -4793,7 +4847,7 @@ Size 262144
 
 gzip:
 real	0m0.027s
-compr 77205
+compr 82146
 our:
 real	0m0.002s
 compr 65537
@@ -4801,62 +4855,8 @@ compr 65537
 Size 262144
 
 gzip:
-real	0m0.027s
-compr 77205
-our:
-real	0m0.002s
-compr 65537
-
-Size 262144
-
-gzip:
-real	0m0.027s
-compr 77205
-our:
-real	0m0.002s
-compr 65537
-
-Size 262144
-
-gzip:
-real	0m0.027s
-compr 77205
-our:
-real	0m0.002s
-compr 65537
-
-Size 262144
-
-gzip:
-real	0m0.027s
-compr 77205
-our:
-real	0m0.002s
-compr 65537
-
-Size 262144
-
-gzip:
-real	0m0.027s
-compr 77205
-our:
-real	0m0.002s
-compr 65537
-
-Size 262144
-
-gzip:
-real	0m0.027s
-compr 77205
-our:
-real	0m0.002s
-compr 65537
-
-Size 262144
-
-gzip:
-real	0m0.027s
-compr 77205
+real	0m0.028s
+compr 82146
 our:
 real	0m0.002s
 compr 65537
@@ -4864,17 +4864,8 @@ compr 65537
 Size 524288
 
 gzip:
-real	0m0.052s
-compr 153815
-our:
-real	0m0.005s
-compr 131073
-
-Size 524288
-
-gzip:
-real	0m0.053s
-compr 153815
+real	0m0.055s
+compr 163535
 our:
 real	0m0.003s
 compr 131073
@@ -4882,8 +4873,8 @@ compr 131073
 Size 524288
 
 gzip:
-real	0m0.052s
-compr 153815
+real	0m0.055s
+compr 163535
 our:
 real	0m0.003s
 compr 131073
@@ -4891,8 +4882,8 @@ compr 131073
 Size 524288
 
 gzip:
-real	0m0.052s
-compr 153815
+real	0m0.055s
+compr 163535
 our:
 real	0m0.003s
 compr 131073
@@ -4900,8 +4891,8 @@ compr 131073
 Size 524288
 
 gzip:
-real	0m0.053s
-compr 153815
+real	0m0.054s
+compr 163535
 our:
 real	0m0.003s
 compr 131073
@@ -4909,8 +4900,8 @@ compr 131073
 Size 524288
 
 gzip:
-real	0m0.052s
-compr 153815
+real	0m0.054s
+compr 163535
 our:
 real	0m0.003s
 compr 131073
@@ -4918,8 +4909,8 @@ compr 131073
 Size 524288
 
 gzip:
-real	0m0.053s
-compr 153815
+real	0m0.054s
+compr 163535
 our:
 real	0m0.003s
 compr 131073
@@ -4927,8 +4918,8 @@ compr 131073
 Size 524288
 
 gzip:
-real	0m0.053s
-compr 153815
+real	0m0.054s
+compr 163535
 our:
 real	0m0.003s
 compr 131073
@@ -4936,8 +4927,8 @@ compr 131073
 Size 524288
 
 gzip:
-real	0m0.053s
-compr 153724
+real	0m0.055s
+compr 163535
 our:
 real	0m0.003s
 compr 131073
@@ -4945,8 +4936,8 @@ compr 131073
 Size 524288
 
 gzip:
-real	0m0.053s
-compr 153724
+real	0m0.055s
+compr 163725
 our:
 real	0m0.003s
 compr 131073
@@ -4954,8 +4945,8 @@ compr 131073
 Size 524288
 
 gzip:
-real	0m0.053s
-compr 153724
+real	0m0.055s
+compr 163725
 our:
 real	0m0.003s
 compr 131073
@@ -4963,8 +4954,8 @@ compr 131073
 Size 524288
 
 gzip:
-real	0m0.053s
-compr 153724
+real	0m0.054s
+compr 163725
 our:
 real	0m0.003s
 compr 131073
@@ -4972,17 +4963,8 @@ compr 131073
 Size 524288
 
 gzip:
-real	0m0.053s
-compr 153724
-our:
-real	0m0.003s
-compr 131073
-
-Size 524288
-
-gzip:
-real	0m0.052s
-compr 153724
+real	0m0.054s
+compr 163725
 our:
 real	0m0.003s
 compr 131073
@@ -4991,34 +4973,7 @@ Size 524288
 
 gzip:
 real	0m0.053s
-compr 153724
-our:
-real	0m0.003s
-compr 131073
-
-Size 524288
-
-gzip:
-real	0m0.052s
-compr 153724
-our:
-real	0m0.003s
-compr 131073
-
-Size 524288
-
-gzip:
-real	0m0.052s
-compr 153724
-our:
-real	0m0.003s
-compr 131073
-
-Size 524288
-
-gzip:
-real	0m0.052s
-compr 153724
+compr 163725
 our:
 real	0m0.003s
 compr 131073
@@ -5027,7 +4982,16 @@ Size 524288
 
 gzip:
 real	0m0.053s
-compr 153724
+compr 163725
+our:
+real	0m0.004s
+compr 131073
+
+Size 524288
+
+gzip:
+real	0m0.053s
+compr 163725
 our:
 real	0m0.003s
 compr 131073
@@ -5036,7 +5000,43 @@ Size 524288
 
 gzip:
 real	0m0.053s
-compr 153724
+compr 163725
+our:
+real	0m0.003s
+compr 131073
+
+Size 524288
+
+gzip:
+real	0m0.054s
+compr 163725
+our:
+real	0m0.003s
+compr 131073
+
+Size 524288
+
+gzip:
+real	0m0.054s
+compr 163725
+our:
+real	0m0.003s
+compr 131073
+
+Size 524288
+
+gzip:
+real	0m0.054s
+compr 163725
+our:
+real	0m0.003s
+compr 131073
+
+Size 524288
+
+gzip:
+real	0m0.054s
+compr 163725
 our:
 real	0m0.003s
 compr 131073
@@ -5045,7 +5045,7 @@ Size 524288
 
 gzip:
 real	0m0.053s
-compr 153724
+compr 163725
 our:
 real	0m0.003s
 compr 131073
@@ -5053,17 +5053,8 @@ compr 131073
 Size 524288
 
 gzip:
-real	0m0.052s
-compr 153724
-our:
-real	0m0.003s
-compr 131073
-
-Size 524288
-
-gzip:
-real	0m0.052s
-compr 153724
+real	0m0.054s
+compr 163725
 our:
 real	0m0.003s
 compr 131073
@@ -5072,7 +5063,7 @@ Size 524288
 
 gzip:
 real	0m0.053s
-compr 153757
+compr 163725
 our:
 real	0m0.003s
 compr 131073
@@ -5081,7 +5072,7 @@ Size 524288
 
 gzip:
 real	0m0.053s
-compr 153757
+compr 163621
 our:
 real	0m0.003s
 compr 131073
@@ -5089,8 +5080,8 @@ compr 131073
 Size 524288
 
 gzip:
-real	0m0.052s
-compr 153757
+real	0m0.053s
+compr 163621
 our:
 real	0m0.003s
 compr 131073
@@ -5098,8 +5089,8 @@ compr 131073
 Size 524288
 
 gzip:
-real	0m0.052s
-compr 153757
+real	0m0.053s
+compr 163621
 our:
 real	0m0.003s
 compr 131073
@@ -5107,8 +5098,8 @@ compr 131073
 Size 524288
 
 gzip:
-real	0m0.052s
-compr 153757
+real	0m0.054s
+compr 163621
 our:
 real	0m0.003s
 compr 131073
@@ -5116,8 +5107,8 @@ compr 131073
 Size 524288
 
 gzip:
-real	0m0.052s
-compr 153757
+real	0m0.053s
+compr 163621
 our:
 real	0m0.003s
 compr 131073
@@ -5125,8 +5116,17 @@ compr 131073
 Size 524288
 
 gzip:
-real	0m0.052s
-compr 153757
+real	0m0.053s
+compr 163621
+our:
+real	0m0.003s
+compr 131073
+
+Size 524288
+
+gzip:
+real	0m0.053s
+compr 163621
 our:
 real	0m0.003s
 compr 131073
@@ -5134,8 +5134,8 @@ compr 131073
 Size 1048576
 
 gzip:
-real	0m0.103s
-compr 306959
+real	0m0.104s
+compr 326528
 our:
 real	0m0.006s
 compr 262145
@@ -5143,44 +5143,8 @@ compr 262145
 Size 1048576
 
 gzip:
-real	0m0.102s
-compr 306959
-our:
-real	0m0.006s
-compr 262145
-
-Size 1048576
-
-gzip:
-real	0m0.103s
-compr 306959
-our:
-real	0m0.006s
-compr 262145
-
-Size 1048576
-
-gzip:
-real	0m0.103s
-compr 306959
-our:
-real	0m0.006s
-compr 262145
-
-Size 1048576
-
-gzip:
-real	0m0.102s
-compr 306959
-our:
-real	0m0.006s
-compr 262145
-
-Size 1048576
-
-gzip:
-real	0m0.102s
-compr 307110
+real	0m0.104s
+compr 326528
 our:
 real	0m0.006s
 compr 262145
@@ -5189,7 +5153,7 @@ Size 1048576
 
 gzip:
 real	0m0.105s
-compr 307110
+compr 326528
 our:
 real	0m0.006s
 compr 262145
@@ -5197,8 +5161,8 @@ compr 262145
 Size 1048576
 
 gzip:
-real	0m0.102s
-compr 307110
+real	0m0.104s
+compr 326528
 our:
 real	0m0.006s
 compr 262145
@@ -5206,8 +5170,8 @@ compr 262145
 Size 1048576
 
 gzip:
-real	0m0.103s
-compr 307110
+real	0m0.106s
+compr 326439
 our:
 real	0m0.006s
 compr 262145
@@ -5215,8 +5179,8 @@ compr 262145
 Size 1048576
 
 gzip:
-real	0m0.103s
-compr 307110
+real	0m0.104s
+compr 326439
 our:
 real	0m0.006s
 compr 262145
@@ -5224,8 +5188,8 @@ compr 262145
 Size 1048576
 
 gzip:
-real	0m0.103s
-compr 307110
+real	0m0.104s
+compr 326439
 our:
 real	0m0.006s
 compr 262145
@@ -5233,17 +5197,8 @@ compr 262145
 Size 1048576
 
 gzip:
-real	0m0.103s
-compr 307110
-our:
-real	0m0.007s
-compr 262145
-
-Size 1048576
-
-gzip:
-real	0m0.102s
-compr 307110
+real	0m0.104s
+compr 326439
 our:
 real	0m0.006s
 compr 262145
@@ -5251,8 +5206,8 @@ compr 262145
 Size 1048576
 
 gzip:
-real	0m0.103s
-compr 307012
+real	0m0.104s
+compr 326439
 our:
 real	0m0.006s
 compr 262145
@@ -5260,8 +5215,8 @@ compr 262145
 Size 1048576
 
 gzip:
-real	0m0.103s
-compr 307012
+real	0m0.104s
+compr 326439
 our:
 real	0m0.006s
 compr 262145
@@ -5269,8 +5224,8 @@ compr 262145
 Size 1048576
 
 gzip:
-real	0m0.103s
-compr 307012
+real	0m0.104s
+compr 326439
 our:
 real	0m0.006s
 compr 262145
@@ -5278,8 +5233,8 @@ compr 262145
 Size 1048576
 
 gzip:
-real	0m0.102s
-compr 307012
+real	0m0.104s
+compr 326439
 our:
 real	0m0.006s
 compr 262145
@@ -5287,8 +5242,8 @@ compr 262145
 Size 1048576
 
 gzip:
-real	0m0.103s
-compr 307012
+real	0m0.104s
+compr 326334
 our:
 real	0m0.006s
 compr 262145
@@ -5296,8 +5251,8 @@ compr 262145
 Size 1048576
 
 gzip:
-real	0m0.103s
-compr 307012
+real	0m0.106s
+compr 326334
 our:
 real	0m0.006s
 compr 262145
@@ -5305,8 +5260,8 @@ compr 262145
 Size 1048576
 
 gzip:
-real	0m0.103s
-compr 307012
+real	0m0.105s
+compr 326334
 our:
 real	0m0.006s
 compr 262145
@@ -5314,8 +5269,8 @@ compr 262145
 Size 1048576
 
 gzip:
-real	0m0.103s
-compr 307012
+real	0m0.105s
+compr 326334
 our:
 real	0m0.006s
 compr 262145
@@ -5323,8 +5278,8 @@ compr 262145
 Size 1048576
 
 gzip:
-real	0m0.103s
-compr 307047
+real	0m0.104s
+compr 326334
 our:
 real	0m0.006s
 compr 262145
@@ -5332,8 +5287,8 @@ compr 262145
 Size 1048576
 
 gzip:
-real	0m0.103s
-compr 307047
+real	0m0.104s
+compr 326334
 our:
 real	0m0.006s
 compr 262145
@@ -5341,8 +5296,8 @@ compr 262145
 Size 1048576
 
 gzip:
-real	0m0.103s
-compr 307047
+real	0m0.104s
+compr 326334
 our:
 real	0m0.006s
 compr 262145
@@ -5350,8 +5305,8 @@ compr 262145
 Size 1048576
 
 gzip:
-real	0m0.102s
-compr 307047
+real	0m0.104s
+compr 326334
 our:
 real	0m0.006s
 compr 262145
@@ -5359,8 +5314,8 @@ compr 262145
 Size 1048576
 
 gzip:
-real	0m0.102s
-compr 307047
+real	0m0.105s
+compr 326581
 our:
 real	0m0.006s
 compr 262145
@@ -5368,8 +5323,8 @@ compr 262145
 Size 1048576
 
 gzip:
-real	0m0.108s
-compr 307047
+real	0m0.105s
+compr 326581
 our:
 real	0m0.006s
 compr 262145
@@ -5377,8 +5332,8 @@ compr 262145
 Size 1048576
 
 gzip:
-real	0m0.103s
-compr 307047
+real	0m0.105s
+compr 326581
 our:
 real	0m0.006s
 compr 262145
@@ -5386,8 +5341,8 @@ compr 262145
 Size 1048576
 
 gzip:
-real	0m0.103s
-compr 307047
+real	0m0.104s
+compr 326581
 our:
 real	0m0.006s
 compr 262145
@@ -5395,71 +5350,62 @@ compr 262145
 Size 1048576
 
 gzip:
-real	0m0.103s
-compr 306951
+real	0m0.104s
+compr 326581
 our:
 real	0m0.006s
 compr 262145
 
-Size 2097152
+Size 1048576
 
 gzip:
-real	0m0.204s
-compr 613337
+real	0m0.104s
+compr 326581
 our:
-real	0m0.012s
-compr 524289
+real	0m0.006s
+compr 262145
 
-Size 2097152
+Size 1048576
 
 gzip:
-real	0m0.205s
-compr 613337
+real	0m0.104s
+compr 326581
 our:
-real	0m0.012s
-compr 524289
+real	0m0.006s
+compr 262145
 
-Size 2097152
+Size 1048576
 
 gzip:
-real	0m0.204s
-compr 613337
+real	0m0.104s
+compr 326581
 our:
-real	0m0.012s
-compr 524289
+real	0m0.006s
+compr 262145
 
-Size 2097152
+Size 1048576
 
 gzip:
-real	0m0.203s
-compr 613337
+real	0m0.104s
+compr 326409
 our:
-real	0m0.012s
-compr 524289
+real	0m0.006s
+compr 262145
 
-Size 2097152
+Size 1048576
 
 gzip:
-real	0m0.203s
-compr 613151
+real	0m0.104s
+compr 326409
 our:
-real	0m0.012s
-compr 524289
-
-Size 2097152
-
-gzip:
-real	0m0.203s
-compr 613151
-our:
-real	0m0.012s
-compr 524289
+real	0m0.006s
+compr 262145
 
 Size 2097152
 
 gzip:
 real	0m0.206s
-compr 613151
+compr 652283
 our:
 real	0m0.012s
 compr 524289
@@ -5467,8 +5413,8 @@ compr 524289
 Size 2097152
 
 gzip:
-real	0m0.204s
-compr 613151
+real	0m0.208s
+compr 652283
 our:
 real	0m0.012s
 compr 524289
@@ -5476,188 +5422,8 @@ compr 524289
 Size 2097152
 
 gzip:
-real	0m0.203s
-compr 613481
-our:
-real	0m0.012s
-compr 524289
-
-Size 2097152
-
-gzip:
-real	0m0.204s
-compr 613481
-our:
-real	0m0.012s
-compr 524289
-
-Size 2097152
-
-gzip:
-real	0m0.203s
-compr 613481
-our:
-real	0m0.012s
-compr 524289
-
-Size 2097152
-
-gzip:
-real	0m0.204s
-compr 613481
-our:
-real	0m0.012s
-compr 524289
-
-Size 2097152
-
-gzip:
-real	0m0.204s
-compr 613428
-our:
-real	0m0.012s
-compr 524289
-
-Size 2097152
-
-gzip:
-real	0m0.204s
-compr 613428
-our:
-real	0m0.012s
-compr 524289
-
-Size 2097152
-
-gzip:
-real	0m0.205s
-compr 613428
-our:
-real	0m0.012s
-compr 524289
-
-Size 2097152
-
-gzip:
-real	0m0.204s
-compr 613428
-our:
-real	0m0.012s
-compr 524289
-
-Size 2097152
-
-gzip:
-real	0m0.203s
-compr 613411
-our:
-real	0m0.012s
-compr 524289
-
-Size 2097152
-
-gzip:
-real	0m0.203s
-compr 613411
-our:
-real	0m0.012s
-compr 524289
-
-Size 2097152
-
-gzip:
-real	0m0.203s
-compr 613411
-our:
-real	0m0.012s
-compr 524289
-
-Size 2097152
-
-gzip:
-real	0m0.203s
-compr 613411
-our:
-real	0m0.012s
-compr 524289
-
-Size 2097152
-
-gzip:
-real	0m0.203s
-compr 613411
-our:
-real	0m0.012s
-compr 524289
-
-Size 2097152
-
-gzip:
-real	0m0.203s
-compr 613376
-our:
-real	0m0.012s
-compr 524289
-
-Size 2097152
-
-gzip:
-real	0m0.203s
-compr 613376
-our:
-real	0m0.012s
-compr 524289
-
-Size 2097152
-
-gzip:
-real	0m0.203s
-compr 613376
-our:
-real	0m0.012s
-compr 524289
-
-Size 2097152
-
-gzip:
-real	0m0.204s
-compr 613376
-our:
-real	0m0.012s
-compr 524289
-
-Size 2097152
-
-gzip:
-real	0m0.204s
-compr 613392
-our:
-real	0m0.012s
-compr 524289
-
-Size 2097152
-
-gzip:
-real	0m0.204s
-compr 613392
-our:
-real	0m0.012s
-compr 524289
-
-Size 2097152
-
-gzip:
-real	0m0.204s
-compr 613392
-our:
-real	0m0.012s
-compr 524289
-
-Size 2097152
-
-gzip:
-real	0m0.204s
-compr 613392
+real	0m0.211s
+compr 652283
 our:
 real	0m0.012s
 compr 524289
@@ -5666,16 +5432,250 @@ Size 2097152
 
 gzip:
 real	0m0.207s
-compr 613354
+compr 652279
 our:
-real	0m0.013s
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.208s
+compr 652279
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.210s
+compr 652279
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.214s
+compr 652279
+our:
+real	0m0.014s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.211s
+compr 652312
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.208s
+compr 652312
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.208s
+compr 652312
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.207s
+compr 652312
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.207s
+compr 652263
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.207s
+compr 652263
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.207s
+compr 652263
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.208s
+compr 652263
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.208s
+compr 652214
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.208s
+compr 652214
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.209s
+compr 652214
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.208s
+compr 652214
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.207s
+compr 652151
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.208s
+compr 652151
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.212s
+compr 652151
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.208s
+compr 652151
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.209s
+compr 652287
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.207s
+compr 652287
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.207s
+compr 652287
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.207s
+compr 652287
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.209s
+compr 652280
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.206s
+compr 652280
+our:
+real	0m0.012s
+compr 524289
+
+Size 2097152
+
+gzip:
+real	0m0.206s
+compr 652280
+our:
+real	0m0.012s
 compr 524289
 
 Size 4194304
 
 gzip:
-real	0m0.403s
-compr 1226379
+real	0m0.412s
+compr 1303817
 our:
 real	0m0.023s
 compr 1048577
@@ -5683,17 +5683,8 @@ compr 1048577
 Size 4194304
 
 gzip:
-real	0m0.489s
-compr 1226379
-our:
-real	0m0.028s
-compr 1048577
-
-Size 4194304
-
-gzip:
-real	0m0.403s
-compr 1226384
+real	0m0.413s
+compr 1303925
 our:
 real	0m0.023s
 compr 1048577
@@ -5701,8 +5692,8 @@ compr 1048577
 Size 4194304
 
 gzip:
-real	0m0.403s
-compr 1226384
+real	0m0.417s
+compr 1303925
 our:
 real	0m0.023s
 compr 1048577
@@ -5710,8 +5701,8 @@ compr 1048577
 Size 4194304
 
 gzip:
-real	0m0.403s
-compr 1226463
+real	0m0.409s
+compr 1304030
 our:
 real	0m0.023s
 compr 1048577
@@ -5719,80 +5710,17 @@ compr 1048577
 Size 4194304
 
 gzip:
-real	0m0.403s
-compr 1226463
+real	0m0.410s
+compr 1304030
 our:
 real	0m0.023s
-compr 1048577
-
-Size 4194304
-
-gzip:
-real	0m0.403s
-compr 1225777
-our:
-real	0m0.023s
-compr 1048577
-
-Size 4194304
-
-gzip:
-real	0m0.403s
-compr 1225777
-our:
-real	0m0.023s
-compr 1048577
-
-Size 4194304
-
-gzip:
-real	0m0.405s
-compr 1226270
-our:
-real	0m0.023s
-compr 1048577
-
-Size 4194304
-
-gzip:
-real	0m0.419s
-compr 1226270
-our:
-real	0m0.037s
-compr 1048577
-
-Size 4194304
-
-gzip:
-real	0m0.602s
-compr 1226345
-our:
-real	0m0.031s
-compr 1048577
-
-Size 4194304
-
-gzip:
-real	0m0.560s
-compr 1226345
-our:
-real	0m0.034s
-compr 1048577
-
-Size 4194304
-
-gzip:
-real	0m0.421s
-compr 1226437
-our:
-real	0m0.025s
 compr 1048577
 
 Size 4194304
 
 gzip:
 real	0m0.411s
-compr 1226172
+compr 1303799
 our:
 real	0m0.023s
 compr 1048577
@@ -5800,8 +5728,8 @@ compr 1048577
 Size 4194304
 
 gzip:
-real	0m0.407s
-compr 1226172
+real	0m0.409s
+compr 1303799
 our:
 real	0m0.023s
 compr 1048577
@@ -5809,8 +5737,8 @@ compr 1048577
 Size 4194304
 
 gzip:
-real	0m0.407s
-compr 1226166
+real	0m0.410s
+compr 1303806
 our:
 real	0m0.023s
 compr 1048577
@@ -5818,44 +5746,8 @@ compr 1048577
 Size 4194304
 
 gzip:
-real	0m0.509s
-compr 1226458
-our:
-real	0m0.033s
-compr 1048577
-
-Size 4194304
-
-gzip:
-real	0m0.551s
-compr 1226254
-our:
-real	0m0.051s
-compr 1048577
-
-Size 4194304
-
-gzip:
-real	0m0.465s
-compr 1226254
-our:
-real	0m0.032s
-compr 1048577
-
-Size 4194304
-
-gzip:
-real	0m0.548s
-compr 1226287
-our:
-real	0m0.027s
-compr 1048577
-
-Size 4194304
-
-gzip:
-real	0m0.443s
-compr 1226287
+real	0m0.409s
+compr 1303806
 our:
 real	0m0.023s
 compr 1048577
@@ -5863,8 +5755,8 @@ compr 1048577
 Size 4194304
 
 gzip:
-real	0m0.404s
-compr 1226329
+real	0m0.411s
+compr 1303881
 our:
 real	0m0.023s
 compr 1048577
@@ -5872,8 +5764,8 @@ compr 1048577
 Size 4194304
 
 gzip:
-real	0m0.420s
-compr 1226329
+real	0m0.409s
+compr 1303881
 our:
 real	0m0.023s
 compr 1048577
@@ -5881,8 +5773,8 @@ compr 1048577
 Size 4194304
 
 gzip:
-real	0m0.527s
-compr 1226128
+real	0m0.410s
+compr 1303838
 our:
 real	0m0.023s
 compr 1048577
@@ -5890,8 +5782,8 @@ compr 1048577
 Size 4194304
 
 gzip:
-real	0m0.463s
-compr 1226227
+real	0m0.411s
+compr 1303838
 our:
 real	0m0.023s
 compr 1048577
@@ -5899,8 +5791,8 @@ compr 1048577
 Size 4194304
 
 gzip:
-real	0m0.423s
-compr 1226227
+real	0m0.409s
+compr 1303606
 our:
 real	0m0.023s
 compr 1048577
@@ -5908,8 +5800,8 @@ compr 1048577
 Size 4194304
 
 gzip:
-real	0m0.407s
-compr 1225957
+real	0m0.411s
+compr 1303606
 our:
 real	0m0.023s
 compr 1048577
@@ -5917,8 +5809,8 @@ compr 1048577
 Size 4194304
 
 gzip:
-real	0m0.406s
-compr 1225957
+real	0m0.410s
+compr 1303854
 our:
 real	0m0.023s
 compr 1048577
@@ -5926,17 +5818,125 @@ compr 1048577
 Size 4194304
 
 gzip:
-real	0m0.407s
-compr 1226263
+real	0m0.411s
+compr 1303854
 our:
-real	0m0.024s
+real	0m0.023s
 compr 1048577
 
 Size 4194304
 
 gzip:
-real	0m0.407s
-compr 1226263
+real	0m0.410s
+compr 1303485
+our:
+real	0m0.023s
+compr 1048577
+
+Size 4194304
+
+gzip:
+real	0m0.410s
+compr 1303485
+our:
+real	0m0.023s
+compr 1048577
+
+Size 4194304
+
+gzip:
+real	0m0.409s
+compr 1303825
+our:
+real	0m0.023s
+compr 1048577
+
+Size 4194304
+
+gzip:
+real	0m0.409s
+compr 1303825
+our:
+real	0m0.023s
+compr 1048577
+
+Size 4194304
+
+gzip:
+real	0m0.410s
+compr 1303737
+our:
+real	0m0.023s
+compr 1048577
+
+Size 4194304
+
+gzip:
+real	0m0.410s
+compr 1303737
+our:
+real	0m0.023s
+compr 1048577
+
+Size 4194304
+
+gzip:
+real	0m0.409s
+compr 1303936
+our:
+real	0m0.023s
+compr 1048577
+
+Size 4194304
+
+gzip:
+real	0m0.409s
+compr 1303936
+our:
+real	0m0.023s
+compr 1048577
+
+Size 4194304
+
+gzip:
+real	0m0.410s
+compr 1303950
+our:
+real	0m0.023s
+compr 1048577
+
+Size 4194304
+
+gzip:
+real	0m0.415s
+compr 1303950
+our:
+real	0m0.023s
+compr 1048577
+
+Size 4194304
+
+gzip:
+real	0m0.411s
+compr 1304034
+our:
+real	0m0.023s
+compr 1048577
+
+Size 4194304
+
+gzip:
+real	0m0.412s
+compr 1304034
+our:
+real	0m0.023s
+compr 1048577
+
+Size 4194304
+
+gzip:
+real	0m0.411s
+compr 1303674
 our:
 real	0m0.023s
 compr 1048577
@@ -5944,8 +5944,8 @@ compr 1048577
 Size 8388608
 
 gzip:
-real	0m0.813s
-compr 2452066
+real	0m0.816s
+compr 2606527
 our:
 real	0m0.045s
 compr 2097153
@@ -5953,8 +5953,8 @@ compr 2097153
 Size 8388608
 
 gzip:
-real	0m0.810s
-compr 2451776
+real	0m0.820s
+compr 2607131
 our:
 real	0m0.045s
 compr 2097153
@@ -5962,8 +5962,8 @@ compr 2097153
 Size 8388608
 
 gzip:
-real	0m0.931s
-compr 2452059
+real	0m0.824s
+compr 2606407
 our:
 real	0m0.045s
 compr 2097153
@@ -5971,170 +5971,17 @@ compr 2097153
 Size 8388608
 
 gzip:
-real	0m0.806s
-compr 2451804
+real	0m0.819s
+compr 2606877
 our:
 real	0m0.045s
-compr 2097153
-
-Size 8388608
-
-gzip:
-real	0m0.814s
-compr 2451594
-our:
-real	0m0.045s
-compr 2097153
-
-Size 8388608
-
-gzip:
-real	0m0.812s
-compr 2451799
-our:
-real	0m0.048s
-compr 2097153
-
-Size 8388608
-
-gzip:
-real	0m0.823s
-compr 2452287
-our:
-real	0m0.069s
-compr 2097153
-
-Size 8388608
-
-gzip:
-real	0m0.834s
-compr 2452206
-our:
-real	0m0.045s
-compr 2097153
-
-Size 8388608
-
-gzip:
-real	0m0.848s
-compr 2452078
-our:
-real	0m0.047s
-compr 2097153
-
-Size 8388608
-
-gzip:
-real	0m0.803s
-compr 2451569
-our:
-real	0m0.045s
-compr 2097153
-
-Size 8388608
-
-gzip:
-real	0m0.810s
-compr 2451591
-our:
-real	0m0.048s
-compr 2097153
-
-Size 8388608
-
-gzip:
-real	0m0.810s
-compr 2452069
-our:
-real	0m0.045s
-compr 2097153
-
-Size 8388608
-
-gzip:
-real	0m0.805s
-compr 2451930
-our:
-real	0m0.047s
-compr 2097153
-
-Size 8388608
-
-gzip:
-real	0m0.804s
-compr 2451643
-our:
-real	0m0.045s
-compr 2097153
-
-Size 8388608
-
-gzip:
-real	0m0.808s
-compr 2451676
-our:
-real	0m0.045s
-compr 2097153
-
-Size 8388608
-
-gzip:
-real	0m0.815s
-compr 2451561
-our:
-real	0m0.045s
-compr 2097153
-
-Size 8388608
-
-gzip:
-real	0m0.804s
-compr 2451874
-our:
-real	0m0.045s
-compr 2097153
-
-Size 8388608
-
-gzip:
-real	0m0.808s
-compr 2452058
-our:
-real	0m0.049s
 compr 2097153
 
 Size 8388608
 
 gzip:
 real	0m0.818s
-compr 2451592
-our:
-real	0m0.061s
-compr 2097153
-
-Size 8388608
-
-gzip:
-real	0m0.856s
-compr 2452065
-our:
-real	0m0.061s
-compr 2097153
-
-Size 8388608
-
-gzip:
-real	0m1.061s
-compr 2452098
-our:
-real	0m0.113s
-compr 2097153
-
-Size 8388608
-
-gzip:
-real	0m0.899s
-compr 2451786
+compr 2606901
 our:
 real	0m0.045s
 compr 2097153
@@ -6142,8 +5989,8 @@ compr 2097153
 Size 8388608
 
 gzip:
-real	0m0.805s
-compr 2451786
+real	0m0.817s
+compr 2607240
 our:
 real	0m0.045s
 compr 2097153
@@ -6151,8 +5998,8 @@ compr 2097153
 Size 8388608
 
 gzip:
-real	0m0.833s
-compr 2451385
+real	0m0.819s
+compr 2606824
 our:
 real	0m0.045s
 compr 2097153
@@ -6160,26 +6007,116 @@ compr 2097153
 Size 8388608
 
 gzip:
-real	0m0.860s
-compr 2451920
+real	0m0.817s
+compr 2606485
 our:
-real	0m0.054s
+real	0m0.045s
 compr 2097153
 
 Size 8388608
 
 gzip:
-real	0m1.098s
-compr 2451444
+real	0m0.817s
+compr 2606653
 our:
-real	0m0.062s
+real	0m0.045s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.819s
+compr 2607090
+our:
+real	0m0.045s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.819s
+compr 2606615
+our:
+real	0m0.045s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.816s
+compr 2607248
+our:
+real	0m0.045s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.819s
+compr 2606687
+our:
+real	0m0.045s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.825s
+compr 2606702
+our:
+real	0m0.045s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.821s
+compr 2607043
+our:
+real	0m0.045s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.818s
+compr 2607409
+our:
+real	0m0.045s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.816s
+compr 2606590
+our:
+real	0m0.045s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.817s
+compr 2606588
+our:
+real	0m0.045s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.819s
+compr 2607264
+our:
+real	0m0.045s
 compr 2097153
 
 Size 8388608
 
 gzip:
 real	0m0.823s
-compr 2452301
+compr 2607136
 our:
 real	0m0.045s
 compr 2097153
@@ -6187,8 +6124,8 @@ compr 2097153
 Size 8388608
 
 gzip:
-real	0m0.805s
-compr 2452139
+real	0m0.816s
+compr 2606863
 our:
 real	0m0.045s
 compr 2097153
@@ -6196,62 +6133,116 @@ compr 2097153
 Size 8388608
 
 gzip:
-real	0m0.949s
-compr 2452109
+real	0m0.817s
+compr 2606927
 our:
-real	0m0.046s
+real	0m0.045s
 compr 2097153
 
 Size 8388608
 
 gzip:
-real	0m0.941s
-compr 2451917
+real	0m0.817s
+compr 2607423
 our:
-real	0m0.050s
+real	0m0.045s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.820s
+compr 2607216
+our:
+real	0m0.045s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.816s
+compr 2607393
+our:
+real	0m0.045s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.820s
+compr 2606676
+our:
+real	0m0.045s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.816s
+compr 2606815
+our:
+real	0m0.045s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.816s
+compr 2607036
+our:
+real	0m0.045s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.821s
+compr 2606662
+our:
+real	0m0.045s
+compr 2097153
+
+Size 8388608
+
+gzip:
+real	0m0.822s
+compr 2607095
+our:
+real	0m0.045s
 compr 2097153
 
 Size 16777216
 
 gzip:
-real	0m1.881s
-compr 4903587
+real	0m1.636s
+compr 5213727
 our:
-real	0m0.144s
+real	0m0.089s
 compr 4194305
 
 Size 16777216
 
 gzip:
-real	0m1.630s
-compr 4903257
+real	0m1.636s
+compr 5213616
 our:
-real	0m0.090s
+real	0m0.089s
 compr 4194305
 
 Size 16777216
 
 gzip:
-real	0m1.623s
-compr 4903086
+real	0m1.636s
+compr 5213225
 our:
-real	0m0.090s
+real	0m0.089s
 compr 4194305
 
 Size 16777216
 
 gzip:
-real	0m1.607s
-compr 4903760
-our:
-real	0m0.090s
-compr 4194305
-
-Size 16777216
-
-gzip:
-real	0m1.605s
-compr 4903647
+real	0m1.631s
+compr 5213509
 our:
 real	0m0.090s
 compr 4194305
@@ -6259,8 +6250,35 @@ compr 4194305
 Size 16777216
 
 gzip:
-real	0m1.609s
-compr 4903383
+real	0m1.664s
+compr 5212988
+our:
+real	0m0.089s
+compr 4194305
+
+Size 16777216
+
+gzip:
+real	0m1.658s
+compr 5213408
+our:
+real	0m0.089s
+compr 4194305
+
+Size 16777216
+
+gzip:
+real	0m1.641s
+compr 5213111
+our:
+real	0m0.089s
+compr 4194305
+
+Size 16777216
+
+gzip:
+real	0m1.664s
+compr 5212863
 our:
 real	0m0.090s
 compr 4194305
@@ -6268,8 +6286,8 @@ compr 4194305
 Size 16777216
 
 gzip:
-real	0m1.693s
-compr 4903212
+real	0m1.661s
+compr 5212975
 our:
 real	0m0.090s
 compr 4194305
@@ -6277,53 +6295,44 @@ compr 4194305
 Size 16777216
 
 gzip:
-real	0m1.857s
-compr 4903093
+real	0m1.643s
+compr 5212554
 our:
-real	0m0.096s
+real	0m0.089s
 compr 4194305
 
 Size 16777216
 
 gzip:
-real	0m1.609s
-compr 4902986
+real	0m1.645s
+compr 5212820
 our:
-real	0m0.091s
+real	0m0.089s
 compr 4194305
 
 Size 16777216
 
 gzip:
-real	0m1.609s
-compr 4903132
+real	0m1.645s
+compr 5212448
 our:
-real	0m0.091s
+real	0m0.089s
 compr 4194305
 
 Size 16777216
 
 gzip:
-real	0m1.849s
-compr 4903396
+real	0m1.657s
+compr 5213181
 our:
-real	0m0.102s
+real	0m0.089s
 compr 4194305
 
 Size 16777216
 
 gzip:
-real	0m1.853s
-compr 4903049
-our:
-real	0m0.091s
-compr 4194305
-
-Size 16777216
-
-gzip:
-real	0m1.619s
-compr 4903064
+real	0m1.632s
+compr 5213534
 our:
 real	0m0.090s
 compr 4194305
@@ -6331,44 +6340,35 @@ compr 4194305
 Size 16777216
 
 gzip:
-real	0m1.613s
-compr 4903248
+real	0m1.647s
+compr 5213678
 our:
-real	0m0.091s
+real	0m0.089s
 compr 4194305
 
 Size 16777216
 
 gzip:
-real	0m1.710s
-compr 4903157
+real	0m1.650s
+compr 5213026
 our:
-real	0m0.090s
+real	0m0.089s
 compr 4194305
 
 Size 16777216
 
 gzip:
-real	0m1.676s
-compr 4902719
+real	0m1.651s
+compr 5213451
 our:
-real	0m0.135s
+real	0m0.089s
 compr 4194305
 
 Size 16777216
 
 gzip:
-real	0m1.620s
-compr 4902784
-our:
-real	0m0.090s
-compr 4194305
-
-Size 16777216
-
-gzip:
-real	0m1.611s
-compr 4903209
+real	0m1.656s
+compr 5213174
 our:
 real	0m0.090s
 compr 4194305
@@ -6376,8 +6376,44 @@ compr 4194305
 Size 16777216
 
 gzip:
-real	0m1.623s
-compr 4902856
+real	0m1.654s
+compr 5213556
+our:
+real	0m0.089s
+compr 4194305
+
+Size 16777216
+
+gzip:
+real	0m1.649s
+compr 5214149
+our:
+real	0m0.089s
+compr 4194305
+
+Size 16777216
+
+gzip:
+real	0m1.655s
+compr 5213142
+our:
+real	0m0.089s
+compr 4194305
+
+Size 16777216
+
+gzip:
+real	0m1.643s
+compr 5212234
+our:
+real	0m0.095s
+compr 4194305
+
+Size 16777216
+
+gzip:
+real	0m1.663s
+compr 5213526
 our:
 real	0m0.090s
 compr 4194305
@@ -6385,44 +6421,35 @@ compr 4194305
 Size 16777216
 
 gzip:
-real	0m1.615s
-compr 4903419
+real	0m1.636s
+compr 5212798
 our:
-real	0m0.091s
+real	0m0.089s
 compr 4194305
 
 Size 16777216
 
 gzip:
-real	0m1.610s
-compr 4903010
+real	0m1.644s
+compr 5213008
 our:
-real	0m0.090s
+real	0m0.089s
 compr 4194305
 
 Size 16777216
 
 gzip:
-real	0m1.610s
-compr 4903511
+real	0m1.650s
+compr 5213197
 our:
-real	0m0.090s
+real	0m0.089s
 compr 4194305
 
 Size 16777216
 
 gzip:
-real	0m1.607s
-compr 4902809
-our:
-real	0m0.090s
-compr 4194305
-
-Size 16777216
-
-gzip:
-real	0m1.610s
-compr 4902156
+real	0m1.641s
+compr 5213160
 our:
 real	0m0.090s
 compr 4194305
@@ -6430,8 +6457,8 @@ compr 4194305
 Size 16777216
 
 gzip:
-real	0m1.609s
-compr 4903262
+real	0m1.663s
+compr 5213521
 our:
 real	0m0.090s
 compr 4194305
@@ -6439,44 +6466,17 @@ compr 4194305
 Size 16777216
 
 gzip:
-real	0m1.605s
-compr 4903015
+real	0m1.668s
+compr 5212942
 our:
-real	0m0.090s
+real	0m0.089s
 compr 4194305
 
 Size 16777216
 
 gzip:
-real	0m1.697s
-compr 4903320
-our:
-real	0m0.108s
-compr 4194305
-
-Size 16777216
-
-gzip:
-real	0m1.612s
-compr 4903899
-our:
-real	0m0.092s
-compr 4194305
-
-Size 16777216
-
-gzip:
-real	0m1.610s
-compr 4903146
-our:
-real	0m0.090s
-compr 4194305
-
-Size 16777216
-
-gzip:
-real	0m1.619s
-compr 4903374
+real	0m1.728s
+compr 5213679
 our:
 real	0m0.090s
 compr 4194305
@@ -6484,98 +6484,17 @@ compr 4194305
 Size 33554432
 
 gzip:
-real	0m3.217s
-compr 9805121
+real	0m3.812s
+compr 10426469
 our:
-real	0m0.179s
+real	0m0.185s
 compr 8388609
 
 Size 33554432
 
 gzip:
-real	0m3.224s
-compr 9805285
-our:
-real	0m0.179s
-compr 8388609
-
-Size 33554432
-
-gzip:
-real	0m3.224s
-compr 9806013
-our:
-real	0m0.183s
-compr 8388609
-
-Size 33554432
-
-gzip:
-real	0m3.213s
-compr 9806098
-our:
-real	0m0.180s
-compr 8388609
-
-Size 33554432
-
-gzip:
-real	0m3.224s
-compr 9805299
-our:
-real	0m0.179s
-compr 8388609
-
-Size 33554432
-
-gzip:
-real	0m3.230s
-compr 9805250
-our:
-real	0m0.184s
-compr 8388609
-
-Size 33554432
-
-gzip:
-real	0m3.220s
-compr 9805891
-our:
-real	0m0.180s
-compr 8388609
-
-Size 33554432
-
-gzip:
-real	0m3.561s
-compr 9806643
-our:
-real	0m0.182s
-compr 8388609
-
-Size 33554432
-
-gzip:
-real	0m3.243s
-compr 9806063
-our:
-real	0m0.179s
-compr 8388609
-
-Size 33554432
-
-gzip:
-real	0m3.228s
-compr 9806225
-our:
-real	0m0.180s
-compr 8388609
-
-Size 33554432
-
-gzip:
-real	0m3.223s
-compr 9805314
+real	0m3.706s
+compr 10425372
 our:
 real	0m0.181s
 compr 8388609
@@ -6583,125 +6502,26 @@ compr 8388609
 Size 33554432
 
 gzip:
-real	0m3.227s
-compr 9805304
+real	0m3.390s
+compr 10425474
 our:
-real	0m0.179s
+real	0m0.185s
 compr 8388609
 
 Size 33554432
 
 gzip:
-real	0m3.231s
-compr 9806493
+real	0m3.746s
+compr 10425800
 our:
-real	0m0.181s
+real	0m0.191s
 compr 8388609
 
 Size 33554432
 
 gzip:
-real	0m3.223s
-compr 9806538
-our:
-real	0m0.180s
-compr 8388609
-
-Size 33554432
-
-gzip:
-real	0m3.232s
-compr 9805539
-our:
-real	0m0.184s
-compr 8388609
-
-Size 33554432
-
-gzip:
-real	0m3.227s
-compr 9805979
-our:
-real	0m0.182s
-compr 8388609
-
-Size 33554432
-
-gzip:
-real	0m3.226s
-compr 9806096
-our:
-real	0m0.180s
-compr 8388609
-
-Size 33554432
-
-gzip:
-real	0m3.233s
-compr 9805729
-our:
-real	0m0.183s
-compr 8388609
-
-Size 33554432
-
-gzip:
-real	0m3.223s
-compr 9806565
-our:
-real	0m0.181s
-compr 8388609
-
-Size 33554432
-
-gzip:
-real	0m3.220s
-compr 9805293
-our:
-real	0m0.181s
-compr 8388609
-
-Size 33554432
-
-gzip:
-real	0m3.228s
-compr 9805698
-our:
-real	0m0.183s
-compr 8388609
-
-Size 33554432
-
-gzip:
-real	0m3.219s
-compr 9805634
-our:
-real	0m0.179s
-compr 8388609
-
-Size 33554432
-
-gzip:
-real	0m3.214s
-compr 9805475
-our:
-real	0m0.184s
-compr 8388609
-
-Size 33554432
-
-gzip:
-real	0m3.216s
-compr 9805158
-our:
-real	0m0.179s
-compr 8388609
-
-Size 33554432
-
-gzip:
-real	0m3.257s
-compr 9806211
+real	0m3.798s
+compr 10425330
 our:
 real	0m0.186s
 compr 8388609
@@ -6709,8 +6529,8 @@ compr 8388609
 Size 33554432
 
 gzip:
-real	0m3.258s
-compr 9805893
+real	0m3.380s
+compr 10425373
 our:
 real	0m0.185s
 compr 8388609
@@ -6718,26 +6538,89 @@ compr 8388609
 Size 33554432
 
 gzip:
-real	0m3.256s
-compr 9807103
+real	0m3.397s
+compr 10425583
 our:
-real	0m0.182s
+real	0m0.186s
 compr 8388609
 
 Size 33554432
 
 gzip:
-real	0m3.246s
-compr 9805349
+real	0m3.378s
+compr 10425597
 our:
-real	0m0.182s
+real	0m0.179s
 compr 8388609
 
 Size 33554432
 
 gzip:
-real	0m3.252s
-compr 9805381
+real	0m3.372s
+compr 10426017
+our:
+real	0m0.179s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.375s
+compr 10425453
+our:
+real	0m0.180s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.389s
+compr 10425533
+our:
+real	0m0.186s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.373s
+compr 10426089
+our:
+real	0m0.190s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.374s
+compr 10425625
+our:
+real	0m0.184s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.373s
+compr 10425240
+our:
+real	0m0.184s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.397s
+compr 10425766
+our:
+real	0m0.180s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.384s
+compr 10426008
 our:
 real	0m0.185s
 compr 8388609
@@ -6745,35 +6628,143 @@ compr 8388609
 Size 33554432
 
 gzip:
-real	0m3.284s
-compr 9804858
+real	0m3.362s
+compr 10425848
 our:
-real	0m0.182s
+real	0m0.188s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.412s
+compr 10425062
+our:
+real	0m0.187s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.370s
+compr 10424686
+our:
+real	0m0.212s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.368s
+compr 10425441
+our:
+real	0m0.179s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.383s
+compr 10426290
+our:
+real	0m0.183s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.404s
+compr 10426337
+our:
+real	0m0.187s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.377s
+compr 10425594
+our:
+real	0m0.187s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.367s
+compr 10425936
+our:
+real	0m0.184s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.393s
+compr 10425644
+our:
+real	0m0.190s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.384s
+compr 10425031
+our:
+real	0m0.180s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.394s
+compr 10426827
+our:
+real	0m0.185s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.377s
+compr 10426361
+our:
+real	0m0.188s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.388s
+compr 10426098
+our:
+real	0m0.192s
+compr 8388609
+
+Size 33554432
+
+gzip:
+real	0m3.365s
+compr 10426066
+our:
+real	0m0.184s
 compr 8388609
 
 Size 67108864
 
 gzip:
-real	0m6.476s
-compr 19610374
+real	0m6.737s
+compr 20851750
 our:
-real	0m0.358s
+real	0m0.362s
 compr 16777217
 
 Size 67108864
 
 gzip:
-real	0m6.487s
-compr 19610987
-our:
-real	0m0.360s
-compr 16777217
-
-Size 67108864
-
-gzip:
-real	0m6.485s
-compr 19611332
+real	0m6.757s
+compr 20851278
 our:
 real	0m0.367s
 compr 16777217
@@ -6781,188 +6772,8 @@ compr 16777217
 Size 67108864
 
 gzip:
-real	0m7.018s
-compr 19609461
-our:
-real	0m0.403s
-compr 16777217
-
-Size 67108864
-
-gzip:
-real	0m6.608s
-compr 19611287
-our:
-real	0m0.372s
-compr 16777217
-
-Size 67108864
-
-gzip:
-real	0m7.476s
-compr 19609785
-our:
-real	0m0.358s
-compr 16777217
-
-Size 67108864
-
-gzip:
-real	0m7.745s
-compr 19610326
-our:
-real	0m0.381s
-compr 16777217
-
-Size 67108864
-
-gzip:
-real	0m6.639s
-compr 19609901
-our:
-real	0m0.359s
-compr 16777217
-
-Size 67108864
-
-gzip:
-real	0m6.821s
-compr 19612523
-our:
-real	0m0.371s
-compr 16777217
-
-Size 67108864
-
-gzip:
-real	0m6.446s
-compr 19611244
-our:
-real	0m0.361s
-compr 16777217
-
-Size 67108864
-
-gzip:
-real	0m6.553s
-compr 19611092
-our:
-real	0m0.369s
-compr 16777217
-
-Size 67108864
-
-gzip:
-real	0m6.658s
-compr 19611438
-our:
-real	0m0.450s
-compr 16777217
-
-Size 67108864
-
-gzip:
-real	0m6.849s
-compr 19611501
-our:
-real	0m0.454s
-compr 16777217
-
-Size 67108864
-
-gzip:
-real	0m6.989s
-compr 19610465
-our:
-real	0m0.364s
-compr 16777217
-
-Size 67108864
-
-gzip:
-real	0m6.895s
-compr 19610672
-our:
-real	0m0.405s
-compr 16777217
-
-Size 67108864
-
-gzip:
-real	0m6.433s
-compr 19611262
-our:
-real	0m0.364s
-compr 16777217
-
-Size 67108864
-
-gzip:
-real	0m6.568s
-compr 19611383
-our:
-real	0m0.364s
-compr 16777217
-
-Size 67108864
-
-gzip:
-real	0m6.471s
-compr 19610054
-our:
-real	0m0.358s
-compr 16777217
-
-Size 67108864
-
-gzip:
-real	0m6.732s
-compr 19611007
-our:
-real	0m0.359s
-compr 16777217
-
-Size 67108864
-
-gzip:
-real	0m6.448s
-compr 19610139
-our:
-real	0m0.368s
-compr 16777217
-
-Size 67108864
-
-gzip:
-real	0m7.069s
-compr 19611176
-our:
-real	0m0.364s
-compr 16777217
-
-Size 67108864
-
-gzip:
-real	0m6.426s
-compr 19611130
-our:
-real	0m0.358s
-compr 16777217
-
-Size 67108864
-
-gzip:
-real	0m6.557s
-compr 19611148
-our:
-real	0m0.360s
-compr 16777217
-
-Size 67108864
-
-gzip:
-real	0m6.442s
-compr 19612199
+real	0m6.737s
+compr 20850154
 our:
 real	0m0.370s
 compr 16777217
@@ -6970,8 +6781,98 @@ compr 16777217
 Size 67108864
 
 gzip:
-real	0m6.434s
-compr 19610032
+real	0m6.917s
+compr 20850436
+our:
+real	0m0.396s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m7.255s
+compr 20850098
+our:
+real	0m0.402s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m7.007s
+compr 20851173
+our:
+real	0m0.367s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m7.354s
+compr 20851335
+our:
+real	0m0.357s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m6.798s
+compr 20849833
+our:
+real	0m0.390s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m7.047s
+compr 20851514
+our:
+real	0m0.469s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m7.034s
+compr 20849461
+our:
+real	0m0.371s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m6.751s
+compr 20851177
+our:
+real	0m0.364s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m7.651s
+compr 20849561
+our:
+real	0m0.368s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m8.447s
+compr 20851552
+our:
+real	0m0.364s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m6.652s
+compr 20851516
 our:
 real	0m0.360s
 compr 16777217
@@ -6979,125 +6880,215 @@ compr 16777217
 Size 67108864
 
 gzip:
-real	0m6.547s
-compr 19610227
+real	0m6.660s
+compr 20852350
 our:
-real	0m0.358s
+real	0m0.360s
 compr 16777217
 
 Size 67108864
 
 gzip:
-real	0m6.450s
-compr 19610664
+real	0m6.662s
+compr 20851590
 our:
-real	0m0.361s
+real	0m0.366s
 compr 16777217
 
 Size 67108864
 
 gzip:
-real	0m6.478s
-compr 19610607
+real	0m6.618s
+compr 20850151
 our:
-real	0m0.474s
+real	0m0.363s
 compr 16777217
 
 Size 67108864
 
 gzip:
-real	0m6.477s
-compr 19609256
+real	0m7.123s
+compr 20851258
 our:
-real	0m0.359s
+real	0m0.376s
 compr 16777217
 
 Size 67108864
 
 gzip:
-real	0m6.557s
-compr 19610853
+real	0m6.887s
+compr 20850613
 our:
-real	0m0.365s
+real	0m0.420s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m7.465s
+compr 20849894
+our:
+real	0m0.436s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m6.831s
+compr 20850324
+our:
+real	0m0.369s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m7.602s
+compr 20851145
+our:
+real	0m0.543s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m7.618s
+compr 20850811
+our:
+real	0m0.416s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m7.553s
+compr 20849937
+our:
+real	0m0.536s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m8.461s
+compr 20850376
+our:
+real	0m0.400s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m7.938s
+compr 20851197
+our:
+real	0m0.423s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m7.230s
+compr 20850753
+our:
+real	0m0.401s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m7.069s
+compr 20850402
+our:
+real	0m0.411s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m6.917s
+compr 20851296
+our:
+real	0m0.421s
+compr 16777217
+
+Size 67108864
+
+gzip:
+real	0m7.129s
+compr 20851278
+our:
+real	0m0.449s
 compr 16777217
 
 Size 134217728
 
 gzip:
-real	0m12.915s
-compr 39222936
+real	0m14.650s
+compr 41700436
 our:
-real	0m0.716s
+real	0m0.751s
 compr 33554433
 
 Size 134217728
 
 gzip:
-real	0m13.030s
-compr 39220434
+real	0m14.131s
+compr 41699619
 our:
-real	0m0.734s
+real	0m0.751s
 compr 33554433
 
 Size 134217728
 
 gzip:
-real	0m13.286s
-compr 39219990
+real	0m14.851s
+compr 41702928
 our:
-real	0m0.739s
+real	0m0.795s
 compr 33554433
 
 Size 134217728
 
 gzip:
-real	0m12.977s
-compr 39220515
+real	0m14.299s
+compr 41699234
 our:
-real	0m0.721s
+real	0m0.891s
 compr 33554433
 
 Size 134217728
 
 gzip:
-real	0m12.879s
-compr 39221607
+real	0m14.194s
+compr 41700231
 our:
-real	0m0.722s
+real	0m0.843s
 compr 33554433
 
 Size 134217728
 
 gzip:
-real	0m13.143s
-compr 39220658
+real	0m14.423s
+compr 41700537
 our:
-real	0m0.715s
+real	0m0.736s
 compr 33554433
 
 Size 134217728
 
 gzip:
-real	0m13.002s
-compr 39220774
+real	0m13.598s
+compr 41701013
 our:
-real	0m0.731s
+real	0m0.740s
 compr 33554433
 
 Size 134217728
 
 gzip:
-real	0m12.973s
-compr 39221323
-our:
-real	0m0.728s
-compr 33554433
-
-Size 134217728
-
-gzip:
-real	0m13.051s
-compr 39220679
+real	0m13.584s
+compr 41699959
 our:
 real	0m0.735s
 compr 33554433
@@ -7105,80 +7096,107 @@ compr 33554433
 Size 134217728
 
 gzip:
-real	0m13.087s
-compr 39221319
+real	0m13.746s
+compr 41700621
 our:
-real	0m0.740s
+real	0m0.750s
 compr 33554433
 
 Size 134217728
 
 gzip:
-real	0m13.196s
-compr 39221244
+real	0m14.213s
+compr 41698254
 our:
-real	0m0.726s
+real	0m0.781s
 compr 33554433
 
 Size 134217728
 
 gzip:
-real	0m13.017s
-compr 39221092
+real	0m13.961s
+compr 41701358
 our:
-real	0m0.780s
+real	0m0.824s
 compr 33554433
 
 Size 134217728
 
 gzip:
-real	0m12.927s
-compr 39220647
+real	0m13.523s
+compr 41699119
 our:
-real	0m0.732s
+real	0m0.727s
 compr 33554433
 
 Size 134217728
 
 gzip:
-real	0m13.003s
-compr 39224776
+real	0m14.570s
+compr 41700996
 our:
-real	0m0.746s
+real	0m0.818s
 compr 33554433
 
 Size 134217728
 
 gzip:
-real	0m12.954s
-compr 39222344
+real	0m14.382s
+compr 41699730
 our:
-real	0m0.722s
+real	0m0.877s
 compr 33554433
 
 Size 134217728
 
 gzip:
-real	0m13.025s
-compr 39219829
+real	0m14.830s
+compr 41701049
 our:
-real	0m0.746s
+real	0m0.821s
 compr 33554433
 
 Size 134217728
 
 gzip:
-real	0m12.970s
-compr 39221177
+real	0m14.393s
+compr 41702250
 our:
-real	0m0.740s
+real	0m0.884s
 compr 33554433
 
 Size 134217728
 
 gzip:
-real	0m13.057s
-compr 39221587
+real	0m14.574s
+compr 41700333
+our:
+real	0m0.806s
+compr 33554433
+
+Size 134217728
+
+gzip:
+real	0m14.567s
+compr 41700810
+our:
+real	0m0.754s
+compr 33554433
+
+Size 134217728
+
+gzip:
+real	0m14.653s
+compr 41700191
+our:
+real	0m0.937s
+compr 33554433
+
+Size 134217728
+
+gzip:
+real	0m15.788s
+compr 41701120
 our:
 real	0m0.733s
 compr 33554433
@@ -7186,917 +7204,84 @@ compr 33554433
 Size 134217728
 
 gzip:
-real	0m13.162s
-compr 39219998
+real	0m15.556s
+compr 41699506
 our:
-real	0m0.737s
+real	0m0.740s
 compr 33554433
 
 Size 134217728
 
 gzip:
-real	0m12.919s
-compr 39221606
+real	0m14.230s
+compr 41698700
 our:
-real	0m0.731s
+real	0m0.756s
 compr 33554433
 
 Size 134217728
 
 gzip:
-real	0m12.999s
-compr 39222085
+real	0m13.595s
+compr 41700729
 our:
-real	0m0.717s
+real	0m0.756s
 compr 33554433
 
 Size 134217728
 
 gzip:
-real	0m13.018s
-compr 39221653
-our:
-real	0m0.715s
-compr 33554433
-
-Size 134217728
-
-gzip:
-real	0m13.452s
-compr 39221161
-our:
-real	0m0.796s
-compr 33554433
-
-Size 134217728
-
-gzip:
-real	0m13.622s
-compr 39221179
-our:
-real	0m0.753s
-compr 33554433
-
-Size 134217728
-
-gzip:
-real	0m15.903s
-compr 39221581
-our:
-real	0m1.036s
-compr 33554433
-
-Size 134217728
-
-gzip:
-real	0m16.319s
-compr 39220619
-our:
-real	0m0.721s
-compr 33554433
-
-Size 134217728
-
-gzip:
-real	0m13.869s
-compr 39221258
-our:
-real	0m0.726s
-compr 33554433
-
-Size 134217728
-
-gzip:
-real	0m12.885s
-compr 39222373
-our:
-real	0m0.747s
-compr 33554433
-
-Size 134217728
-
-gzip:
-real	0m13.350s
-compr 39220841
-our:
-real	0m0.760s
-compr 33554433
-
-Size 134217728
-
-gzip:
-real	0m13.358s
-compr 39221694
+real	0m13.572s
+compr 41702367
 our:
 real	0m0.751s
 compr 33554433
 
-Size 268435456
+Size 134217728
 
 gzip:
-real	0m26.235s
-compr 78441639
+real	0m13.631s
+compr 41698222
 our:
-real	0m1.441s
-compr 67108865
+real	0m0.778s
+compr 33554433
 
-Size 268435456
+Size 134217728
 
 gzip:
-real	0m26.252s
-compr 78443213
+real	0m15.259s
+compr 41699328
 our:
-real	0m1.607s
-compr 67108865
+real	0m0.809s
+compr 33554433
 
-Size 268435456
+Size 134217728
 
 gzip:
-real	0m27.061s
-compr 78442477
+real	0m15.532s
+compr 41700514
 our:
-real	0m1.511s
-compr 67108865
+real	0m0.972s
+compr 33554433
 
-Size 268435456
+Size 134217728
 
 gzip:
-real	0m26.135s
-compr 78440670
+real	0m15.099s
+compr 41700555
 our:
-real	0m1.517s
-compr 67108865
+real	0m0.738s
+compr 33554433
 
-Size 268435456
+Size 134217728
 
 gzip:
-real	0m26.286s
-compr 78439396
+real	0m13.445s
+compr 41698928
 our:
-real	0m1.427s
-compr 67108865
+real	0m0.788s
+compr 33554433
 
-Size 268435456
+Size 134217728
 
 gzip:
-real	0m25.826s
-compr 78441750
-our:
-real	0m1.458s
-compr 67108865
-
-Size 268435456
-
-gzip:
-real	0m25.937s
-compr 78440350
-our:
-real	0m1.442s
-compr 67108865
-
-Size 268435456
-
-gzip:
-real	0m25.891s
-compr 78441570
-our:
-real	0m1.446s
-compr 67108865
-
-Size 268435456
-
-gzip:
-real	0m26.137s
-compr 78440285
-our:
-real	0m1.457s
-compr 67108865
-
-Size 268435456
-
-gzip:
-real	0m25.929s
-compr 78441132
-our:
-real	0m1.472s
-compr 67108865
-
-Size 268435456
-
-gzip:
-real	0m26.207s
-compr 78438962
-our:
-real	0m1.463s
-compr 67108865
-
-Size 268435456
-
-gzip:
-real	0m25.911s
-compr 78442943
-our:
-real	0m1.482s
-compr 67108865
-
-Size 268435456
-
-gzip:
-real	0m26.033s
-compr 78441529
-our:
-real	0m1.487s
-compr 67108865
-
-Size 268435456
-
-gzip:
-real	0m25.962s
-compr 78441425
-our:
-real	0m1.456s
-compr 67108865
-
-Size 268435456
-
-gzip:
-real	0m26.463s
-compr 78442902
-our:
-real	0m1.493s
-compr 67108865
-
-Size 268435456
-
-gzip:
-real	0m25.860s
-compr 78439264
-our:
-real	0m1.448s
-compr 67108865
-
-Size 268435456
-
-gzip:
-real	0m25.906s
-compr 78441378
-our:
-real	0m1.449s
-compr 67108865
-
-Size 268435456
-
-gzip:
-real	0m25.968s
-compr 78440639
-our:
-real	0m1.480s
-compr 67108865
-
-Size 268435456
-
-gzip:
-real	0m26.174s
-compr 78441445
-our:
-real	0m1.457s
-compr 67108865
-
-Size 268435456
-
-gzip:
-real	0m25.921s
-compr 78443044
-our:
-real	0m1.432s
-compr 67108865
-
-Size 268435456
-
-gzip:
-real	0m25.797s
-compr 78442402
-our:
-real	0m1.450s
-compr 67108865
-
-Size 268435456
-
-gzip:
-real	0m25.795s
-compr 78442304
-our:
-real	0m1.450s
-compr 67108865
-
-Size 268435456
-
-gzip:
-real	0m25.764s
-compr 78441828
-our:
-real	0m1.535s
-compr 67108865
-
-Size 268435456
-
-gzip:
-real	0m25.809s
-compr 78442404
-our:
-real	0m1.492s
-compr 67108865
-
-Size 268435456
-
-gzip:
-real	0m29.344s
-compr 78441791
-our:
-real	0m1.779s
-compr 67108865
-
-Size 268435456
-
-gzip:
-real	0m25.812s
-compr 78440914
-our:
-real	0m1.495s
-compr 67108865
-
-Size 268435456
-
-gzip:
-real	0m25.808s
-compr 78443331
-our:
-real	0m1.535s
-compr 67108865
-
-Size 268435456
-
-gzip:
-real	0m25.841s
-compr 78442110
-our:
-real	0m1.430s
-compr 67108865
-
-Size 268435456
-
-gzip:
-real	0m25.873s
-compr 78441728
-our:
-real	0m1.469s
-compr 67108865
-
-Size 268435456
-
-gzip:
-real	0m27.166s
-compr 78443192
-our:
-real	0m1.544s
-compr 67108865
-
-Size 536870912
-
-gzip:
-real	0m54.309s
-compr 156881026
-our:
-real	0m3.132s
-compr 134217729
-
-Size 536870912
-
-gzip:
-real	0m53.220s
-compr 156881513
-our:
-real	0m2.870s
-compr 134217729
-
-Size 536870912
-
-gzip:
-real	0m52.152s
-compr 156883699
-our:
-real	0m2.923s
-compr 134217729
-
-Size 536870912
-
-gzip:
-real	0m53.952s
-compr 156881602
-our:
-real	0m3.081s
-compr 134217729
-
-Size 536870912
-
-gzip:
-real	0m52.051s
-compr 156881554
-our:
-real	0m2.890s
-compr 134217729
-
-Size 536870912
-
-gzip:
-real	0m51.355s
-compr 156883987
-our:
-real	0m2.861s
-compr 134217729
-
-Size 536870912
-
-gzip:
-real	0m51.379s
-compr 156880639
-our:
-real	0m2.861s
-compr 134217729
-
-Size 536870912
-
-gzip:
-real	0m51.295s
-compr 156882088
-our:
-real	0m2.891s
-compr 134217729
-
-Size 536870912
-
-gzip:
-real	0m51.395s
-compr 156883159
-our:
-real	0m2.887s
-compr 134217729
-
-Size 536870912
-
-gzip:
-real	0m51.402s
-compr 156880483
-our:
-real	0m2.857s
-compr 134217729
-
-Size 536870912
-
-gzip:
-real	0m51.385s
-compr 156885704
-our:
-real	0m2.860s
-compr 134217729
-
-Size 536870912
-
-gzip:
-real	0m51.450s
-compr 156884619
-our:
-real	0m2.869s
-compr 134217729
-
-Size 536870912
-
-gzip:
-real	0m51.373s
-compr 156883051
-our:
-real	0m2.861s
-compr 134217729
-
-Size 536870912
-
-gzip:
-real	0m51.382s
-compr 156882751
-our:
-real	0m2.860s
-compr 134217729
-
-Size 536870912
-
-gzip:
-real	0m51.875s
-compr 156880817
-our:
-real	0m2.864s
-compr 134217729
-
-Size 536870912
-
-gzip:
-real	0m51.799s
-compr 156881164
-our:
-real	0m2.863s
-compr 134217729
-
-Size 536870912
-
-gzip:
-real	0m51.857s
-compr 156881398
-our:
-real	0m2.857s
-compr 134217729
-
-Size 536870912
-
-gzip:
-real	0m51.833s
-compr 156877762
-our:
-real	0m2.856s
-compr 134217729
-
-Size 536870912
-
-gzip:
-real	0m53.295s
-compr 156887922
-our:
-real	0m3.064s
-compr 134217729
-
-Size 536870912
-
-gzip:
-real	0m52.900s
-compr 156883557
-our:
-real	0m2.858s
-compr 134217729
-
-Size 536870912
-
-gzip:
-real	0m51.448s
-compr 156884622
-our:
-real	0m2.863s
-compr 134217729
-
-Size 536870912
-
-gzip:
-real	0m51.404s
-compr 156884717
-our:
-real	0m2.865s
-compr 134217729
-
-Size 536870912
-
-gzip:
-real	0m51.408s
-compr 156881221
-our:
-real	0m2.863s
-compr 134217729
-
-Size 536870912
-
-gzip:
-real	0m51.378s
-compr 156883680
-our:
-real	0m2.867s
-compr 134217729
-
-Size 536870912
-
-gzip:
-real	0m52.117s
-compr 156883338
-our:
-real	0m2.859s
-compr 134217729
-
-Size 536870912
-
-gzip:
-real	0m51.402s
-compr 156880384
-our:
-real	0m2.849s
-compr 134217729
-
-Size 536870912
-
-gzip:
-real	0m51.597s
-compr 156881761
-our:
-real	0m2.865s
-compr 134217729
-
-Size 536870912
-
-gzip:
-real	0m54.753s
-compr 156883712
-our:
-real	0m2.859s
-compr 134217729
-
-Size 536870912
-
-gzip:
-real	0m59.211s
-compr 156883290
-our:
-real	0m2.902s
-compr 134217729
-
-Size 536870912
-
-gzip:
-real	0m54.330s
-compr 156885585
-our:
-real	0m2.891s
-compr 134217729
-
-Size 1073741824
-
-gzip:
-real	1m50.374s
-compr 313767898
-our:
-real	0m5.784s
-compr 268435457
-
-Size 1073741824
-
-gzip:
-real	1m45.460s
-compr 313762953
-our:
-real	0m5.771s
-compr 268435457
-
-Size 1073741824
-
-gzip:
-real	1m43.360s
-compr 313759916
-our:
-real	0m5.729s
-compr 268435457
-
-Size 1073741824
-
-gzip:
-real	1m42.711s
-compr 313764662
-our:
-real	0m5.736s
-compr 268435457
-
-Size 1073741824
-
-gzip:
-real	1m42.831s
-compr 313762973
-our:
-real	0m5.749s
-compr 268435457
-
-Size 1073741824
-
-gzip:
-real	1m42.971s
-compr 313762701
-our:
-real	0m5.874s
-compr 268435457
-
-Size 1073741824
-
-gzip:
-real	1m43.694s
-compr 313764035
-our:
-real	0m5.742s
-compr 268435457
-
-Size 1073741824
-
-gzip:
-real	1m43.499s
-compr 313761899
-our:
-real	0m5.728s
-compr 268435457
-
-Size 1073741824
-
-gzip:
-real	1m43.351s
-compr 313766295
-our:
-real	0m5.810s
-compr 268435457
-
-Size 1073741824
-
-gzip:
-real	1m43.036s
-compr 313763452
-our:
-real	0m5.728s
-compr 268435457
-
-Size 1073741824
-
-gzip:
-real	1m42.876s
-compr 313758350
-our:
-real	0m5.742s
-compr 268435457
-
-Size 1073741824
-
-gzip:
-real	1m42.999s
-compr 313770441
-our:
-real	0m5.760s
-compr 268435457
-
-Size 1073741824
-
-gzip:
-real	1m43.006s
-compr 313760324
-our:
-real	0m5.742s
-compr 268435457
-
-Size 1073741824
-
-gzip:
-real	1m43.050s
-compr 313762458
-our:
-real	0m5.737s
-compr 268435457
-
-Size 1073741824
-
-gzip:
-real	1m42.929s
-compr 313768658
-our:
-real	0m5.766s
-compr 268435457
-
-Size 1073741824
-
-gzip:
-real	1m43.003s
-compr 313763869
-our:
-real	0m5.735s
-compr 268435457
-
-Size 1073741824
-
-gzip:
-real	1m42.935s
-compr 313766909
-our:
-real	0m5.736s
-compr 268435457
-
-Size 1073741824
-
-gzip:
-real	1m43.087s
-compr 313764767
-our:
-real	0m5.734s
-compr 268435457
-
-Size 1073741824
-
-gzip:
-real	1m43.025s
-compr 313768799
-our:
-real	0m5.754s
-compr 268435457
-
-Size 1073741824
-
-gzip:
-real	1m43.022s
-compr 313763482
-our:
-real	0m5.741s
-compr 268435457
-
-Size 1073741824
-
-gzip:
-real	1m42.998s
-compr 313764646
-our:
-real	0m5.743s
-compr 268435457
-
-Size 1073741824
-
-gzip:
-real	1m43.109s
-compr 313768149
-our:
-real	0m5.738s
-compr 268435457
-
-Size 1073741824
-
-gzip:
-real	1m42.920s
-compr 313759912
-our:
-real	0m5.746s
-compr 268435457
-
-Size 1073741824
-
-gzip:
-real	1m42.972s
-compr 313767413
-our:
-real	0m5.729s
-compr 268435457
-
-Size 1073741824
-
-gzip:
-real	1m43.029s
-compr 313765211
-our:
-real	0m5.730s
-compr 268435457
-
-Size 1073741824
-
-gzip:
-real	1m42.988s
-compr 313764775
-our:
-real	0m5.725s
-compr 268435457
-
-Size 1073741824
-
-gzip:
-real	1m43.009s
-compr 313760748
-our:
-real	0m5.745s
-compr 268435457
-
-Size 1073741824
-
-gzip:
-real	1m42.977s
-compr 313767531
-our:
-real	0m5.732s
-compr 268435457
-
-Size 1073741824
-
-gzip:
-real	1m43.060s
-compr 313759769
-our:
-real	0m5.725s
-compr 268435457
-
-Size 1073741824
-
-gzip:
-real	1m43.003s
-compr 313766141
-our:
-real	0m5.727s
-compr 268435457
